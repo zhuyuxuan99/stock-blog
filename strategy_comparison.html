@@ -1202,29 +1202,6 @@
             .summary-cards {
                 grid-template-columns: 1fr 1fr;
             }
-
-            .date-tab {
-                min-width: 75px;
-            }
-
-            .stock-header {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: var(--space-md);
-            }
-
-            .stock-right {
-                width: 100%;
-                justify-content: space-between;
-            }
-
-            h1 {
-                font-size: var(--font-3xl);
-            }
-
-            .h1-icon {
-                display: none;
-            }
         }
 
         @media (max-width: 768px) {
@@ -1233,174 +1210,330 @@
             }
 
             h1 {
-                font-size: var(--font-xl);
+                font-size: 1.1rem;
+            }
+
+            .trading-days-display {
+                font-size: 0.7rem;
+            }
+
+            .realtime-status {
                 flex-wrap: wrap;
+                gap: 4px;
+                font-size: 0.65rem;
             }
 
-            h1::before,
-            h1::after {
-                display: none;
-            }
-
-            .h1-icon {
-                font-size: var(--font-xl);
-            }
-
-            .subtitle {
-                font-size: var(--font-xs);
+            .refresh-btn {
+                padding: 4px 8px;
+                font-size: 0.65rem;
             }
 
             .legend {
-                gap: var(--space-lg);
+                gap: var(--space-md);
                 padding: var(--space-sm) var(--space-md);
-                flex-wrap: wrap;
             }
 
             .legend-item {
-                font-size: 0.75rem;
-            }
-
-            .legend-desc {
-                display: none;
+                font-size: 0.7rem;
             }
 
             .summary-cards {
                 grid-template-columns: 1fr;
-                gap: var(--space-lg);
+                gap: var(--space-sm);
             }
 
-            .stats-row {
-                grid-template-columns: repeat(3, 1fr);
-                gap: var(--space-md);
+            .summary-card {
+                padding: var(--space-md);
+            }
+
+            .summary-card h3 {
+                font-size: 0.85rem;
+                margin-bottom: var(--space-sm);
+            }
+
+            .stat-label {
+                font-size: 0.65rem;
+            }
+
+            .stat-value {
+                font-size: 0.85rem;
+            }
+
+            .date-tabs-container {
+                padding: var(--space-md);
             }
 
             .date-tabs {
-                max-height: 200px;
-                overflow-y: auto;
-                padding-right: var(--space-sm);
+                flex-wrap: nowrap;
+                overflow-x: auto;
+                padding-bottom: var(--space-sm);
+                -webkit-overflow-scrolling: touch;
+            }
+
+            .date-tabs::-webkit-scrollbar {
+                height: 4px;
             }
 
             .date-tab {
-                min-width: 70px;
-                padding: var(--space-sm) var(--space-md);
-                font-size: 0.8rem;
+                min-width: 60px;
+                padding: var(--space-xs) var(--space-sm);
+                font-size: 0.65rem;
+                flex-shrink: 0;
+            }
+
+            .date-tab-date {
+                font-size: 0.7rem;
+            }
+
+            .date-tab-week {
+                font-size: 0.6rem;
+            }
+
+            .date-tab-groups {
+                font-size: 0.55rem;
             }
 
             .comparison-section {
                 padding: var(--space-md);
             }
 
+            .date-header {
+                font-size: 0.9rem;
+                padding-bottom: var(--space-md);
+                margin-bottom: var(--space-md);
+            }
+
             .strategy-header {
-                padding: var(--space-md);
+                padding: var(--space-sm) var(--space-md);
+                font-size: 0.8rem;
+            }
+
+            .strategy-date-info {
+                font-size: 0.65rem;
+            }
+
+            .trading-days-badge {
+                font-size: 0.6em;
+                padding: 1px 6px;
             }
 
             .stock-list {
-                padding: var(--space-md);
+                padding: var(--space-sm);
+                min-height: auto;
             }
 
             .stock-item {
-                padding: var(--space-md);
+                padding: var(--space-sm);
+                margin-bottom: 4px;
             }
 
             .stock-header {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: var(--space-sm);
+                gap: var(--space-xs);
             }
 
-            .stock-right {
-                width: 100%;
-                justify-content: space-between;
+            .stock-left {
+                gap: var(--space-xs);
+            }
+
+            .stock-rank {
+                font-size: 0.65rem;
+                min-width: 16px;
+            }
+
+            .stock-code {
+                font-size: 0.65rem;
+                padding: 1px 4px;
+            }
+
+            .stock-name {
+                font-size: 0.65rem;
+                max-width: 60px;
             }
 
             .stock-return {
-                flex-direction: row;
-                align-items: center;
-                gap: var(--space-sm);
+                font-size: 0.65rem;
+                gap: 2px;
+            }
+
+            .stock-return-price {
+                font-size: 0.65rem;
+            }
+
+            .stock-return-rate {
+                font-size: 0.7rem;
+            }
+
+            .stock-expand-icon {
+                font-size: 0.6rem;
+            }
+
+            .stock-detail {
+                margin-top: var(--space-sm);
+                padding-top: var(--space-sm);
+            }
+
+            .daily-table {
+                font-size: 0.65rem;
+            }
+
+            .daily-table th {
+                font-size: 0.6rem;
+                padding: var(--space-xs) var(--space-sm);
+            }
+
+            .daily-table td {
+                padding: var(--space-xs) var(--space-sm);
+            }
+
+            .common-section {
+                padding: var(--space-md);
+            }
+
+            .common-section h3 {
+                font-size: 0.85rem;
+            }
+
+            .common-stock {
+                padding: var(--space-sm);
+                flex-wrap: wrap;
+                gap: var(--space-xs);
+            }
+
+            .common-stock-code {
+                font-size: 0.75rem;
+            }
+
+            .common-stock-name {
+                font-size: 0.75rem;
+            }
+
+            .common-stock-count {
+                font-size: 0.65rem;
+            }
+
+            .strategy-tag {
+                font-size: 0.6rem;
+                padding: 1px 6px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 8px;
+            }
+
+            h1 {
+                font-size: 1rem;
+            }
+
+            .trading-days-display {
+                display: none;
+            }
+
+            .summary-card {
+                padding: var(--space-sm);
+            }
+
+            .summary-card h3 {
+                font-size: 0.8rem;
+            }
+
+            .stat-value {
+                font-size: 0.8rem;
+            }
+
+            .date-tabs-container {
+                padding: var(--space-sm);
+            }
+
+            .date-tabs {
+                gap: 4px;
+            }
+
+            .date-tab {
+                min-width: 52px;
+                padding: 4px 6px;
+                border-radius: 6px;
+            }
+
+            .date-tab-date {
+                font-size: 0.65rem;
+            }
+
+            .date-tab-week {
+                font-size: 0.5rem;
+            }
+
+            .comparison-section {
+                padding: var(--space-sm);
+                border-radius: var(--radius-md);
+            }
+
+            .strategy-header {
+                padding: var(--space-xs) var(--space-sm);
+            }
+
+            .stock-item {
+                padding: var(--space-xs) 8px;
+            }
+
+            .stock-left {
+                gap: 4px;
+            }
+
+            .stock-rank {
+                font-size: 0.6rem;
+                min-width: 14px;
+            }
+
+            .stock-code {
+                font-size: 0.6rem;
+                background: none;
+                padding: 0;
+            }
+
+            .stock-name {
+                font-size: 0.6rem;
+                max-width: 48px;
+            }
+
+            .stock-return {
+                font-size: 0.6rem;
+            }
+
+            .stock-return-price {
+                font-size: 0.6rem;
+            }
+
+            .stock-return-rate {
+                font-size: 0.65rem;
             }
 
             .stock-return-price-label {
                 display: none;
             }
 
-            .daily-table {
-                font-size: 0.75rem;
-            }
-
-            .daily-table th,
-            .daily-table td {
-                padding: var(--space-sm) var(--space-md);
-            }
-        }
-
-        @media (max-width: 480px) {
-            .container {
-                padding: var(--space-sm);
-            }
-
-            h1 {
-                font-size: 1.1rem;
-            }
-
-            .subtitle {
-                display: none;
-            }
-
-            .realtime-status {
-                flex-wrap: wrap;
-                gap: var(--space-sm);
-            }
-
-            .legend-item {
-                padding: var(--space-xs) var(--space-sm);
-            }
-
-            .legend-color {
-                width: 10px;
-                height: 10px;
-            }
-
-            .stat-item {
-                padding: var(--space-sm);
-            }
-
-            .stat-icon {
-                font-size: var(--font-base);
-            }
-
-            .stat-value {
-                font-size: var(--font-lg);
-            }
-
-            .date-tab {
-                min-width: 65px;
-                padding: var(--space-xs) var(--space-sm);
-                font-size: 0.75rem;
-            }
-
-            .date-tab-date {
-                font-size: var(--font-sm);
-            }
-
-            .stock-code {
-                font-size: 0.8rem;
-            }
-
-            .stock-name {
-                font-size: 0.85rem;
-            }
-
-            .stock-return-rate {
-                font-size: 0.9rem;
-                min-width: 50px;
-            }
-
             .daily-table-container {
                 overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
             }
 
             .daily-table {
-                min-width: 320px;
+                min-width: 300px;
+                font-size: 0.6rem;
+            }
+
+            .daily-table th {
+                font-size: 0.55rem;
+            }
+
+            .common-stock {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .common-stock-strategies {
+                width: 100%;
             }
         }
 
