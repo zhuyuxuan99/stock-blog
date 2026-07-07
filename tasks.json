@@ -1,0 +1,33 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "获取股票数据",
+            "type": "shell",
+            "command": "python",
+            "args": ["fetch_stock_prices.py"],
+            "problemMatcher": [],
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            }
+        },
+        {
+            "label": "清除缓存并获取数据",
+            "type": "shell",
+            "command": "python",
+            "args": ["-c", "import os; os.remove('stock_prices_cache.json.gz') if os.path.exists('stock_prices_cache.json.gz') else None"],
+            "problemMatcher": []
+        },
+        {
+            "label": "启动 HTTPS 服务器",
+            "type": "shell",
+            "command": "python",
+            "args": ["https_server.py"],
+            "problemMatcher": [],
+            "group": "test",
+            "isBackground": true
+        }
+    ]
+}

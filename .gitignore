@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+certs/
+stock_prices_cache.json.gz
+.codebuddy/
+.vscode/

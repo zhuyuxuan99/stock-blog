@@ -1,0 +1,40 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "HTTPS 服务器 (端口 8443)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/https_server.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "HTTP 服务器 (端口 8080)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "http.server",
+            "args": ["8080"],
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "获取股票数据 + HTTPS 服务器",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/debug_server.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "获取股票数据"
+        }
+    ],
+    "compounds": [
+        {
+            "name": "完整调试 (数据+HTTPS)",
+            "configurations": ["获取股票数据 + HTTPS 服务器"]
+        }
+    ]
+}

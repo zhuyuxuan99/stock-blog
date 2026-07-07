@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>鬣狗，大象，蚊子 生存之道</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --color-gold: #d4af37;
+            --color-gold-light: #f4d58d;
+            --color-dark: #0a0a0f;
+            --color-dark-overlay: rgba(10, 10, 15, 0.75);
+            --color-accent: #ff6b35;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        body {
+            font-family: 'Noto Serif SC', serif;
+            background: var(--color-dark);
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .landing-container {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        /* Background Image */
+        .bg-image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('mm.jpg') center center / cover no-repeat;
+            filter: brightness(0.6) contrast(1.1);
+            transform: scale(1.05);
+            animation: slowZoom 20s ease-in-out infinite alternate;
+        }
+
+        @keyframes slowZoom {
+            0% { transform: scale(1.05); }
+            100% { transform: scale(1.15); }
+        }
+
+        /* Overlay Gradient */
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: 
+                linear-gradient(180deg, 
+                    rgba(0,0,0,0.4) 0%, 
+                    rgba(0,0,0,0.2) 30%,
+                    rgba(0,0,0,0.3) 60%,
+                    rgba(0,0,0,0.8) 100%
+                );
+            pointer-events: none;
+        }
+
+        /* Decorative Lines */
+        .deco-lines {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            pointer-events: none;
+        }
+
+        .deco-line {
+            position: absolute;
+            background: linear-gradient(90deg, transparent, var(--color-gold), transparent);
+            height: 1px;
+            opacity: 0.3;
+        }
+
+        .deco-line:nth-child(1) { top: 20%; width: 30%; left: -5%; transform: rotate(-15deg); }
+        .deco-line:nth-child(2) { top: 75%; width: 40%; right: -10%; transform: rotate(10deg); }
+        .deco-line:nth-child(3) { top: 85%; width: 25%; left: 10%; transform: rotate(-5deg); }
+
+        /* Corner Decorations */
+        .corner-deco {
+            position: absolute;
+            width: 120px;
+            height: 120px;
+            border: 2px solid var(--color-gold);
+            opacity: 0.2;
+        }
+
+        .corner-deco.top-left {
+            top: 30px;
+            left: 30px;
+            border-right: none;
+            border-bottom: none;
+        }
+
+        .corner-deco.bottom-right {
+            bottom: 30px;
+            right: 30px;
+            border-left: none;
+            border-top: none;
+        }
+
+        /* Main Content */
+        .content {
+            position: relative;
+            z-index: 10;
+            text-align: center;
+            padding: 40px;
+        }
+
+        /* Subtitle */
+        .subtitle {
+            font-family: 'Ma Shan Zheng', cursive;
+            font-size: clamp(1.2rem, 3vw, 1.8rem);
+            color: var(--color-gold-light);
+            letter-spacing: 0.5em;
+            margin-bottom: 20px;
+            opacity: 0;
+            animation: fadeSlideDown 1s ease-out 0.3s forwards;
+        }
+
+        @keyframes fadeSlideDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Main Title */
+        .main-title {
+            font-family: 'Noto Serif SC', serif;
+            font-size: clamp(3rem, 12vw, 8rem);
+            font-weight: 700;
+            line-height: 1.2;
+            margin-bottom: 30px;
+            text-shadow: 
+                0 0 40px rgba(212, 175, 55, 0.5),
+                0 0 80px rgba(212, 175, 55, 0.3);
+            opacity: 0;
+            animation: titleReveal 1.5s ease-out 0.6s forwards;
+        }
+
+        .main-title .main-word {
+            display: block;
+            color: #fff;
+            letter-spacing: 0.1em;
+        }
+
+        .main-title .sub-word {
+            display: block;
+            font-size: 0.5em;
+            color: var(--color-gold);
+            letter-spacing: 0.3em;
+            margin-top: 10px;
+            font-weight: 400;
+        }
+
+        @keyframes titleReveal {
+            0% {
+                opacity: 0;
+                transform: scale(0.9) translateY(20px);
+                filter: blur(10px);
+            }
+            50% {
+                filter: blur(0);
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1) translateY(0);
+            }
+        }
+
+        /* Decorative Divider */
+        .divider {
+            width: 200px;
+            height: 2px;
+            background: linear-gradient(90deg, 
+                transparent, 
+                var(--color-gold) 20%, 
+                var(--color-gold) 80%, 
+                transparent
+            );
+            margin: 30px auto;
+            position: relative;
+            opacity: 0;
+            animation: fadeIn 1s ease-out 1.2s forwards;
+        }
+
+        .divider::before,
+        .divider::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            width: 8px;
+            height: 8px;
+            background: var(--color-gold);
+            transform: translateY(-50%) rotate(45deg);
+        }
+
+        .divider::before { left: -4px; }
+        .divider::after { right: -4px; }
+
+        @keyframes fadeIn {
+            to { opacity: 1; }
+        }
+
+        /* Tagline */
+        .tagline {
+            font-size: clamp(1rem, 2vw, 1.3rem);
+            color: rgba(255, 255, 255, 0.7);
+            letter-spacing: 0.2em;
+            margin-bottom: 50px;
+            opacity: 0;
+            animation: fadeIn 1s ease-out 1.4s forwards;
+        }
+
+        /* Enter Button */
+        .enter-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            padding: 18px 50px;
+            background: transparent;
+            border: 2px solid var(--color-gold);
+            color: var(--color-gold);
+            font-family: 'Noto Serif SC', serif;
+            font-size: 1.2rem;
+            letter-spacing: 0.3em;
+            cursor: pointer;
+            text-decoration: none;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.4s ease;
+            opacity: 0;
+            animation: fadeIn 1s ease-out 1.6s forwards;
+        }
+
+        .enter-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, 
+                rgba(212, 175, 55, 0.1), 
+                rgba(212, 175, 55, 0.3), 
+                rgba(212, 175, 55, 0.1)
+            );
+            transition: left 0.5s ease;
+        }
+
+        .enter-btn:hover::before {
+            left: 100%;
+        }
+
+        .enter-btn:hover {
+            background: rgba(212, 175, 55, 0.15);
+            box-shadow: 
+                0 0 30px rgba(212, 175, 55, 0.3),
+                inset 0 0 30px rgba(212, 175, 55, 0.1);
+            transform: scale(1.05);
+        }
+
+        .enter-btn .arrow {
+            transition: transform 0.3s ease;
+        }
+
+        .enter-btn:hover .arrow {
+            transform: translateX(8px);
+        }
+
+        /* Floating Particles */
+        .particles {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            pointer-events: none;
+        }
+
+        .particle {
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            background: var(--color-gold);
+            border-radius: 50%;
+            opacity: 0;
+            animation: float 8s infinite ease-in-out;
+        }
+
+        .particle:nth-child(1) { left: 10%; animation-delay: 0s; }
+        .particle:nth-child(2) { left: 25%; animation-delay: 1.5s; }
+        .particle:nth-child(3) { left: 40%; animation-delay: 3s; }
+        .particle:nth-child(4) { left: 60%; animation-delay: 0.5s; }
+        .particle:nth-child(5) { left: 75%; animation-delay: 2s; }
+        .particle:nth-child(6) { left: 90%; animation-delay: 4s; }
+
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(100vh) scale(0);
+                opacity: 0;
+            }
+            10% {
+                opacity: 0.6;
+            }
+            90% {
+                opacity: 0.6;
+            }
+            100% {
+                transform: translateY(-20vh) scale(1);
+                opacity: 0;
+            }
+        }
+
+        /* Bottom Info */
+        .bottom-info {
+            position: absolute;
+            bottom: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            text-align: center;
+            color: rgba(255, 255, 255, 0.4);
+            font-size: 0.85rem;
+            letter-spacing: 0.1em;
+            opacity: 0;
+            animation: fadeIn 1s ease-out 2s forwards;
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 768px) {
+            .corner-deco {
+                width: 50px;
+                height: 50px;
+            }
+
+            .corner-deco.top-left { top: 10px; left: 10px; }
+            .corner-deco.bottom-right { bottom: 10px; right: 10px; }
+
+            .content {
+                padding: 15px;
+            }
+
+            .subtitle {
+                font-size: 0.9rem;
+                letter-spacing: 0.2em;
+                margin-bottom: 15px;
+            }
+
+            .main-title {
+                font-size: clamp(2rem, 10vw, 4rem);
+                margin-bottom: 20px;
+            }
+
+            .main-title .main-word {
+                letter-spacing: 0.05em;
+            }
+
+            .main-title .sub-word {
+                font-size: 0.6em;
+                letter-spacing: 0.2em;
+                margin-top: 8px;
+            }
+
+            .divider {
+                width: 120px;
+                height: 1px;
+                margin: 20px auto;
+            }
+
+            .divider::before,
+            .divider::after {
+                width: 6px;
+                height: 6px;
+            }
+
+            .tagline {
+                font-size: 0.85rem;
+                letter-spacing: 0.15em;
+                margin-bottom: 30px;
+            }
+
+            .enter-btn {
+                padding: 14px 30px;
+                font-size: 1rem;
+                letter-spacing: 0.2em;
+            }
+
+            .bottom-info {
+                bottom: 15px;
+                font-size: 0.7rem;
+                width: 90%;
+            }
+
+            .particle {
+                width: 3px;
+                height: 3px;
+            }
+        }
+
+        /* Extra Small Mobile */
+        @media (max-width: 480px) {
+            .subtitle {
+                font-size: 0.75rem;
+                letter-spacing: 0.15em;
+            }
+
+            .main-title {
+                font-size: clamp(1.8rem, 9vw, 3rem);
+            }
+
+            .main-title .sub-word {
+                font-size: 0.7em;
+            }
+
+            .tagline {
+                font-size: 0.8rem;
+            }
+
+            .enter-btn {
+                padding: 12px 25px;
+                font-size: 0.9rem;
+            }
+        }
+
+        /* Landscape Mobile */
+        @media (max-height: 500px) and (orientation: landscape) {
+            .content {
+                padding: 10px;
+            }
+
+            .subtitle {
+                font-size: 0.8rem;
+                margin-bottom: 10px;
+            }
+
+            .main-title {
+                font-size: clamp(1.5rem, 6vw, 2.5rem);
+                margin-bottom: 15px;
+            }
+
+            .divider {
+                width: 100px;
+                margin: 10px auto;
+            }
+
+            .tagline {
+                font-size: 0.75rem;
+                margin-bottom: 20px;
+            }
+
+            .enter-btn {
+                padding: 10px 25px;
+                font-size: 0.85rem;
+            }
+
+            .bottom-info {
+                bottom: 10px;
+                font-size: 0.65rem;
+            }
+
+            .corner-deco {
+                display: none;
+            }
+        }
+
+        /* Touch Device Optimizations */
+        @media (hover: none) and (pointer: coarse) {
+            .enter-btn {
+                -webkit-tap-highlight-color: rgba(212, 175, 55, 0.3);
+            }
+
+            .enter-btn:active {
+                background: rgba(212, 175, 55, 0.2);
+                transform: scale(0.98);
+            }
+        }
+
+        /* Safe Area for iPhone X+ */
+        @supports (padding: env(safe-area-inset-bottom)) {
+            .bottom-info {
+                padding-bottom: env(safe-area-inset-bottom);
+            }
+
+            .enter-btn {
+                margin-bottom: env(safe-area-inset-bottom);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="landing-container">
+        <!-- Background -->
+        <div class="bg-image"></div>
+        <div class="overlay"></div>
+
+        <!-- Decorative Elements -->
+        <div class="deco-lines">
+            <div class="deco-line"></div>
+            <div class="deco-line"></div>
+            <div class="deco-line"></div>
+        </div>
+        <div class="corner-deco top-left"></div>
+        <div class="corner-deco bottom-right"></div>
+
+        <!-- Floating Particles -->
+        <div class="particles">
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="content">
+            <p class="subtitle">STOCK MARKET SURVIVAL</p>
+            <h1 class="main-title">
+                <span class="main-word">鬣狗，大象，蚊子</span>
+                <span class="sub-word">生存之道</span>
+            </h1>
+            <div class="divider"></div>
+            <p class="tagline">三种策略 · 一个战场 · 适者生存</p>
+            <a href="strategy_comparison.html" class="enter-btn">
+                进入战场
+                <span class="arrow">→</span>
+            </a>
+        </div>
+
+        <!-- Bottom Info -->
+        <div class="bottom-info">
+            股票策略对比分析系统 · 大A斗地主
+        </div>
+    </div>
+</body>
+</html>
