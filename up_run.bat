@@ -23,7 +23,7 @@ if %RESULT% equ 0 (
     echo [3/3] Pushing to GitHub...
     git add recommendations.json stock_returns.json strategy_comparison.html fetch_stock_prices.py up_run.bat
     git commit -m "Auto update: stock data %date% %time%" >nul 2>&1
-    git push 2>&1
+    git push --set-upstream origin HEAD 2>&1
     if !errorlevel! neq 0 (
         echo   ^(git push skipped - remote not configured or no network^)
     ) else (

@@ -10,14 +10,33 @@ from datetime import datetime, timedelta
 # Tushare API token
 TUSHARE_TOKEN = "f6833eb29d6eb93772f06a29d64b3b1f40e2325fde0ea955bc5758ac"
 
-# 读取三个策略的数据
-hunter_data = json.load(open(r"d:\claudecode\dog\state\signal_history\top10_history.json", encoding="utf-8"))
-mosquito_data = json.load(open(r"d:\claudecode\mosquito\top10_history.json", encoding="utf-8"))
-elephant_data = json.load(open(r"d:\claudecode\elephants\output\top10_history.json", encoding="utf-8"))
+# 数据基础目录：本机项目位于 E:\claudecode；可用环境变量 STRATEGY_BASE 覆盖（如原机 D:\claudecode）
+BASE_DIR = os.environ.get("STRATEGY_BASE", r"E:\claudecode")
 
-CACHE_FILE = r"d:\claudecode\top10_html\stock_prices_cache.json.gz"
+def load_strategy_json(path):
+    """加载策略 JSON。文件缺失或解析失败时返回空字典 {}，使该策略被安全跳过而非崩溃。"""
+    if os.path.exists(path):
+        try:
+            with open(path, encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"警告: 读取数据失败，跳过该策略: {path} ({e})")
+            return {}
+    print(f"警告: 找不到数据文件，跳过该策略: {path}")
+    return {}
 
-HUNTER_HISTORY_DIR = r"d:\claudecode\dog\state\signal_history"
+# 读取三个策略的数据（缺失的策略返回空字典，后续逻辑自动跳过）
+hunter_data = load_strategy_json(os.path.join(BASE_DIR, "dog", "state", "signal_history", "top10_history.json"))
+mosquito_data = load_strategy_json(os.path.join(BASE_DIR, "mosquito", "top10_history.json"))
+elephant_data = load_strategy_json(os.path.join(BASE_DIR, "elephants", "output", "top10_history.json"))
+
+if not any([hunter_data, mosquito_data, elephant_data]):
+    print("错误: 三个策略的源数据文件均缺失，无法继续。请确认 STRATEGY_BASE 指向含 dog/mosquito/elephants 的目录。")
+    raise SystemExit(1)
+
+CACHE_FILE = os.path.join(BASE_DIR, "top10_html", "stock_prices_cache.json.gz")
+
+HUNTER_HISTORY_DIR = os.path.join(BASE_DIR, "dog", "state", "signal_history")
 
 def normalize_date(date_str):
     """标准化日期字符串，提取YYYY-MM-DD格式的日期部分"""
@@ -736,7 +755,7 @@ returns_data["_metadata"] = {
     "timezone": "Asia/Shanghai"
 }
 
-with open(r"d:\claudecode\top10_html\stock_returns.json", "w", encoding="utf-8") as f:
+with open(os.path.join(BASE_DIR, "top10_html", "stock_returns.json"), "w", encoding="utf-8") as f:
     json.dump(returns_data, f, ensure_ascii=False, indent=2)
 
 print("\n收益数据已保存到 stock_returns.json")
@@ -768,7 +787,7 @@ for date in mosquito_dates:
 for date in elephant_dates:
     recommendations_data["elephant"][date] = elephant_data_normalized[date]
 
-with open(r"d:\claudecode\top10_html\recommendations.json", "w", encoding="utf-8") as f:
+with open(os.path.join(BASE_DIR, "top10_html", "recommendations.json"), "w", encoding="utf-8") as f:
     json.dump(recommendations_data, f, ensure_ascii=False, indent=2)
 
 print("推荐数据已保存到 recommendations.json")
