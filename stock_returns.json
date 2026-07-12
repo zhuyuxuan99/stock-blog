@@ -22516,7 +22516,8 @@
   "002414.SZ": {
     "name": "高德红外",
     "strategies": [
-      "猎狗组"
+      "猎狗组",
+      "蚊子组"
     ],
     "returns": {
       "2026-06-24": {
@@ -22683,6 +22684,39 @@
         "return_rate": 9.25,
         "has_realtime": true,
         "trading_days": 13
+      },
+      "2026-07-12": {
+        "recommend_price": 14.64,
+        "recommend_date": "20260710",
+        "daily_data": [
+          {
+            "date": "20260710",
+            "date_display": "2026-07-10",
+            "close": 14.64,
+            "pct_chg": 9.99,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260711",
+            "date_display": "2026-07-11",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260712",
+            "date_display": "2026-07-12",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 14.64,
+        "latest_date": "20260712",
+        "return_rate": null,
+        "has_realtime": true,
+        "trading_days": 0
       }
     },
     "price_data": [
@@ -65373,6 +65407,264 @@
       "pct_chg": 2.71
     }
   },
+  "601000.SH": {
+    "name": "唐山港",
+    "strategies": [
+      "蚊子组"
+    ],
+    "returns": {
+      "2026-07-12": {
+        "recommend_price": 4.16,
+        "recommend_date": "20260710",
+        "daily_data": [
+          {
+            "date": "20260710",
+            "date_display": "2026-07-10",
+            "close": 4.16,
+            "pct_chg": -0.95,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260711",
+            "date_display": "2026-07-11",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260712",
+            "date_display": "2026-07-12",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 4.16,
+        "latest_date": "20260712",
+        "return_rate": null,
+        "has_realtime": true,
+        "trading_days": 0
+      },
+      "2026-07-08": {
+        "recommend_price": 4.18,
+        "recommend_date": "20260707",
+        "daily_data": [
+          {
+            "date": "20260707",
+            "date_display": "2026-07-07",
+            "close": 4.18,
+            "pct_chg": -0.24,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260708",
+            "date_display": "2026-07-08",
+            "close": 4.2,
+            "pct_chg": 0.48,
+            "return_rate": 0.48,
+            "is_weekend": false
+          },
+          {
+            "date": "20260709",
+            "date_display": "2026-07-09",
+            "close": 4.2,
+            "pct_chg": 0.0,
+            "return_rate": 0.48,
+            "is_weekend": false
+          },
+          {
+            "date": "20260710",
+            "date_display": "2026-07-10",
+            "close": 4.16,
+            "pct_chg": -0.95,
+            "return_rate": -0.48,
+            "is_weekend": false
+          },
+          {
+            "date": "20260711",
+            "date_display": "2026-07-11",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260712",
+            "date_display": "2026-07-12",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 4.16,
+        "latest_date": "20260712",
+        "return_rate": -0.48,
+        "has_realtime": true,
+        "trading_days": 3
+      }
+    },
+    "price_data": [
+      {
+        "date": "20260710",
+        "close": 4.16,
+        "pct_chg": -0.9524
+      },
+      {
+        "date": "20260709",
+        "close": 4.2,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260708",
+        "close": 4.2,
+        "pct_chg": 0.4785
+      },
+      {
+        "date": "20260707",
+        "close": 4.18,
+        "pct_chg": -0.2387
+      },
+      {
+        "date": "20260706",
+        "close": 4.19,
+        "pct_chg": -0.4751
+      },
+      {
+        "date": "20260703",
+        "close": 4.21,
+        "pct_chg": -1.8648
+      },
+      {
+        "date": "20260702",
+        "close": 4.29,
+        "pct_chg": 2.3866
+      },
+      {
+        "date": "20260701",
+        "close": 4.19,
+        "pct_chg": 0.9639
+      },
+      {
+        "date": "20260630",
+        "close": 4.15,
+        "pct_chg": -0.9547
+      },
+      {
+        "date": "20260629",
+        "close": 4.19,
+        "pct_chg": 2.445
+      },
+      {
+        "date": "20260626",
+        "close": 4.09,
+        "pct_chg": -0.7282
+      },
+      {
+        "date": "20260625",
+        "close": 4.12,
+        "pct_chg": -0.4831
+      },
+      {
+        "date": "20260624",
+        "close": 4.14,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260623",
+        "close": 4.14,
+        "pct_chg": 1.2225
+      },
+      {
+        "date": "20260622",
+        "close": 4.09,
+        "pct_chg": -1.9185
+      },
+      {
+        "date": "20260618",
+        "close": 4.17,
+        "pct_chg": -3.0233
+      },
+      {
+        "date": "20260617",
+        "close": 4.3,
+        "pct_chg": 0.7026
+      },
+      {
+        "date": "20260616",
+        "close": 4.27,
+        "pct_chg": -0.9281
+      },
+      {
+        "date": "20260615",
+        "close": 4.31,
+        "pct_chg": 1.8913
+      },
+      {
+        "date": "20260612",
+        "close": 4.23,
+        "pct_chg": 0.7143
+      },
+      {
+        "date": "20260611",
+        "close": 4.2,
+        "pct_chg": -1.4085
+      },
+      {
+        "date": "20260610",
+        "close": 4.26,
+        "pct_chg": 0.2353
+      },
+      {
+        "date": "20260609",
+        "close": 4.25,
+        "pct_chg": 0.9501
+      },
+      {
+        "date": "20260608",
+        "close": 4.21,
+        "pct_chg": -2.3202
+      },
+      {
+        "date": "20260605",
+        "close": 4.31,
+        "pct_chg": 0.4662
+      },
+      {
+        "date": "20260604",
+        "close": 4.29,
+        "pct_chg": -1.1521
+      },
+      {
+        "date": "20260603",
+        "close": 4.34,
+        "pct_chg": 0.463
+      },
+      {
+        "date": "20260602",
+        "close": 4.32,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260601",
+        "close": 4.32,
+        "pct_chg": -1.5945
+      },
+      {
+        "date": "20260529",
+        "close": 4.39,
+        "pct_chg": 0.2283
+      }
+    ],
+    "realtime_price": {
+      "price": 4.16,
+      "open": 4.18,
+      "high": 4.2,
+      "low": 6006.0,
+      "prev_close": 4.2,
+      "pct_chg": -0.95
+    }
+  },
   "002966.SZ": {
     "name": "苏州银行",
     "strategies": [
@@ -65861,264 +66153,6 @@
       "low": 2379.0,
       "prev_close": 7.3,
       "pct_chg": 0.27
-    }
-  },
-  "601000.SH": {
-    "name": "唐山港",
-    "strategies": [
-      "蚊子组"
-    ],
-    "returns": {
-      "2026-07-12": {
-        "recommend_price": 4.16,
-        "recommend_date": "20260710",
-        "daily_data": [
-          {
-            "date": "20260710",
-            "date_display": "2026-07-10",
-            "close": 4.16,
-            "pct_chg": -0.95,
-            "return_rate": 0.0,
-            "is_weekend": false
-          },
-          {
-            "date": "20260711",
-            "date_display": "2026-07-11",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260712",
-            "date_display": "2026-07-12",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          }
-        ],
-        "latest_price": 4.16,
-        "latest_date": "20260712",
-        "return_rate": null,
-        "has_realtime": true,
-        "trading_days": 0
-      },
-      "2026-07-08": {
-        "recommend_price": 4.18,
-        "recommend_date": "20260707",
-        "daily_data": [
-          {
-            "date": "20260707",
-            "date_display": "2026-07-07",
-            "close": 4.18,
-            "pct_chg": -0.24,
-            "return_rate": 0.0,
-            "is_weekend": false
-          },
-          {
-            "date": "20260708",
-            "date_display": "2026-07-08",
-            "close": 4.2,
-            "pct_chg": 0.48,
-            "return_rate": 0.48,
-            "is_weekend": false
-          },
-          {
-            "date": "20260709",
-            "date_display": "2026-07-09",
-            "close": 4.2,
-            "pct_chg": 0.0,
-            "return_rate": 0.48,
-            "is_weekend": false
-          },
-          {
-            "date": "20260710",
-            "date_display": "2026-07-10",
-            "close": 4.16,
-            "pct_chg": -0.95,
-            "return_rate": -0.48,
-            "is_weekend": false
-          },
-          {
-            "date": "20260711",
-            "date_display": "2026-07-11",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260712",
-            "date_display": "2026-07-12",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          }
-        ],
-        "latest_price": 4.16,
-        "latest_date": "20260712",
-        "return_rate": -0.48,
-        "has_realtime": true,
-        "trading_days": 3
-      }
-    },
-    "price_data": [
-      {
-        "date": "20260710",
-        "close": 4.16,
-        "pct_chg": -0.9524
-      },
-      {
-        "date": "20260709",
-        "close": 4.2,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260708",
-        "close": 4.2,
-        "pct_chg": 0.4785
-      },
-      {
-        "date": "20260707",
-        "close": 4.18,
-        "pct_chg": -0.2387
-      },
-      {
-        "date": "20260706",
-        "close": 4.19,
-        "pct_chg": -0.4751
-      },
-      {
-        "date": "20260703",
-        "close": 4.21,
-        "pct_chg": -1.8648
-      },
-      {
-        "date": "20260702",
-        "close": 4.29,
-        "pct_chg": 2.3866
-      },
-      {
-        "date": "20260701",
-        "close": 4.19,
-        "pct_chg": 0.9639
-      },
-      {
-        "date": "20260630",
-        "close": 4.15,
-        "pct_chg": -0.9547
-      },
-      {
-        "date": "20260629",
-        "close": 4.19,
-        "pct_chg": 2.445
-      },
-      {
-        "date": "20260626",
-        "close": 4.09,
-        "pct_chg": -0.7282
-      },
-      {
-        "date": "20260625",
-        "close": 4.12,
-        "pct_chg": -0.4831
-      },
-      {
-        "date": "20260624",
-        "close": 4.14,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260623",
-        "close": 4.14,
-        "pct_chg": 1.2225
-      },
-      {
-        "date": "20260622",
-        "close": 4.09,
-        "pct_chg": -1.9185
-      },
-      {
-        "date": "20260618",
-        "close": 4.17,
-        "pct_chg": -3.0233
-      },
-      {
-        "date": "20260617",
-        "close": 4.3,
-        "pct_chg": 0.7026
-      },
-      {
-        "date": "20260616",
-        "close": 4.27,
-        "pct_chg": -0.9281
-      },
-      {
-        "date": "20260615",
-        "close": 4.31,
-        "pct_chg": 1.8913
-      },
-      {
-        "date": "20260612",
-        "close": 4.23,
-        "pct_chg": 0.7143
-      },
-      {
-        "date": "20260611",
-        "close": 4.2,
-        "pct_chg": -1.4085
-      },
-      {
-        "date": "20260610",
-        "close": 4.26,
-        "pct_chg": 0.2353
-      },
-      {
-        "date": "20260609",
-        "close": 4.25,
-        "pct_chg": 0.9501
-      },
-      {
-        "date": "20260608",
-        "close": 4.21,
-        "pct_chg": -2.3202
-      },
-      {
-        "date": "20260605",
-        "close": 4.31,
-        "pct_chg": 0.4662
-      },
-      {
-        "date": "20260604",
-        "close": 4.29,
-        "pct_chg": -1.1521
-      },
-      {
-        "date": "20260603",
-        "close": 4.34,
-        "pct_chg": 0.463
-      },
-      {
-        "date": "20260602",
-        "close": 4.32,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260601",
-        "close": 4.32,
-        "pct_chg": -1.5945
-      },
-      {
-        "date": "20260529",
-        "close": 4.39,
-        "pct_chg": 0.2283
-      }
-    ],
-    "realtime_price": {
-      "price": 4.16,
-      "open": 4.18,
-      "high": 4.2,
-      "low": 6006.0,
-      "prev_close": 4.2,
-      "pct_chg": -0.95
     }
   },
   "601997.SH": {
@@ -67043,788 +67077,6 @@
       "low": 66.0,
       "prev_close": 40.63,
       "pct_chg": -1.48
-    }
-  },
-  "002558.SZ": {
-    "name": "巨人网络",
-    "strategies": [
-      "蚊子组",
-      "大象组"
-    ],
-    "returns": {
-      "2026-07-12": {
-        "recommend_price": 29.56,
-        "recommend_date": "20260710",
-        "daily_data": [
-          {
-            "date": "20260710",
-            "date_display": "2026-07-10",
-            "close": 29.56,
-            "pct_chg": 4.38,
-            "return_rate": 0.0,
-            "is_weekend": false
-          },
-          {
-            "date": "20260711",
-            "date_display": "2026-07-11",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260712",
-            "date_display": "2026-07-12",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          }
-        ],
-        "latest_price": 29.56,
-        "latest_date": "20260712",
-        "return_rate": null,
-        "has_realtime": true,
-        "trading_days": 0
-      },
-      "2026-07-10": {
-        "recommend_price": 28.32,
-        "recommend_date": "20260709",
-        "daily_data": [
-          {
-            "date": "20260709",
-            "date_display": "2026-07-09",
-            "close": 28.32,
-            "pct_chg": 1.14,
-            "return_rate": 0.0,
-            "is_weekend": false
-          },
-          {
-            "date": "20260710",
-            "date_display": "2026-07-10",
-            "close": 29.56,
-            "pct_chg": 4.38,
-            "return_rate": 4.38,
-            "is_weekend": false
-          },
-          {
-            "date": "20260711",
-            "date_display": "2026-07-11",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260712",
-            "date_display": "2026-07-12",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          }
-        ],
-        "latest_price": 29.56,
-        "latest_date": "20260712",
-        "return_rate": 4.38,
-        "has_realtime": true,
-        "trading_days": 1
-      },
-      "2026-07-09": {
-        "recommend_price": 28.0,
-        "recommend_date": "20260708",
-        "daily_data": [
-          {
-            "date": "20260708",
-            "date_display": "2026-07-08",
-            "close": 28.0,
-            "pct_chg": -3.75,
-            "return_rate": 0.0,
-            "is_weekend": false
-          },
-          {
-            "date": "20260709",
-            "date_display": "2026-07-09",
-            "close": 28.32,
-            "pct_chg": 1.14,
-            "return_rate": 1.14,
-            "is_weekend": false
-          },
-          {
-            "date": "20260710",
-            "date_display": "2026-07-10",
-            "close": 29.56,
-            "pct_chg": 4.38,
-            "return_rate": 5.57,
-            "is_weekend": false
-          },
-          {
-            "date": "20260711",
-            "date_display": "2026-07-11",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260712",
-            "date_display": "2026-07-12",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          }
-        ],
-        "latest_price": 29.56,
-        "latest_date": "20260712",
-        "return_rate": 5.57,
-        "has_realtime": true,
-        "trading_days": 2
-      },
-      "2026-07-07": {
-        "recommend_price": 27.44,
-        "recommend_date": "20260706",
-        "daily_data": [
-          {
-            "date": "20260706",
-            "date_display": "2026-07-06",
-            "close": 27.44,
-            "pct_chg": 1.07,
-            "return_rate": 0.0,
-            "is_weekend": false
-          },
-          {
-            "date": "20260707",
-            "date_display": "2026-07-07",
-            "close": 29.09,
-            "pct_chg": 6.01,
-            "return_rate": 6.01,
-            "is_weekend": false
-          },
-          {
-            "date": "20260708",
-            "date_display": "2026-07-08",
-            "close": 28.0,
-            "pct_chg": -3.75,
-            "return_rate": 2.04,
-            "is_weekend": false
-          },
-          {
-            "date": "20260709",
-            "date_display": "2026-07-09",
-            "close": 28.32,
-            "pct_chg": 1.14,
-            "return_rate": 3.21,
-            "is_weekend": false
-          },
-          {
-            "date": "20260710",
-            "date_display": "2026-07-10",
-            "close": 29.56,
-            "pct_chg": 4.38,
-            "return_rate": 7.73,
-            "is_weekend": false
-          },
-          {
-            "date": "20260711",
-            "date_display": "2026-07-11",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260712",
-            "date_display": "2026-07-12",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          }
-        ],
-        "latest_price": 29.56,
-        "latest_date": "20260712",
-        "return_rate": 7.73,
-        "has_realtime": true,
-        "trading_days": 4
-      },
-      "2026-06-28": {
-        "recommend_price": 27.44,
-        "recommend_date": "20260626",
-        "daily_data": [
-          {
-            "date": "20260626",
-            "date_display": "2026-06-26",
-            "close": 27.44,
-            "pct_chg": -1.05,
-            "return_rate": 0.0,
-            "is_weekend": false
-          },
-          {
-            "date": "20260627",
-            "date_display": "2026-06-27",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260628",
-            "date_display": "2026-06-28",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260629",
-            "date_display": "2026-06-29",
-            "close": 27.23,
-            "pct_chg": -0.77,
-            "return_rate": -0.77,
-            "is_weekend": false
-          },
-          {
-            "date": "20260630",
-            "date_display": "2026-06-30",
-            "close": 27.56,
-            "pct_chg": 1.21,
-            "return_rate": 0.44,
-            "is_weekend": false
-          },
-          {
-            "date": "20260701",
-            "date_display": "2026-07-01",
-            "close": 28.11,
-            "pct_chg": 2.0,
-            "return_rate": 2.44,
-            "is_weekend": false
-          },
-          {
-            "date": "20260702",
-            "date_display": "2026-07-02",
-            "close": 27.71,
-            "pct_chg": -1.42,
-            "return_rate": 0.98,
-            "is_weekend": false
-          },
-          {
-            "date": "20260703",
-            "date_display": "2026-07-03",
-            "close": 27.15,
-            "pct_chg": -2.02,
-            "return_rate": -1.06,
-            "is_weekend": false
-          },
-          {
-            "date": "20260704",
-            "date_display": "2026-07-04",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260705",
-            "date_display": "2026-07-05",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260706",
-            "date_display": "2026-07-06",
-            "close": 27.44,
-            "pct_chg": 1.07,
-            "return_rate": 0.0,
-            "is_weekend": false
-          },
-          {
-            "date": "20260707",
-            "date_display": "2026-07-07",
-            "close": 29.09,
-            "pct_chg": 6.01,
-            "return_rate": 6.01,
-            "is_weekend": false
-          },
-          {
-            "date": "20260708",
-            "date_display": "2026-07-08",
-            "close": 28.0,
-            "pct_chg": -3.75,
-            "return_rate": 2.04,
-            "is_weekend": false
-          },
-          {
-            "date": "20260709",
-            "date_display": "2026-07-09",
-            "close": 28.32,
-            "pct_chg": 1.14,
-            "return_rate": 3.21,
-            "is_weekend": false
-          },
-          {
-            "date": "20260710",
-            "date_display": "2026-07-10",
-            "close": 29.56,
-            "pct_chg": 4.38,
-            "return_rate": 7.73,
-            "is_weekend": false
-          },
-          {
-            "date": "20260711",
-            "date_display": "2026-07-11",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260712",
-            "date_display": "2026-07-12",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          }
-        ],
-        "latest_price": 29.56,
-        "latest_date": "20260712",
-        "return_rate": null,
-        "has_realtime": true,
-        "trading_days": 10
-      },
-      "2026-06-24": {
-        "recommend_price": 25.19,
-        "recommend_date": "20260623",
-        "daily_data": [
-          {
-            "date": "20260623",
-            "date_display": "2026-06-23",
-            "close": 25.19,
-            "pct_chg": -2.14,
-            "return_rate": 0.0,
-            "is_weekend": false
-          },
-          {
-            "date": "20260624",
-            "date_display": "2026-06-24",
-            "close": 25.21,
-            "pct_chg": 0.08,
-            "return_rate": 0.08,
-            "is_weekend": false
-          },
-          {
-            "date": "20260625",
-            "date_display": "2026-06-25",
-            "close": 27.73,
-            "pct_chg": 10.0,
-            "return_rate": 10.08,
-            "is_weekend": false
-          },
-          {
-            "date": "20260626",
-            "date_display": "2026-06-26",
-            "close": 27.44,
-            "pct_chg": -1.05,
-            "return_rate": 8.93,
-            "is_weekend": false
-          },
-          {
-            "date": "20260627",
-            "date_display": "2026-06-27",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260628",
-            "date_display": "2026-06-28",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260629",
-            "date_display": "2026-06-29",
-            "close": 27.23,
-            "pct_chg": -0.77,
-            "return_rate": 8.1,
-            "is_weekend": false
-          },
-          {
-            "date": "20260630",
-            "date_display": "2026-06-30",
-            "close": 27.56,
-            "pct_chg": 1.21,
-            "return_rate": 9.41,
-            "is_weekend": false
-          },
-          {
-            "date": "20260701",
-            "date_display": "2026-07-01",
-            "close": 28.11,
-            "pct_chg": 2.0,
-            "return_rate": 11.59,
-            "is_weekend": false
-          },
-          {
-            "date": "20260702",
-            "date_display": "2026-07-02",
-            "close": 27.71,
-            "pct_chg": -1.42,
-            "return_rate": 10.0,
-            "is_weekend": false
-          },
-          {
-            "date": "20260703",
-            "date_display": "2026-07-03",
-            "close": 27.15,
-            "pct_chg": -2.02,
-            "return_rate": 7.78,
-            "is_weekend": false
-          },
-          {
-            "date": "20260704",
-            "date_display": "2026-07-04",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260705",
-            "date_display": "2026-07-05",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260706",
-            "date_display": "2026-07-06",
-            "close": 27.44,
-            "pct_chg": 1.07,
-            "return_rate": 8.93,
-            "is_weekend": false
-          },
-          {
-            "date": "20260707",
-            "date_display": "2026-07-07",
-            "close": 29.09,
-            "pct_chg": 6.01,
-            "return_rate": 15.48,
-            "is_weekend": false
-          },
-          {
-            "date": "20260708",
-            "date_display": "2026-07-08",
-            "close": 28.0,
-            "pct_chg": -3.75,
-            "return_rate": 11.16,
-            "is_weekend": false
-          },
-          {
-            "date": "20260709",
-            "date_display": "2026-07-09",
-            "close": 28.32,
-            "pct_chg": 1.14,
-            "return_rate": 12.43,
-            "is_weekend": false
-          },
-          {
-            "date": "20260710",
-            "date_display": "2026-07-10",
-            "close": 29.56,
-            "pct_chg": 4.38,
-            "return_rate": 17.35,
-            "is_weekend": false
-          },
-          {
-            "date": "20260711",
-            "date_display": "2026-07-11",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260712",
-            "date_display": "2026-07-12",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          }
-        ],
-        "latest_price": 29.56,
-        "latest_date": "20260712",
-        "return_rate": 17.35,
-        "has_realtime": true,
-        "trading_days": 13
-      },
-      "2026-06-30": {
-        "recommend_price": 27.23,
-        "recommend_date": "20260629",
-        "daily_data": [
-          {
-            "date": "20260629",
-            "date_display": "2026-06-29",
-            "close": 27.23,
-            "pct_chg": -0.77,
-            "return_rate": 0.0,
-            "is_weekend": false
-          },
-          {
-            "date": "20260630",
-            "date_display": "2026-06-30",
-            "close": 27.56,
-            "pct_chg": 1.21,
-            "return_rate": 1.21,
-            "is_weekend": false
-          },
-          {
-            "date": "20260701",
-            "date_display": "2026-07-01",
-            "close": 28.11,
-            "pct_chg": 2.0,
-            "return_rate": 3.23,
-            "is_weekend": false
-          },
-          {
-            "date": "20260702",
-            "date_display": "2026-07-02",
-            "close": 27.71,
-            "pct_chg": -1.42,
-            "return_rate": 1.76,
-            "is_weekend": false
-          },
-          {
-            "date": "20260703",
-            "date_display": "2026-07-03",
-            "close": 27.15,
-            "pct_chg": -2.02,
-            "return_rate": -0.29,
-            "is_weekend": false
-          },
-          {
-            "date": "20260704",
-            "date_display": "2026-07-04",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260705",
-            "date_display": "2026-07-05",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260706",
-            "date_display": "2026-07-06",
-            "close": 27.44,
-            "pct_chg": 1.07,
-            "return_rate": 0.77,
-            "is_weekend": false
-          },
-          {
-            "date": "20260707",
-            "date_display": "2026-07-07",
-            "close": 29.09,
-            "pct_chg": 6.01,
-            "return_rate": 6.83,
-            "is_weekend": false
-          },
-          {
-            "date": "20260708",
-            "date_display": "2026-07-08",
-            "close": 28.0,
-            "pct_chg": -3.75,
-            "return_rate": 2.83,
-            "is_weekend": false
-          },
-          {
-            "date": "20260709",
-            "date_display": "2026-07-09",
-            "close": 28.32,
-            "pct_chg": 1.14,
-            "return_rate": 4.0,
-            "is_weekend": false
-          },
-          {
-            "date": "20260710",
-            "date_display": "2026-07-10",
-            "close": 29.56,
-            "pct_chg": 4.38,
-            "return_rate": 8.56,
-            "is_weekend": false
-          },
-          {
-            "date": "20260711",
-            "date_display": "2026-07-11",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          },
-          {
-            "date": "20260712",
-            "date_display": "2026-07-12",
-            "close": null,
-            "return_rate": null,
-            "is_weekend": true
-          }
-        ],
-        "latest_price": 29.56,
-        "latest_date": "20260712",
-        "return_rate": 8.56,
-        "has_realtime": true,
-        "trading_days": 9
-      }
-    },
-    "price_data": [
-      {
-        "date": "20260710",
-        "close": 29.56,
-        "pct_chg": 4.3785
-      },
-      {
-        "date": "20260709",
-        "close": 28.32,
-        "pct_chg": 1.1429
-      },
-      {
-        "date": "20260708",
-        "close": 28.0,
-        "pct_chg": -3.747
-      },
-      {
-        "date": "20260707",
-        "close": 29.09,
-        "pct_chg": 6.0131
-      },
-      {
-        "date": "20260706",
-        "close": 27.44,
-        "pct_chg": 1.0681
-      },
-      {
-        "date": "20260703",
-        "close": 27.15,
-        "pct_chg": -2.0209
-      },
-      {
-        "date": "20260702",
-        "close": 27.71,
-        "pct_chg": -1.423
-      },
-      {
-        "date": "20260701",
-        "close": 28.11,
-        "pct_chg": 1.9956
-      },
-      {
-        "date": "20260630",
-        "close": 27.56,
-        "pct_chg": 1.2119
-      },
-      {
-        "date": "20260629",
-        "close": 27.23,
-        "pct_chg": -0.7653
-      },
-      {
-        "date": "20260626",
-        "close": 27.44,
-        "pct_chg": -1.0458
-      },
-      {
-        "date": "20260625",
-        "close": 27.73,
-        "pct_chg": 9.996
-      },
-      {
-        "date": "20260624",
-        "close": 25.21,
-        "pct_chg": 0.0794
-      },
-      {
-        "date": "20260623",
-        "close": 25.19,
-        "pct_chg": -2.1368
-      },
-      {
-        "date": "20260622",
-        "close": 25.74,
-        "pct_chg": 7.6987
-      },
-      {
-        "date": "20260618",
-        "close": 23.9,
-        "pct_chg": -0.7887
-      },
-      {
-        "date": "20260617",
-        "close": 24.09,
-        "pct_chg": -0.7825
-      },
-      {
-        "date": "20260616",
-        "close": 24.28,
-        "pct_chg": -0.1234
-      },
-      {
-        "date": "20260615",
-        "close": 24.31,
-        "pct_chg": 3.7116
-      },
-      {
-        "date": "20260612",
-        "close": 23.44,
-        "pct_chg": -0.8879
-      },
-      {
-        "date": "20260611",
-        "close": 23.65,
-        "pct_chg": -2.2727
-      },
-      {
-        "date": "20260610",
-        "close": 24.2,
-        "pct_chg": -2.1827
-      },
-      {
-        "date": "20260609",
-        "close": 24.74,
-        "pct_chg": -0.5227
-      },
-      {
-        "date": "20260608",
-        "close": 24.87,
-        "pct_chg": -3.5673
-      },
-      {
-        "date": "20260605",
-        "close": 25.79,
-        "pct_chg": 2.1386
-      },
-      {
-        "date": "20260604",
-        "close": 25.25,
-        "pct_chg": -1.3286
-      },
-      {
-        "date": "20260603",
-        "close": 25.59,
-        "pct_chg": -0.1561
-      },
-      {
-        "date": "20260602",
-        "close": 25.63,
-        "pct_chg": -2.7324
-      },
-      {
-        "date": "20260601",
-        "close": 26.35,
-        "pct_chg": 1.8554
-      },
-      {
-        "date": "20260529",
-        "close": 26.06,
-        "pct_chg": -1.213
-      }
-    ],
-    "realtime_price": {
-      "price": 29.56,
-      "open": 27.9,
-      "high": 29.59,
-      "low": 178.0,
-      "prev_close": 28.32,
-      "pct_chg": 4.38
     }
   },
   "000783.SZ": {
@@ -70620,6 +69872,755 @@
       "low": 397.0,
       "prev_close": 13.43,
       "pct_chg": -0.37
+    }
+  },
+  "002558.SZ": {
+    "name": "巨人网络",
+    "strategies": [
+      "蚊子组",
+      "大象组"
+    ],
+    "returns": {
+      "2026-07-10": {
+        "recommend_price": 28.32,
+        "recommend_date": "20260709",
+        "daily_data": [
+          {
+            "date": "20260709",
+            "date_display": "2026-07-09",
+            "close": 28.32,
+            "pct_chg": 1.14,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260710",
+            "date_display": "2026-07-10",
+            "close": 29.56,
+            "pct_chg": 4.38,
+            "return_rate": 4.38,
+            "is_weekend": false
+          },
+          {
+            "date": "20260711",
+            "date_display": "2026-07-11",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260712",
+            "date_display": "2026-07-12",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 29.56,
+        "latest_date": "20260712",
+        "return_rate": 4.38,
+        "has_realtime": true,
+        "trading_days": 1
+      },
+      "2026-07-09": {
+        "recommend_price": 28.0,
+        "recommend_date": "20260708",
+        "daily_data": [
+          {
+            "date": "20260708",
+            "date_display": "2026-07-08",
+            "close": 28.0,
+            "pct_chg": -3.75,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260709",
+            "date_display": "2026-07-09",
+            "close": 28.32,
+            "pct_chg": 1.14,
+            "return_rate": 1.14,
+            "is_weekend": false
+          },
+          {
+            "date": "20260710",
+            "date_display": "2026-07-10",
+            "close": 29.56,
+            "pct_chg": 4.38,
+            "return_rate": 5.57,
+            "is_weekend": false
+          },
+          {
+            "date": "20260711",
+            "date_display": "2026-07-11",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260712",
+            "date_display": "2026-07-12",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 29.56,
+        "latest_date": "20260712",
+        "return_rate": 5.57,
+        "has_realtime": true,
+        "trading_days": 2
+      },
+      "2026-07-07": {
+        "recommend_price": 27.44,
+        "recommend_date": "20260706",
+        "daily_data": [
+          {
+            "date": "20260706",
+            "date_display": "2026-07-06",
+            "close": 27.44,
+            "pct_chg": 1.07,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260707",
+            "date_display": "2026-07-07",
+            "close": 29.09,
+            "pct_chg": 6.01,
+            "return_rate": 6.01,
+            "is_weekend": false
+          },
+          {
+            "date": "20260708",
+            "date_display": "2026-07-08",
+            "close": 28.0,
+            "pct_chg": -3.75,
+            "return_rate": 2.04,
+            "is_weekend": false
+          },
+          {
+            "date": "20260709",
+            "date_display": "2026-07-09",
+            "close": 28.32,
+            "pct_chg": 1.14,
+            "return_rate": 3.21,
+            "is_weekend": false
+          },
+          {
+            "date": "20260710",
+            "date_display": "2026-07-10",
+            "close": 29.56,
+            "pct_chg": 4.38,
+            "return_rate": 7.73,
+            "is_weekend": false
+          },
+          {
+            "date": "20260711",
+            "date_display": "2026-07-11",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260712",
+            "date_display": "2026-07-12",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 29.56,
+        "latest_date": "20260712",
+        "return_rate": 7.73,
+        "has_realtime": true,
+        "trading_days": 4
+      },
+      "2026-06-28": {
+        "recommend_price": 27.44,
+        "recommend_date": "20260626",
+        "daily_data": [
+          {
+            "date": "20260626",
+            "date_display": "2026-06-26",
+            "close": 27.44,
+            "pct_chg": -1.05,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260627",
+            "date_display": "2026-06-27",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260628",
+            "date_display": "2026-06-28",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260629",
+            "date_display": "2026-06-29",
+            "close": 27.23,
+            "pct_chg": -0.77,
+            "return_rate": -0.77,
+            "is_weekend": false
+          },
+          {
+            "date": "20260630",
+            "date_display": "2026-06-30",
+            "close": 27.56,
+            "pct_chg": 1.21,
+            "return_rate": 0.44,
+            "is_weekend": false
+          },
+          {
+            "date": "20260701",
+            "date_display": "2026-07-01",
+            "close": 28.11,
+            "pct_chg": 2.0,
+            "return_rate": 2.44,
+            "is_weekend": false
+          },
+          {
+            "date": "20260702",
+            "date_display": "2026-07-02",
+            "close": 27.71,
+            "pct_chg": -1.42,
+            "return_rate": 0.98,
+            "is_weekend": false
+          },
+          {
+            "date": "20260703",
+            "date_display": "2026-07-03",
+            "close": 27.15,
+            "pct_chg": -2.02,
+            "return_rate": -1.06,
+            "is_weekend": false
+          },
+          {
+            "date": "20260704",
+            "date_display": "2026-07-04",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260705",
+            "date_display": "2026-07-05",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260706",
+            "date_display": "2026-07-06",
+            "close": 27.44,
+            "pct_chg": 1.07,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260707",
+            "date_display": "2026-07-07",
+            "close": 29.09,
+            "pct_chg": 6.01,
+            "return_rate": 6.01,
+            "is_weekend": false
+          },
+          {
+            "date": "20260708",
+            "date_display": "2026-07-08",
+            "close": 28.0,
+            "pct_chg": -3.75,
+            "return_rate": 2.04,
+            "is_weekend": false
+          },
+          {
+            "date": "20260709",
+            "date_display": "2026-07-09",
+            "close": 28.32,
+            "pct_chg": 1.14,
+            "return_rate": 3.21,
+            "is_weekend": false
+          },
+          {
+            "date": "20260710",
+            "date_display": "2026-07-10",
+            "close": 29.56,
+            "pct_chg": 4.38,
+            "return_rate": 7.73,
+            "is_weekend": false
+          },
+          {
+            "date": "20260711",
+            "date_display": "2026-07-11",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260712",
+            "date_display": "2026-07-12",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 29.56,
+        "latest_date": "20260712",
+        "return_rate": null,
+        "has_realtime": true,
+        "trading_days": 10
+      },
+      "2026-06-24": {
+        "recommend_price": 25.19,
+        "recommend_date": "20260623",
+        "daily_data": [
+          {
+            "date": "20260623",
+            "date_display": "2026-06-23",
+            "close": 25.19,
+            "pct_chg": -2.14,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260624",
+            "date_display": "2026-06-24",
+            "close": 25.21,
+            "pct_chg": 0.08,
+            "return_rate": 0.08,
+            "is_weekend": false
+          },
+          {
+            "date": "20260625",
+            "date_display": "2026-06-25",
+            "close": 27.73,
+            "pct_chg": 10.0,
+            "return_rate": 10.08,
+            "is_weekend": false
+          },
+          {
+            "date": "20260626",
+            "date_display": "2026-06-26",
+            "close": 27.44,
+            "pct_chg": -1.05,
+            "return_rate": 8.93,
+            "is_weekend": false
+          },
+          {
+            "date": "20260627",
+            "date_display": "2026-06-27",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260628",
+            "date_display": "2026-06-28",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260629",
+            "date_display": "2026-06-29",
+            "close": 27.23,
+            "pct_chg": -0.77,
+            "return_rate": 8.1,
+            "is_weekend": false
+          },
+          {
+            "date": "20260630",
+            "date_display": "2026-06-30",
+            "close": 27.56,
+            "pct_chg": 1.21,
+            "return_rate": 9.41,
+            "is_weekend": false
+          },
+          {
+            "date": "20260701",
+            "date_display": "2026-07-01",
+            "close": 28.11,
+            "pct_chg": 2.0,
+            "return_rate": 11.59,
+            "is_weekend": false
+          },
+          {
+            "date": "20260702",
+            "date_display": "2026-07-02",
+            "close": 27.71,
+            "pct_chg": -1.42,
+            "return_rate": 10.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260703",
+            "date_display": "2026-07-03",
+            "close": 27.15,
+            "pct_chg": -2.02,
+            "return_rate": 7.78,
+            "is_weekend": false
+          },
+          {
+            "date": "20260704",
+            "date_display": "2026-07-04",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260705",
+            "date_display": "2026-07-05",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260706",
+            "date_display": "2026-07-06",
+            "close": 27.44,
+            "pct_chg": 1.07,
+            "return_rate": 8.93,
+            "is_weekend": false
+          },
+          {
+            "date": "20260707",
+            "date_display": "2026-07-07",
+            "close": 29.09,
+            "pct_chg": 6.01,
+            "return_rate": 15.48,
+            "is_weekend": false
+          },
+          {
+            "date": "20260708",
+            "date_display": "2026-07-08",
+            "close": 28.0,
+            "pct_chg": -3.75,
+            "return_rate": 11.16,
+            "is_weekend": false
+          },
+          {
+            "date": "20260709",
+            "date_display": "2026-07-09",
+            "close": 28.32,
+            "pct_chg": 1.14,
+            "return_rate": 12.43,
+            "is_weekend": false
+          },
+          {
+            "date": "20260710",
+            "date_display": "2026-07-10",
+            "close": 29.56,
+            "pct_chg": 4.38,
+            "return_rate": 17.35,
+            "is_weekend": false
+          },
+          {
+            "date": "20260711",
+            "date_display": "2026-07-11",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260712",
+            "date_display": "2026-07-12",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 29.56,
+        "latest_date": "20260712",
+        "return_rate": 17.35,
+        "has_realtime": true,
+        "trading_days": 13
+      },
+      "2026-06-30": {
+        "recommend_price": 27.23,
+        "recommend_date": "20260629",
+        "daily_data": [
+          {
+            "date": "20260629",
+            "date_display": "2026-06-29",
+            "close": 27.23,
+            "pct_chg": -0.77,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260630",
+            "date_display": "2026-06-30",
+            "close": 27.56,
+            "pct_chg": 1.21,
+            "return_rate": 1.21,
+            "is_weekend": false
+          },
+          {
+            "date": "20260701",
+            "date_display": "2026-07-01",
+            "close": 28.11,
+            "pct_chg": 2.0,
+            "return_rate": 3.23,
+            "is_weekend": false
+          },
+          {
+            "date": "20260702",
+            "date_display": "2026-07-02",
+            "close": 27.71,
+            "pct_chg": -1.42,
+            "return_rate": 1.76,
+            "is_weekend": false
+          },
+          {
+            "date": "20260703",
+            "date_display": "2026-07-03",
+            "close": 27.15,
+            "pct_chg": -2.02,
+            "return_rate": -0.29,
+            "is_weekend": false
+          },
+          {
+            "date": "20260704",
+            "date_display": "2026-07-04",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260705",
+            "date_display": "2026-07-05",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260706",
+            "date_display": "2026-07-06",
+            "close": 27.44,
+            "pct_chg": 1.07,
+            "return_rate": 0.77,
+            "is_weekend": false
+          },
+          {
+            "date": "20260707",
+            "date_display": "2026-07-07",
+            "close": 29.09,
+            "pct_chg": 6.01,
+            "return_rate": 6.83,
+            "is_weekend": false
+          },
+          {
+            "date": "20260708",
+            "date_display": "2026-07-08",
+            "close": 28.0,
+            "pct_chg": -3.75,
+            "return_rate": 2.83,
+            "is_weekend": false
+          },
+          {
+            "date": "20260709",
+            "date_display": "2026-07-09",
+            "close": 28.32,
+            "pct_chg": 1.14,
+            "return_rate": 4.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260710",
+            "date_display": "2026-07-10",
+            "close": 29.56,
+            "pct_chg": 4.38,
+            "return_rate": 8.56,
+            "is_weekend": false
+          },
+          {
+            "date": "20260711",
+            "date_display": "2026-07-11",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260712",
+            "date_display": "2026-07-12",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 29.56,
+        "latest_date": "20260712",
+        "return_rate": 8.56,
+        "has_realtime": true,
+        "trading_days": 9
+      }
+    },
+    "price_data": [
+      {
+        "date": "20260710",
+        "close": 29.56,
+        "pct_chg": 4.3785
+      },
+      {
+        "date": "20260709",
+        "close": 28.32,
+        "pct_chg": 1.1429
+      },
+      {
+        "date": "20260708",
+        "close": 28.0,
+        "pct_chg": -3.747
+      },
+      {
+        "date": "20260707",
+        "close": 29.09,
+        "pct_chg": 6.0131
+      },
+      {
+        "date": "20260706",
+        "close": 27.44,
+        "pct_chg": 1.0681
+      },
+      {
+        "date": "20260703",
+        "close": 27.15,
+        "pct_chg": -2.0209
+      },
+      {
+        "date": "20260702",
+        "close": 27.71,
+        "pct_chg": -1.423
+      },
+      {
+        "date": "20260701",
+        "close": 28.11,
+        "pct_chg": 1.9956
+      },
+      {
+        "date": "20260630",
+        "close": 27.56,
+        "pct_chg": 1.2119
+      },
+      {
+        "date": "20260629",
+        "close": 27.23,
+        "pct_chg": -0.7653
+      },
+      {
+        "date": "20260626",
+        "close": 27.44,
+        "pct_chg": -1.0458
+      },
+      {
+        "date": "20260625",
+        "close": 27.73,
+        "pct_chg": 9.996
+      },
+      {
+        "date": "20260624",
+        "close": 25.21,
+        "pct_chg": 0.0794
+      },
+      {
+        "date": "20260623",
+        "close": 25.19,
+        "pct_chg": -2.1368
+      },
+      {
+        "date": "20260622",
+        "close": 25.74,
+        "pct_chg": 7.6987
+      },
+      {
+        "date": "20260618",
+        "close": 23.9,
+        "pct_chg": -0.7887
+      },
+      {
+        "date": "20260617",
+        "close": 24.09,
+        "pct_chg": -0.7825
+      },
+      {
+        "date": "20260616",
+        "close": 24.28,
+        "pct_chg": -0.1234
+      },
+      {
+        "date": "20260615",
+        "close": 24.31,
+        "pct_chg": 3.7116
+      },
+      {
+        "date": "20260612",
+        "close": 23.44,
+        "pct_chg": -0.8879
+      },
+      {
+        "date": "20260611",
+        "close": 23.65,
+        "pct_chg": -2.2727
+      },
+      {
+        "date": "20260610",
+        "close": 24.2,
+        "pct_chg": -2.1827
+      },
+      {
+        "date": "20260609",
+        "close": 24.74,
+        "pct_chg": -0.5227
+      },
+      {
+        "date": "20260608",
+        "close": 24.87,
+        "pct_chg": -3.5673
+      },
+      {
+        "date": "20260605",
+        "close": 25.79,
+        "pct_chg": 2.1386
+      },
+      {
+        "date": "20260604",
+        "close": 25.25,
+        "pct_chg": -1.3286
+      },
+      {
+        "date": "20260603",
+        "close": 25.59,
+        "pct_chg": -0.1561
+      },
+      {
+        "date": "20260602",
+        "close": 25.63,
+        "pct_chg": -2.7324
+      },
+      {
+        "date": "20260601",
+        "close": 26.35,
+        "pct_chg": 1.8554
+      },
+      {
+        "date": "20260529",
+        "close": 26.06,
+        "pct_chg": -1.213
+      }
+    ],
+    "realtime_price": {
+      "price": 29.56,
+      "open": 27.9,
+      "high": 29.59,
+      "low": 178.0,
+      "prev_close": 28.32,
+      "pct_chg": 4.38
     }
   },
   "600521.SH": {
@@ -143107,7 +143108,7 @@
     }
   },
   "_metadata": {
-    "generated_at": "2026-07-12 18:10:25",
+    "generated_at": "2026-07-12 18:18:23",
     "timezone": "Asia/Shanghai"
   }
 }
