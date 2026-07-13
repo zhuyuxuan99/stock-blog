@@ -22,7 +22,7 @@ if %RESULT% equ 0 (
 
     echo [3/3] Pushing to GitHub...
     git fetch origin master 2>&1
-    git stash push -- recommendations.json stock_returns.json 2>nul
+    git stash push 2>nul
     git rebase origin/master 2>&1
     if !errorlevel! neq 0 (
         echo   同步远程变更时发生冲突，尝试以本地数据为准...
