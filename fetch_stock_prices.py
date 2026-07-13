@@ -10,8 +10,8 @@ from datetime import datetime, timedelta
 # Tushare API token
 TUSHARE_TOKEN = "f6833eb29d6eb93772f06a29d64b3b1f40e2325fde0ea955bc5758ac"
 
-# 数据基础目录：本机项目位于 E:\claudecode；可用环境变量 STRATEGY_BASE 覆盖（如原机 D:\claudecode）
-BASE_DIR = os.environ.get("STRATEGY_BASE", r"E:\claudecode")
+# 数据基础目录：三个数据源(dog/mosquito/elephants)位于 D:\claudecode；可用环境变量 STRATEGY_BASE 覆盖（如原机 E:\claudecode）
+BASE_DIR = os.environ.get("STRATEGY_BASE", r"D:\claudecode")
 
 def load_strategy_json(path):
     """加载策略 JSON。文件缺失或解析失败时返回空字典 {}，使该策略被安全跳过而非崩溃。"""

@@ -21,6 +21,13 @@ if %RESULT% equ 0 (
     set PORT=8888
 
     echo [3/3] Pushing to GitHub...
+    git pull --rebase origin master 2>&1
+    if !errorlevel! neq 0 (
+        echo   同步远程变更时发生冲突，尝试以本地数据为准...
+        git checkout --ours recommendations.json stock_returns.json 2>nul
+        git add recommendations.json stock_returns.json 2>nul
+        git rebase --continue 2>&1
+    )
     git add recommendations.json stock_returns.json strategy_comparison.html fetch_stock_prices.py up_run.bat
     git commit -m "Auto update: stock data %date% %time%" >nul 2>&1
     git push --set-upstream origin HEAD 2>&1
