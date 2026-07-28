@@ -1367,6 +1367,170 @@
     "2026-06-02": []
   },
   "mosquito": {
+    "2026-07-28": [
+      {
+        "rank": 1,
+        "code": "601928.SH",
+        "name": "凤凰传媒",
+        "score": 100.71,
+        "industry": "出版业",
+        "_original_date": "2026-07-28 09:05:25"
+      },
+      {
+        "rank": 2,
+        "code": "600801.SH",
+        "name": "华新建材",
+        "score": 100.19,
+        "industry": "水泥",
+        "_original_date": "2026-07-28 09:05:25"
+      },
+      {
+        "rank": 3,
+        "code": "002156.SZ",
+        "name": "通富微电",
+        "score": 99.4,
+        "industry": "半导体",
+        "_original_date": "2026-07-28 09:05:25"
+      },
+      {
+        "rank": 4,
+        "code": "601717.SH",
+        "name": "中创智领",
+        "score": 98.98,
+        "industry": "专用机械",
+        "_original_date": "2026-07-28 09:05:25"
+      },
+      {
+        "rank": 5,
+        "code": "600390.SH",
+        "name": "五矿资本",
+        "score": 98.95,
+        "industry": "多元金融",
+        "_original_date": "2026-07-28 09:05:25"
+      },
+      {
+        "rank": 6,
+        "code": "600008.SH",
+        "name": "首创环保",
+        "score": 98.0,
+        "industry": "水务",
+        "_original_date": "2026-07-28 09:05:25"
+      },
+      {
+        "rank": 7,
+        "code": "600816.SH",
+        "name": "建元信托",
+        "score": 95.34,
+        "industry": "多元金融",
+        "_original_date": "2026-07-28 09:05:25"
+      },
+      {
+        "rank": 8,
+        "code": "688248.SH",
+        "name": "南网科技",
+        "score": 94.28,
+        "industry": "电气设备",
+        "_original_date": "2026-07-28 09:05:25"
+      },
+      {
+        "rank": 9,
+        "code": "601001.SH",
+        "name": "晋控煤业",
+        "score": 93.91,
+        "industry": "煤炭开采",
+        "_original_date": "2026-07-28 09:05:25"
+      },
+      {
+        "rank": 10,
+        "code": "002465.SZ",
+        "name": "海格通信",
+        "score": 93.23,
+        "industry": "通信设备",
+        "_original_date": "2026-07-28 09:05:25"
+      }
+    ],
+    "2026-07-27": [
+      {
+        "rank": 1,
+        "code": "300558.SZ",
+        "name": "贝达药业",
+        "score": 230.98,
+        "industry": "化学制药",
+        "_original_date": "2026-07-27 23:16:30"
+      },
+      {
+        "rank": 2,
+        "code": "603688.SH",
+        "name": "石英股份",
+        "score": 114.69,
+        "industry": "矿物制品",
+        "_original_date": "2026-07-27 23:16:30"
+      },
+      {
+        "rank": 3,
+        "code": "002025.SZ",
+        "name": "航天电器",
+        "score": 107.44,
+        "industry": "元器件",
+        "_original_date": "2026-07-27 23:16:30"
+      },
+      {
+        "rank": 4,
+        "code": "688709.SH",
+        "name": "成都华微",
+        "score": 107.22,
+        "industry": "半导体",
+        "_original_date": "2026-07-27 23:16:30"
+      },
+      {
+        "rank": 5,
+        "code": "300454.SZ",
+        "name": "深信服",
+        "score": 106.99,
+        "industry": "软件服务",
+        "_original_date": "2026-07-27 23:16:30"
+      },
+      {
+        "rank": 6,
+        "code": "688347.SH",
+        "name": "华虹宏力",
+        "score": 105.1,
+        "industry": "半导体",
+        "_original_date": "2026-07-27 23:16:30"
+      },
+      {
+        "rank": 7,
+        "code": "300037.SZ",
+        "name": "新宙邦",
+        "score": 103.58,
+        "industry": "化工原料",
+        "_original_date": "2026-07-27 23:16:30"
+      },
+      {
+        "rank": 8,
+        "code": "000088.SZ",
+        "name": "盐田港",
+        "score": 103.54,
+        "industry": "港口",
+        "_original_date": "2026-07-27 23:16:30"
+      },
+      {
+        "rank": 9,
+        "code": "600177.SH",
+        "name": "雅戈尔",
+        "score": 100.75,
+        "industry": "服饰",
+        "_original_date": "2026-07-27 23:16:30"
+      },
+      {
+        "rank": 10,
+        "code": "601555.SH",
+        "name": "东吴证券",
+        "score": 100.52,
+        "industry": "证券",
+        "_original_date": "2026-07-27 23:16:30"
+      }
+    ],
     "2026-07-24": [
       {
         "rank": 1,
@@ -3580,173 +3744,173 @@
         "industry": "小金属",
         "_original_date": "2026-06-23"
       }
-    ],
-    "2026-06-22": [
-      {
-        "rank": 1,
-        "code": "601958.SH",
-        "name": "金钼股份",
-        "score": 71.87,
-        "industry": "小金属",
-        "_original_date": "2026-06-22"
-      },
-      {
-        "rank": 2,
-        "code": "600909.SH",
-        "name": "华安证券",
-        "score": 71.04,
-        "industry": "证券",
-        "_original_date": "2026-06-22"
-      },
-      {
-        "rank": 3,
-        "code": "000623.SZ",
-        "name": "吉林敖东",
-        "score": 69.83,
-        "industry": "中成药",
-        "_original_date": "2026-06-22"
-      },
-      {
-        "rank": 4,
-        "code": "600906.SH",
-        "name": "财达证券",
-        "score": 69.34,
-        "industry": "证券",
-        "_original_date": "2026-06-22"
-      },
-      {
-        "rank": 5,
-        "code": "600549.SH",
-        "name": "厦门钨业",
-        "score": 69.1,
-        "industry": "小金属",
-        "_original_date": "2026-06-22"
-      },
-      {
-        "rank": 6,
-        "code": "603156.SH",
-        "name": "养元饮品",
-        "score": 68.08,
-        "industry": "软饮料",
-        "_original_date": "2026-06-22"
-      },
-      {
-        "rank": 7,
-        "code": "002203.SZ",
-        "name": "海亮股份",
-        "score": 67.93,
-        "industry": "铜",
-        "_original_date": "2026-06-22"
-      },
-      {
-        "rank": 8,
-        "code": "688525.SH",
-        "name": "佰维存储",
-        "score": 66.69,
-        "industry": "半导体",
-        "_original_date": "2026-06-22"
-      },
-      {
-        "rank": 9,
-        "code": "300037.SZ",
-        "name": "新宙邦",
-        "score": 66.51,
-        "industry": "化工原料",
-        "_original_date": "2026-06-22"
-      },
-      {
-        "rank": 10,
-        "code": "300475.SZ",
-        "name": "香农芯创",
-        "score": 65.78,
-        "industry": "元器件",
-        "_original_date": "2026-06-22"
-      }
-    ],
-    "2026-06-21": [
-      {
-        "rank": 1,
-        "code": "601696.SH",
-        "name": "中银证券",
-        "score": 85.13,
-        "industry": "证券",
-        "_original_date": "2026-06-21"
-      },
-      {
-        "rank": 2,
-        "code": "001696.SZ",
-        "name": "宗申动力",
-        "score": 83.24,
-        "industry": "摩托车",
-        "_original_date": "2026-06-21"
-      },
-      {
-        "rank": 3,
-        "code": "600909.SH",
-        "name": "华安证券",
-        "score": 81.55,
-        "industry": "证券",
-        "_original_date": "2026-06-21"
-      },
-      {
-        "rank": 4,
-        "code": "301536.SZ",
-        "name": "星宸科技",
-        "score": 80.74,
-        "industry": "半导体",
-        "_original_date": "2026-06-21"
-      },
-      {
-        "rank": 5,
-        "code": "600549.SH",
-        "name": "厦门钨业",
-        "score": 80.4,
-        "industry": "小金属",
-        "_original_date": "2026-06-21"
-      },
-      {
-        "rank": 6,
-        "code": "600906.SH",
-        "name": "财达证券",
-        "score": 79.84,
-        "industry": "证券",
-        "_original_date": "2026-06-21"
-      },
-      {
-        "rank": 7,
-        "code": "300475.SZ",
-        "name": "香农芯创",
-        "score": 79.1,
-        "industry": "元器件",
-        "_original_date": "2026-06-21"
-      },
-      {
-        "rank": 8,
-        "code": "603858.SH",
-        "name": "步长制药",
-        "score": 78.92,
-        "industry": "中成药",
-        "_original_date": "2026-06-21"
-      },
-      {
-        "rank": 9,
-        "code": "300558.SZ",
-        "name": "贝达药业",
-        "score": 78.24,
-        "industry": "化学制药",
-        "_original_date": "2026-06-21"
-      },
-      {
-        "rank": 10,
-        "code": "600390.SH",
-        "name": "五矿资本",
-        "score": 77.62,
-        "industry": "多元金融",
-        "_original_date": "2026-06-21"
-      }
     ]
   },
   "elephant": {
+    "2026-07-28": [
+      {
+        "rank": 1,
+        "code": "300866.SZ",
+        "name": "安克创新",
+        "score": 100.0,
+        "industry": "元器件",
+        "_original_date": "2026-07-28 09:07:45"
+      },
+      {
+        "rank": 2,
+        "code": "688188.SH",
+        "name": "柏楚电子",
+        "score": 99.81,
+        "industry": "专用机械",
+        "_original_date": "2026-07-28 09:07:45"
+      },
+      {
+        "rank": 3,
+        "code": "002241.SZ",
+        "name": "歌尔股份",
+        "score": 99.63,
+        "industry": "元器件",
+        "_original_date": "2026-07-28 09:07:45"
+      },
+      {
+        "rank": 4,
+        "code": "300628.SZ",
+        "name": "亿联网络",
+        "score": 99.44,
+        "industry": "通信设备",
+        "_original_date": "2026-07-28 09:07:45"
+      },
+      {
+        "rank": 5,
+        "code": "603993.SH",
+        "name": "洛阳钼业",
+        "score": 99.25,
+        "industry": "小金属",
+        "_original_date": "2026-07-28 09:07:45"
+      },
+      {
+        "rank": 6,
+        "code": "600221.SH",
+        "name": "海航控股",
+        "score": 99.07,
+        "industry": "空运",
+        "_original_date": "2026-07-28 09:07:45"
+      },
+      {
+        "rank": 7,
+        "code": "600741.SH",
+        "name": "华域汽车",
+        "score": 98.88,
+        "industry": "汽车配件",
+        "_original_date": "2026-07-28 09:07:45"
+      },
+      {
+        "rank": 8,
+        "code": "688608.SH",
+        "name": "恒玄科技",
+        "score": 98.69,
+        "industry": "半导体",
+        "_original_date": "2026-07-28 09:07:45"
+      },
+      {
+        "rank": 9,
+        "code": "603501.SH",
+        "name": "豪威集团",
+        "score": 98.51,
+        "industry": "半导体",
+        "_original_date": "2026-07-28 09:07:45"
+      },
+      {
+        "rank": 10,
+        "code": "688347.SH",
+        "name": "华虹宏力",
+        "score": 98.32,
+        "industry": "半导体",
+        "_original_date": "2026-07-28 09:07:45"
+      }
+    ],
+    "2026-07-27": [
+      {
+        "rank": 1,
+        "code": "300866.SZ",
+        "name": "安克创新",
+        "score": 100.0,
+        "industry": "元器件",
+        "_original_date": "2026-07-27 23:24:52"
+      },
+      {
+        "rank": 2,
+        "code": "688188.SH",
+        "name": "柏楚电子",
+        "score": 99.81,
+        "industry": "专用机械",
+        "_original_date": "2026-07-27 23:24:52"
+      },
+      {
+        "rank": 3,
+        "code": "002241.SZ",
+        "name": "歌尔股份",
+        "score": 99.63,
+        "industry": "元器件",
+        "_original_date": "2026-07-27 23:24:52"
+      },
+      {
+        "rank": 4,
+        "code": "300628.SZ",
+        "name": "亿联网络",
+        "score": 99.44,
+        "industry": "通信设备",
+        "_original_date": "2026-07-27 23:24:52"
+      },
+      {
+        "rank": 5,
+        "code": "603993.SH",
+        "name": "洛阳钼业",
+        "score": 99.25,
+        "industry": "小金属",
+        "_original_date": "2026-07-27 23:24:52"
+      },
+      {
+        "rank": 6,
+        "code": "600221.SH",
+        "name": "海航控股",
+        "score": 99.07,
+        "industry": "空运",
+        "_original_date": "2026-07-27 23:24:52"
+      },
+      {
+        "rank": 7,
+        "code": "600741.SH",
+        "name": "华域汽车",
+        "score": 98.88,
+        "industry": "汽车配件",
+        "_original_date": "2026-07-27 23:24:52"
+      },
+      {
+        "rank": 8,
+        "code": "688608.SH",
+        "name": "恒玄科技",
+        "score": 98.69,
+        "industry": "半导体",
+        "_original_date": "2026-07-27 23:24:52"
+      },
+      {
+        "rank": 9,
+        "code": "603501.SH",
+        "name": "豪威集团",
+        "score": 98.51,
+        "industry": "半导体",
+        "_original_date": "2026-07-27 23:24:52"
+      },
+      {
+        "rank": 10,
+        "code": "688347.SH",
+        "name": "华虹宏力",
+        "score": 98.32,
+        "industry": "半导体",
+        "_original_date": "2026-07-27 23:24:52"
+      }
+    ],
     "2026-07-25": [
       {
         "rank": 1,
@@ -5960,170 +6124,6 @@
         "industry": "机械设备",
         "_original_date": "2026-06-27 00:50:33"
       }
-    ],
-    "2026-06-26": [
-      {
-        "rank": 1,
-        "code": "688390.SH",
-        "name": "固德威",
-        "score": 100.0,
-        "industry": "电力设备",
-        "_original_date": "2026-06-26 18:35:18"
-      },
-      {
-        "rank": 2,
-        "code": "600667.SH",
-        "name": "太极实业",
-        "score": 99.8,
-        "industry": "建筑装饰",
-        "_original_date": "2026-06-26 18:35:18"
-      },
-      {
-        "rank": 3,
-        "code": "688521.SH",
-        "name": "芯原股份",
-        "score": 99.6,
-        "industry": "电子",
-        "_original_date": "2026-06-26 18:35:18"
-      },
-      {
-        "rank": 4,
-        "code": "300757.SZ",
-        "name": "罗博特科",
-        "score": 99.4,
-        "industry": "机械设备",
-        "_original_date": "2026-06-26 18:35:18"
-      },
-      {
-        "rank": 5,
-        "code": "002436.SZ",
-        "name": "兴森科技",
-        "score": 99.2,
-        "industry": "电子",
-        "_original_date": "2026-06-26 18:35:18"
-      },
-      {
-        "rank": 6,
-        "code": "002938.SZ",
-        "name": "鹏鼎控股",
-        "score": 99.0,
-        "industry": "电子",
-        "_original_date": "2026-06-26 18:35:18"
-      },
-      {
-        "rank": 7,
-        "code": "600584.SH",
-        "name": "长电科技",
-        "score": 98.8,
-        "industry": "电子",
-        "_original_date": "2026-06-26 18:35:18"
-      },
-      {
-        "rank": 8,
-        "code": "002185.SZ",
-        "name": "华天科技",
-        "score": 98.61,
-        "industry": "电子",
-        "_original_date": "2026-06-26 18:35:18"
-      },
-      {
-        "rank": 9,
-        "code": "300285.SZ",
-        "name": "国瓷材料",
-        "score": 98.41,
-        "industry": "电子",
-        "_original_date": "2026-06-26 18:35:18"
-      },
-      {
-        "rank": 10,
-        "code": "300567.SZ",
-        "name": "精测电子",
-        "score": 98.21,
-        "industry": "机械设备",
-        "_original_date": "2026-06-26 18:35:18"
-      }
-    ],
-    "2026-06-25": [
-      {
-        "rank": 1,
-        "code": "688390.SH",
-        "name": "固德威",
-        "score": 100.0,
-        "industry": "电力设备",
-        "_original_date": "2026-06-25 23:56:33"
-      },
-      {
-        "rank": 2,
-        "code": "600667.SH",
-        "name": "太极实业",
-        "score": 99.8,
-        "industry": "建筑装饰",
-        "_original_date": "2026-06-25 23:56:33"
-      },
-      {
-        "rank": 3,
-        "code": "600498.SH",
-        "name": "烽火通信",
-        "score": 99.6,
-        "industry": "通信",
-        "_original_date": "2026-06-25 23:56:33"
-      },
-      {
-        "rank": 4,
-        "code": "688521.SH",
-        "name": "芯原股份",
-        "score": 99.4,
-        "industry": "电子",
-        "_original_date": "2026-06-25 23:56:33"
-      },
-      {
-        "rank": 5,
-        "code": "600522.SH",
-        "name": "中天科技",
-        "score": 99.2,
-        "industry": "通信",
-        "_original_date": "2026-06-25 23:56:33"
-      },
-      {
-        "rank": 6,
-        "code": "600487.SH",
-        "name": "亨通光电",
-        "score": 99.0,
-        "industry": "通信",
-        "_original_date": "2026-06-25 23:56:33"
-      },
-      {
-        "rank": 7,
-        "code": "002156.SZ",
-        "name": "通富微电",
-        "score": 98.8,
-        "industry": "电子",
-        "_original_date": "2026-06-25 23:56:33"
-      },
-      {
-        "rank": 8,
-        "code": "605589.SH",
-        "name": "圣泉集团",
-        "score": 98.61,
-        "industry": "基础化工",
-        "_original_date": "2026-06-25 23:56:33"
-      },
-      {
-        "rank": 9,
-        "code": "300567.SZ",
-        "name": "精测电子",
-        "score": 98.41,
-        "industry": "机械设备",
-        "_original_date": "2026-06-25 23:56:33"
-      },
-      {
-        "rank": 10,
-        "code": "002938.SZ",
-        "name": "鹏鼎控股",
-        "score": 98.21,
-        "industry": "电子",
-        "_original_date": "2026-06-25 23:56:33"
-      }
     ]
   },
   "hunter_timestamps": {
@@ -6207,7 +6207,9 @@
     "2026-07-20": "2026-07-20 21:03:02",
     "2026-07-21": "2026-07-21 09:16:28",
     "2026-07-22": "2026-07-22 09:03:15",
-    "2026-07-24": "2026-07-24 13:03:43"
+    "2026-07-24": "2026-07-24 13:03:43",
+    "2026-07-27": "2026-07-27 23:16:30",
+    "2026-07-28": "2026-07-28 09:05:25"
   },
   "elephant_timestamps": {
     "2026-06-21": "2026-06-21",
@@ -6244,7 +6246,9 @@
     "2026-07-21": "2026-07-21 09:12:33",
     "2026-07-22": "2026-07-22 09:08:49",
     "2026-07-24": "2026-07-24 12:02:29",
-    "2026-07-25": "2026-07-25 10:27:50"
+    "2026-07-25": "2026-07-25 10:27:50",
+    "2026-07-27": "2026-07-27 23:24:52",
+    "2026-07-28": "2026-07-28 09:07:45"
   },
   "all_dates": [
     "2026-06-03",
@@ -6300,6 +6304,8 @@
     "2026-07-23",
     "2026-07-24",
     "2026-07-25",
-    "2026-07-26"
+    "2026-07-26",
+    "2026-07-27",
+    "2026-07-28"
   ]
 }
