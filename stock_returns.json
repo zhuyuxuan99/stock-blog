@@ -272909,7 +272909,7 @@
             "date": "20260720",
             "date_display": "2026-07-20",
             "close": 7.06,
-            "pct_chg": 0.0,
+            "pct_chg": 1.44,
             "return_rate": 0.0,
             "is_weekend": false
           },
@@ -272917,7 +272917,7 @@
             "date": "20260721",
             "date_display": "2026-07-21",
             "close": 7.11,
-            "pct_chg": 0.0,
+            "pct_chg": 0.71,
             "return_rate": 0.71,
             "is_weekend": false
           },
@@ -272925,7 +272925,7 @@
             "date": "20260722",
             "date_display": "2026-07-22",
             "close": 7.29,
-            "pct_chg": 0.0,
+            "pct_chg": 2.53,
             "return_rate": 3.26,
             "is_weekend": false
           },
@@ -272933,7 +272933,7 @@
             "date": "20260723",
             "date_display": "2026-07-23",
             "close": 7.46,
-            "pct_chg": 0.0,
+            "pct_chg": 2.33,
             "return_rate": 5.67,
             "is_weekend": false
           },
@@ -272941,7 +272941,7 @@
             "date": "20260724",
             "date_display": "2026-07-24",
             "close": 7.02,
-            "pct_chg": 0.0,
+            "pct_chg": -5.9,
             "return_rate": -0.57,
             "is_weekend": false
           },
@@ -272963,7 +272963,7 @@
             "date": "20260727",
             "date_display": "2026-07-27",
             "close": 7.22,
-            "pct_chg": 0.0,
+            "pct_chg": 2.85,
             "return_rate": 2.27,
             "is_weekend": false
           },
@@ -272971,7 +272971,7 @@
             "date": "20260728",
             "date_display": "2026-07-28",
             "close": 7.2,
-            "pct_chg": 0.0,
+            "pct_chg": -0.28,
             "return_rate": 1.98,
             "is_weekend": false
           },
@@ -272979,7 +272979,7 @@
             "date": "20260729",
             "date_display": "2026-07-29",
             "close": 7.39,
-            "pct_chg": 0.0,
+            "pct_chg": 2.64,
             "return_rate": 4.67,
             "is_weekend": false
           },
@@ -272987,7 +272987,7 @@
             "date": "20260730",
             "date_display": "2026-07-30",
             "close": 7.51,
-            "pct_chg": 0.0,
+            "pct_chg": 1.62,
             "return_rate": 6.37,
             "is_weekend": false
           },
@@ -273017,7 +273017,7 @@
             "date": "20260803",
             "date_display": "2026-08-03",
             "close": 7.89,
-            "pct_chg": 0.0,
+            "pct_chg": 5.06,
             "return_rate": 11.76,
             "is_weekend": false
           },
@@ -273025,7 +273025,7 @@
             "date": "20260804",
             "date_display": "2026-08-04",
             "close": 7.79,
-            "pct_chg": 0.0,
+            "pct_chg": -1.27,
             "return_rate": 10.34,
             "is_weekend": false
           },
@@ -273033,7 +273033,7 @@
             "date": "20260805",
             "date_display": "2026-08-05",
             "close": 7.78,
-            "pct_chg": 0.0,
+            "pct_chg": -0.13,
             "return_rate": 10.2,
             "is_weekend": false
           },
@@ -273041,7 +273041,7 @@
             "date": "20260806",
             "date_display": "2026-08-06",
             "close": 7.65,
-            "pct_chg": 0.0,
+            "pct_chg": -1.67,
             "return_rate": 8.36,
             "is_weekend": false
           },
@@ -273049,7 +273049,7 @@
             "date": "20260807",
             "date_display": "2026-08-07",
             "close": 7.72,
-            "pct_chg": 0.0,
+            "pct_chg": 0.92,
             "return_rate": 9.35,
             "is_weekend": false
           },
@@ -273071,7 +273071,7 @@
             "date": "20260810",
             "date_display": "2026-08-10",
             "close": 7.8,
-            "pct_chg": 0.0,
+            "pct_chg": 1.04,
             "return_rate": 10.48,
             "is_weekend": false
           },
@@ -273079,7 +273079,7 @@
             "date": "20260811",
             "date_display": "2026-08-11",
             "close": 7.69,
-            "pct_chg": 0.0,
+            "pct_chg": -1.41,
             "return_rate": 8.92,
             "is_weekend": false
           },
@@ -273087,7 +273087,7 @@
             "date": "20260812",
             "date_display": "2026-08-12",
             "close": 7.94,
-            "pct_chg": 0.0,
+            "pct_chg": 3.25,
             "return_rate": 12.46,
             "is_weekend": false
           },
@@ -273095,7 +273095,7 @@
             "date": "20260813",
             "date_display": "2026-08-13",
             "close": 7.62,
-            "pct_chg": 0.0,
+            "pct_chg": -4.03,
             "return_rate": 7.93,
             "is_weekend": false
           },
@@ -273103,7 +273103,7 @@
             "date": "20260814",
             "date_display": "2026-08-14",
             "close": 7.56,
-            "pct_chg": 0.0,
+            "pct_chg": -0.79,
             "return_rate": 7.08,
             "is_weekend": false
           },
@@ -273125,7 +273125,7 @@
             "date": "20260817",
             "date_display": "2026-08-17",
             "close": 7.7,
-            "pct_chg": 0.0,
+            "pct_chg": 1.85,
             "return_rate": 9.07,
             "is_weekend": false
           },
@@ -273133,7 +273133,7 @@
             "date": "20260818",
             "date_display": "2026-08-18",
             "close": 7.65,
-            "pct_chg": 0.0,
+            "pct_chg": -0.65,
             "return_rate": 8.36,
             "is_weekend": false
           },
@@ -273141,7 +273141,7 @@
             "date": "20260819",
             "date_display": "2026-08-19",
             "close": 7.29,
-            "pct_chg": 0.0,
+            "pct_chg": -4.71,
             "return_rate": 3.26,
             "is_weekend": false
           },
@@ -273149,7 +273149,7 @@
             "date": "20260820",
             "date_display": "2026-08-20",
             "close": 7.3,
-            "pct_chg": 0.0,
+            "pct_chg": 0.14,
             "return_rate": 3.4,
             "is_weekend": false
           },
@@ -273178,474 +273178,79 @@
     },
     "price_data": [
       {
-        "date": "20260316",
-        "close": 12.69,
+        "date": "20260821",
+        "close": 7.3,
         "pct_chg": 0.0
       },
       {
-        "date": "20260317",
-        "close": 12.72,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260318",
-        "close": 12.36,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260319",
-        "close": 12.5,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260320",
-        "close": 12.7,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260323",
-        "close": 12.54,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260324",
-        "close": 12.35,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260325",
-        "close": 12.3,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260326",
-        "close": 11.79,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260327",
-        "close": 11.95,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260330",
-        "close": 11.4,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260331",
-        "close": 10.9,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260401",
-        "close": 11.28,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260402",
-        "close": 10.93,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260403",
-        "close": 10.24,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260407",
-        "close": 10.27,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260408",
-        "close": 10.91,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260409",
-        "close": 10.58,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260410",
-        "close": 10.75,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260413",
-        "close": 11.17,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260414",
-        "close": 11.03,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260415",
-        "close": 10.86,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260416",
-        "close": 10.94,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260417",
-        "close": 10.98,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260420",
-        "close": 11.15,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260421",
-        "close": 11.05,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260422",
-        "close": 10.98,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260423",
-        "close": 10.87,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260424",
-        "close": 10.86,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260427",
-        "close": 10.68,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260428",
-        "close": 10.55,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260429",
-        "close": 10.75,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260430",
-        "close": 10.87,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260506",
-        "close": 10.91,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260507",
-        "close": 10.86,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260508",
-        "close": 10.94,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260511",
-        "close": 11.02,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260512",
-        "close": 11.12,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260513",
-        "close": 11.18,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260514",
-        "close": 10.94,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260515",
-        "close": 10.37,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260518",
-        "close": 10.26,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260519",
-        "close": 10.19,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260520",
-        "close": 10.05,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260521",
-        "close": 9.67,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260522",
-        "close": 9.83,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260525",
-        "close": 9.64,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260526",
-        "close": 9.47,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260527",
-        "close": 9.36,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260528",
-        "close": 9.48,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260529",
-        "close": 9.11,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260601",
-        "close": 9.06,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260602",
-        "close": 8.76,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260603",
-        "close": 8.68,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260604",
-        "close": 8.62,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260605",
-        "close": 8.44,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260608",
-        "close": 8.04,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260609",
-        "close": 8.32,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260610",
-        "close": 9.15,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260611",
-        "close": 8.9,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260612",
-        "close": 8.85,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260615",
-        "close": 8.7,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260616",
-        "close": 8.69,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260617",
-        "close": 8.47,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260618",
-        "close": 8.33,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260622",
-        "close": 8.45,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260623",
-        "close": 8.07,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260624",
-        "close": 8.05,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260625",
-        "close": 8.05,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260626",
-        "close": 7.9,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260629",
-        "close": 7.88,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260630",
-        "close": 8.1,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260701",
-        "close": 8.72,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260702",
-        "close": 9.05,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260703",
-        "close": 8.27,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260706",
-        "close": 8.03,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260707",
-        "close": 7.86,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260708",
-        "close": 7.52,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260709",
-        "close": 7.5,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260710",
-        "close": 7.61,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260713",
-        "close": 7.03,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260714",
-        "close": 7.08,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260715",
-        "close": 7.18,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260716",
-        "close": 7.1,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260717",
-        "close": 6.96,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260720",
-        "close": 7.06,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260721",
-        "close": 7.11,
-        "pct_chg": 0.0
+        "date": "20260820",
+        "close": 7.3,
+        "pct_chg": 0.1372
       },
       {
-        "date": "20260722",
+        "date": "20260819",
         "close": 7.29,
-        "pct_chg": 0.0
+        "pct_chg": -4.7059
       },
       {
-        "date": "20260723",
-        "close": 7.46,
-        "pct_chg": 0.0
+        "date": "20260818",
+        "close": 7.65,
+        "pct_chg": -0.6494
       },
       {
-        "date": "20260724",
-        "close": 7.02,
-        "pct_chg": 0.0
+        "date": "20260817",
+        "close": 7.7,
+        "pct_chg": 1.8519
       },
       {
-        "date": "20260727",
-        "close": 7.22,
-        "pct_chg": 0.0
+        "date": "20260814",
+        "close": 7.56,
+        "pct_chg": -0.7874
       },
       {
-        "date": "20260728",
-        "close": 7.2,
-        "pct_chg": 0.0
+        "date": "20260813",
+        "close": 7.62,
+        "pct_chg": -4.0302
       },
       {
-        "date": "20260729",
-        "close": 7.39,
-        "pct_chg": 0.0
+        "date": "20260812",
+        "close": 7.94,
+        "pct_chg": 3.251
       },
       {
-        "date": "20260730",
-        "close": 7.51,
-        "pct_chg": 0.0
+        "date": "20260811",
+        "close": 7.69,
+        "pct_chg": -1.4103
+      },
+      {
+        "date": "20260810",
+        "close": 7.8,
+        "pct_chg": 1.0363
+      },
+      {
+        "date": "20260807",
+        "close": 7.72,
+        "pct_chg": 0.915
+      },
+      {
+        "date": "20260806",
+        "close": 7.65,
+        "pct_chg": -1.671
+      },
+      {
+        "date": "20260805",
+        "close": 7.78,
+        "pct_chg": -0.1284
+      },
+      {
+        "date": "20260804",
+        "close": 7.79,
+        "pct_chg": -1.2674
+      },
+      {
+        "date": "20260803",
+        "close": 7.89,
+        "pct_chg": 5.0599
       },
       {
         "date": "20260731",
@@ -273653,79 +273258,209 @@
         "pct_chg": 0.0
       },
       {
-        "date": "20260803",
-        "close": 7.89,
-        "pct_chg": 0.0
+        "date": "20260730",
+        "close": 7.51,
+        "pct_chg": 1.6238
       },
       {
-        "date": "20260804",
-        "close": 7.79,
-        "pct_chg": 0.0
+        "date": "20260729",
+        "close": 7.39,
+        "pct_chg": 2.6389
       },
       {
-        "date": "20260805",
-        "close": 7.78,
-        "pct_chg": 0.0
+        "date": "20260728",
+        "close": 7.2,
+        "pct_chg": -0.277
       },
       {
-        "date": "20260806",
-        "close": 7.65,
-        "pct_chg": 0.0
+        "date": "20260727",
+        "close": 7.22,
+        "pct_chg": 2.849
       },
       {
-        "date": "20260807",
-        "close": 7.72,
-        "pct_chg": 0.0
+        "date": "20260724",
+        "close": 7.02,
+        "pct_chg": -5.8981
       },
       {
-        "date": "20260810",
-        "close": 7.8,
-        "pct_chg": 0.0
+        "date": "20260723",
+        "close": 7.46,
+        "pct_chg": 2.332
       },
       {
-        "date": "20260811",
-        "close": 7.69,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260812",
-        "close": 7.94,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260813",
-        "close": 7.62,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260814",
-        "close": 7.56,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260817",
-        "close": 7.7,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260818",
-        "close": 7.65,
-        "pct_chg": 0.0
-      },
-      {
-        "date": "20260819",
+        "date": "20260722",
         "close": 7.29,
+        "pct_chg": 2.5316
+      },
+      {
+        "date": "20260721",
+        "close": 7.11,
+        "pct_chg": 0.7082
+      },
+      {
+        "date": "20260720",
+        "close": 7.06,
+        "pct_chg": 1.4368
+      },
+      {
+        "date": "20260717",
+        "close": 6.96,
+        "pct_chg": -1.9718
+      },
+      {
+        "date": "20260716",
+        "close": 7.1,
+        "pct_chg": -1.1142
+      },
+      {
+        "date": "20260715",
+        "close": 7.18,
+        "pct_chg": 1.4124
+      },
+      {
+        "date": "20260714",
+        "close": 7.08,
+        "pct_chg": 0.7112
+      },
+      {
+        "date": "20260713",
+        "close": 7.03,
+        "pct_chg": -7.6216
+      },
+      {
+        "date": "20260710",
+        "close": 7.61,
+        "pct_chg": 1.4667
+      },
+      {
+        "date": "20260709",
+        "close": 7.5,
+        "pct_chg": -0.266
+      },
+      {
+        "date": "20260708",
+        "close": 7.52,
+        "pct_chg": -4.3257
+      },
+      {
+        "date": "20260707",
+        "close": 7.86,
+        "pct_chg": -2.1171
+      },
+      {
+        "date": "20260706",
+        "close": 8.03,
+        "pct_chg": -2.9021
+      },
+      {
+        "date": "20260703",
+        "close": 8.27,
+        "pct_chg": -8.6188
+      },
+      {
+        "date": "20260702",
+        "close": 9.05,
+        "pct_chg": 3.7844
+      },
+      {
+        "date": "20260701",
+        "close": 8.72,
+        "pct_chg": 7.6543
+      },
+      {
+        "date": "20260630",
+        "close": 8.1,
+        "pct_chg": 2.7919
+      },
+      {
+        "date": "20260629",
+        "close": 7.88,
+        "pct_chg": -0.2532
+      },
+      {
+        "date": "20260626",
+        "close": 7.9,
+        "pct_chg": -1.8634
+      },
+      {
+        "date": "20260625",
+        "close": 8.05,
         "pct_chg": 0.0
       },
       {
-        "date": "20260820",
-        "close": 7.3,
-        "pct_chg": 0.0
+        "date": "20260624",
+        "close": 8.05,
+        "pct_chg": -0.2478
       },
       {
-        "date": "20260821",
-        "close": 7.3,
-        "pct_chg": 0.0
+        "date": "20260623",
+        "close": 8.07,
+        "pct_chg": -4.497
+      },
+      {
+        "date": "20260622",
+        "close": 8.45,
+        "pct_chg": 1.4406
+      },
+      {
+        "date": "20260618",
+        "close": 8.33,
+        "pct_chg": -1.6529
+      },
+      {
+        "date": "20260617",
+        "close": 8.47,
+        "pct_chg": -2.5316
+      },
+      {
+        "date": "20260616",
+        "close": 8.69,
+        "pct_chg": -0.1149
+      },
+      {
+        "date": "20260615",
+        "close": 8.7,
+        "pct_chg": -1.6949
+      },
+      {
+        "date": "20260612",
+        "close": 8.85,
+        "pct_chg": -0.5618
+      },
+      {
+        "date": "20260611",
+        "close": 8.9,
+        "pct_chg": -2.7322
+      },
+      {
+        "date": "20260610",
+        "close": 9.15,
+        "pct_chg": 9.976
+      },
+      {
+        "date": "20260609",
+        "close": 8.32,
+        "pct_chg": 3.4826
+      },
+      {
+        "date": "20260608",
+        "close": 8.04,
+        "pct_chg": -4.7393
+      },
+      {
+        "date": "20260605",
+        "close": 8.44,
+        "pct_chg": -2.0882
+      },
+      {
+        "date": "20260604",
+        "close": 8.62,
+        "pct_chg": -0.6912
+      },
+      {
+        "date": "20260603",
+        "close": 8.68,
+        "pct_chg": -0.9132
       }
     ],
     "realtime_price": {
@@ -282324,7 +282059,7 @@
             "date": "20260715",
             "date_display": "2026-07-15",
             "close": 29.16,
-            "pct_chg": 1.78,
+            "pct_chg": 0.0,
             "return_rate": 0.0,
             "is_weekend": false
           },
@@ -282332,7 +282067,7 @@
             "date": "20260716",
             "date_display": "2026-07-16",
             "close": 30.08,
-            "pct_chg": 3.15,
+            "pct_chg": 0.0,
             "return_rate": 3.16,
             "is_weekend": false
           },
@@ -282340,7 +282075,7 @@
             "date": "20260717",
             "date_display": "2026-07-17",
             "close": 29.76,
-            "pct_chg": -1.06,
+            "pct_chg": 0.0,
             "return_rate": 2.06,
             "is_weekend": false
           },
@@ -282362,7 +282097,7 @@
             "date": "20260720",
             "date_display": "2026-07-20",
             "close": 32.09,
-            "pct_chg": 7.83,
+            "pct_chg": 0.0,
             "return_rate": 10.05,
             "is_weekend": false
           },
@@ -282370,7 +282105,7 @@
             "date": "20260721",
             "date_display": "2026-07-21",
             "close": 31.48,
-            "pct_chg": -1.9,
+            "pct_chg": 0.0,
             "return_rate": 7.96,
             "is_weekend": false
           },
@@ -282378,7 +282113,7 @@
             "date": "20260722",
             "date_display": "2026-07-22",
             "close": 30.98,
-            "pct_chg": -1.59,
+            "pct_chg": 0.0,
             "return_rate": 6.24,
             "is_weekend": false
           },
@@ -282386,7 +282121,7 @@
             "date": "20260723",
             "date_display": "2026-07-23",
             "close": 32.18,
-            "pct_chg": 3.87,
+            "pct_chg": 0.0,
             "return_rate": 10.36,
             "is_weekend": false
           },
@@ -282394,7 +282129,7 @@
             "date": "20260724",
             "date_display": "2026-07-24",
             "close": 31.66,
-            "pct_chg": -1.62,
+            "pct_chg": 0.0,
             "return_rate": 8.57,
             "is_weekend": false
           },
@@ -282416,7 +282151,7 @@
             "date": "20260727",
             "date_display": "2026-07-27",
             "close": 32.16,
-            "pct_chg": 1.58,
+            "pct_chg": 0.0,
             "return_rate": 10.29,
             "is_weekend": false
           },
@@ -282424,7 +282159,7 @@
             "date": "20260728",
             "date_display": "2026-07-28",
             "close": 32.85,
-            "pct_chg": 2.15,
+            "pct_chg": 0.0,
             "return_rate": 12.65,
             "is_weekend": false
           },
@@ -282432,7 +282167,7 @@
             "date": "20260729",
             "date_display": "2026-07-29",
             "close": 32.35,
-            "pct_chg": -1.52,
+            "pct_chg": 0.0,
             "return_rate": 10.94,
             "is_weekend": false
           },
@@ -282440,7 +282175,7 @@
             "date": "20260730",
             "date_display": "2026-07-30",
             "close": 33.8,
-            "pct_chg": 4.48,
+            "pct_chg": 0.0,
             "return_rate": 15.91,
             "is_weekend": false
           },
@@ -282448,7 +282183,7 @@
             "date": "20260731",
             "date_display": "2026-07-31",
             "close": 32.2,
-            "pct_chg": -4.73,
+            "pct_chg": 0.0,
             "return_rate": 10.43,
             "is_weekend": false
           },
@@ -282470,7 +282205,7 @@
             "date": "20260803",
             "date_display": "2026-08-03",
             "close": 32.29,
-            "pct_chg": 0.28,
+            "pct_chg": 0.0,
             "return_rate": 10.73,
             "is_weekend": false
           },
@@ -282478,7 +282213,7 @@
             "date": "20260804",
             "date_display": "2026-08-04",
             "close": 31.8,
-            "pct_chg": -1.52,
+            "pct_chg": 0.0,
             "return_rate": 9.05,
             "is_weekend": false
           },
@@ -282486,7 +282221,7 @@
             "date": "20260805",
             "date_display": "2026-08-05",
             "close": 32.29,
-            "pct_chg": 1.54,
+            "pct_chg": 0.0,
             "return_rate": 10.73,
             "is_weekend": false
           },
@@ -282494,7 +282229,7 @@
             "date": "20260806",
             "date_display": "2026-08-06",
             "close": 32.33,
-            "pct_chg": 0.12,
+            "pct_chg": 0.0,
             "return_rate": 10.87,
             "is_weekend": false
           },
@@ -282502,7 +282237,7 @@
             "date": "20260807",
             "date_display": "2026-08-07",
             "close": 31.9,
-            "pct_chg": -1.33,
+            "pct_chg": 0.0,
             "return_rate": 9.4,
             "is_weekend": false
           },
@@ -282524,7 +282259,7 @@
             "date": "20260810",
             "date_display": "2026-08-10",
             "close": 32.97,
-            "pct_chg": 3.35,
+            "pct_chg": 0.0,
             "return_rate": 13.07,
             "is_weekend": false
           },
@@ -282532,7 +282267,7 @@
             "date": "20260811",
             "date_display": "2026-08-11",
             "close": 30.35,
-            "pct_chg": -7.95,
+            "pct_chg": 0.0,
             "return_rate": 4.08,
             "is_weekend": false
           },
@@ -282540,7 +282275,7 @@
             "date": "20260812",
             "date_display": "2026-08-12",
             "close": 29.82,
-            "pct_chg": -1.75,
+            "pct_chg": 0.0,
             "return_rate": 2.26,
             "is_weekend": false
           },
@@ -282548,7 +282283,7 @@
             "date": "20260813",
             "date_display": "2026-08-13",
             "close": 29.21,
-            "pct_chg": -2.05,
+            "pct_chg": 0.0,
             "return_rate": 0.17,
             "is_weekend": false
           },
@@ -282556,7 +282291,7 @@
             "date": "20260814",
             "date_display": "2026-08-14",
             "close": 28.69,
-            "pct_chg": -1.78,
+            "pct_chg": 0.0,
             "return_rate": -1.61,
             "is_weekend": false
           },
@@ -282578,7 +282313,7 @@
             "date": "20260817",
             "date_display": "2026-08-17",
             "close": 28.95,
-            "pct_chg": 0.91,
+            "pct_chg": 0.0,
             "return_rate": -0.72,
             "is_weekend": false
           },
@@ -282586,7 +282321,7 @@
             "date": "20260818",
             "date_display": "2026-08-18",
             "close": 29.59,
-            "pct_chg": 2.21,
+            "pct_chg": 0.0,
             "return_rate": 1.47,
             "is_weekend": false
           },
@@ -282594,7 +282329,7 @@
             "date": "20260819",
             "date_display": "2026-08-19",
             "close": 29.83,
-            "pct_chg": 0.81,
+            "pct_chg": 0.0,
             "return_rate": 2.3,
             "is_weekend": false
           },
@@ -282602,7 +282337,7 @@
             "date": "20260820",
             "date_display": "2026-08-20",
             "close": 30.05,
-            "pct_chg": 0.74,
+            "pct_chg": 0.0,
             "return_rate": 3.05,
             "is_weekend": false
           },
@@ -282610,7 +282345,7 @@
             "date": "20260821",
             "date_display": "2026-08-21",
             "close": 29.49,
-            "pct_chg": -1.86,
+            "pct_chg": 0.0,
             "return_rate": 1.13,
             "is_weekend": false
           },
@@ -282631,289 +282366,554 @@
     },
     "price_data": [
       {
-        "date": "20260821",
-        "close": 29.49,
-        "pct_chg": -1.8636
+        "date": "20260316",
+        "close": 31.35,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260820",
-        "close": 30.05,
-        "pct_chg": 0.7375
+        "date": "20260317",
+        "close": 31.18,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260819",
-        "close": 29.83,
-        "pct_chg": 0.8111
+        "date": "20260318",
+        "close": 31.15,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260818",
-        "close": 29.59,
-        "pct_chg": 2.2107
+        "date": "20260319",
+        "close": 31.11,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260817",
-        "close": 28.95,
-        "pct_chg": 0.9062
+        "date": "20260320",
+        "close": 30.49,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260814",
-        "close": 28.69,
-        "pct_chg": -1.7802
+        "date": "20260323",
+        "close": 31.41,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260813",
-        "close": 29.21,
-        "pct_chg": -2.0456
+        "date": "20260324",
+        "close": 32.12,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260812",
-        "close": 29.82,
-        "pct_chg": -1.7463
+        "date": "20260325",
+        "close": 32.32,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260811",
-        "close": 30.35,
-        "pct_chg": -7.9466
+        "date": "20260326",
+        "close": 32.7,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260810",
-        "close": 32.97,
-        "pct_chg": 3.3542
-      },
-      {
-        "date": "20260807",
-        "close": 31.9,
-        "pct_chg": -1.33
-      },
-      {
-        "date": "20260806",
-        "close": 32.33,
-        "pct_chg": 0.1239
-      },
-      {
-        "date": "20260805",
-        "close": 32.29,
-        "pct_chg": 1.5409
-      },
-      {
-        "date": "20260804",
-        "close": 31.8,
-        "pct_chg": -1.5175
-      },
-      {
-        "date": "20260803",
-        "close": 32.29,
-        "pct_chg": 0.2795
-      },
-      {
-        "date": "20260731",
-        "close": 32.2,
-        "pct_chg": -4.7337
-      },
-      {
-        "date": "20260730",
-        "close": 33.8,
-        "pct_chg": 4.4822
-      },
-      {
-        "date": "20260729",
-        "close": 32.35,
-        "pct_chg": -1.5221
-      },
-      {
-        "date": "20260728",
-        "close": 32.85,
-        "pct_chg": 2.1455
-      },
-      {
-        "date": "20260727",
+        "date": "20260327",
         "close": 32.16,
-        "pct_chg": 1.5793
+        "pct_chg": 0.0
       },
       {
-        "date": "20260724",
-        "close": 31.66,
-        "pct_chg": -1.6159
+        "date": "20260330",
+        "close": 32.6,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260723",
-        "close": 32.18,
-        "pct_chg": 3.8735
+        "date": "20260331",
+        "close": 35.86,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260722",
-        "close": 30.98,
-        "pct_chg": -1.5883
+        "date": "20260401",
+        "close": 37.24,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260721",
-        "close": 31.48,
-        "pct_chg": -1.9009
+        "date": "20260402",
+        "close": 38.25,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260720",
-        "close": 32.09,
-        "pct_chg": 7.8293
+        "date": "20260403",
+        "close": 37.15,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260717",
-        "close": 29.76,
-        "pct_chg": -1.0638
+        "date": "20260407",
+        "close": 36.35,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260716",
-        "close": 30.08,
-        "pct_chg": 3.155
+        "date": "20260408",
+        "close": 36.71,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260715",
-        "close": 29.16,
-        "pct_chg": 1.7801
+        "date": "20260409",
+        "close": 37.58,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260714",
-        "close": 28.65,
-        "pct_chg": -0.3478
+        "date": "20260410",
+        "close": 37.12,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260713",
-        "close": 28.75,
-        "pct_chg": 1.2324
+        "date": "20260413",
+        "close": 36.8,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260710",
-        "close": 28.4,
-        "pct_chg": 0.6735
+        "date": "20260414",
+        "close": 36.75,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260709",
-        "close": 28.21,
-        "pct_chg": -1.9465
+        "date": "20260415",
+        "close": 36.45,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260708",
-        "close": 28.77,
-        "pct_chg": -1.032
+        "date": "20260416",
+        "close": 36.45,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260707",
-        "close": 29.07,
-        "pct_chg": -0.9202
+        "date": "20260417",
+        "close": 36.04,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260706",
-        "close": 29.34,
-        "pct_chg": 1.5225
+        "date": "20260420",
+        "close": 35.98,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260703",
-        "close": 28.9,
-        "pct_chg": 5.0527
+        "date": "20260421",
+        "close": 36.43,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260702",
-        "close": 27.51,
-        "pct_chg": -2.2735
+        "date": "20260422",
+        "close": 36.74,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260701",
-        "close": 28.15,
-        "pct_chg": 4.9981
+        "date": "20260423",
+        "close": 36.97,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260630",
-        "close": 26.81,
-        "pct_chg": -0.4086
+        "date": "20260424",
+        "close": 36.97,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260629",
-        "close": 26.92,
-        "pct_chg": 0.4478
+        "date": "20260427",
+        "close": 36.48,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260626",
-        "close": 26.8,
-        "pct_chg": 0.8656
+        "date": "20260428",
+        "close": 35.63,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260625",
-        "close": 26.57,
-        "pct_chg": -0.3002
+        "date": "20260429",
+        "close": 35.92,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260624",
-        "close": 26.65,
-        "pct_chg": 0.2634
+        "date": "20260430",
+        "close": 35.41,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260623",
-        "close": 26.58,
-        "pct_chg": -3.0635
+        "date": "20260506",
+        "close": 36.04,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260622",
-        "close": 27.42,
-        "pct_chg": 5.2995
+        "date": "20260507",
+        "close": 35.1,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260618",
-        "close": 26.04,
-        "pct_chg": -4.0531
+        "date": "20260508",
+        "close": 35.64,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260617",
-        "close": 27.14,
-        "pct_chg": 2.959
+        "date": "20260511",
+        "close": 35.66,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260616",
-        "close": 26.36,
-        "pct_chg": -6.7233
+        "date": "20260512",
+        "close": 35.83,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260615",
-        "close": 28.26,
-        "pct_chg": -2.0451
+        "date": "20260513",
+        "close": 36.0,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260612",
-        "close": 28.85,
-        "pct_chg": -2.2034
+        "date": "20260514",
+        "close": 35.0,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260611",
-        "close": 29.5,
-        "pct_chg": -1.8303
+        "date": "20260515",
+        "close": 32.79,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260610",
-        "close": 30.05,
-        "pct_chg": -0.0333
+        "date": "20260518",
+        "close": 31.71,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260609",
-        "close": 30.06,
-        "pct_chg": -1.3456
+        "date": "20260519",
+        "close": 32.29,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260608",
-        "close": 30.47,
-        "pct_chg": -0.3271
+        "date": "20260520",
+        "close": 31.9,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260605",
-        "close": 30.57,
-        "pct_chg": 1.934
+        "date": "20260521",
+        "close": 31.71,
+        "pct_chg": 0.0
       },
       {
-        "date": "20260604",
-        "close": 29.99,
-        "pct_chg": -8.6506
+        "date": "20260522",
+        "close": 31.55,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260525",
+        "close": 32.01,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260526",
+        "close": 32.76,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260527",
+        "close": 32.66,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260528",
+        "close": 32.13,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260529",
+        "close": 32.3,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260601",
+        "close": 32.67,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260602",
+        "close": 33.35,
+        "pct_chg": 0.0
       },
       {
         "date": "20260603",
         "close": 32.83,
-        "pct_chg": -1.5592
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260604",
+        "close": 29.99,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260605",
+        "close": 30.57,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260608",
+        "close": 30.47,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260609",
+        "close": 30.06,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260610",
+        "close": 30.05,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260611",
+        "close": 29.5,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260612",
+        "close": 28.85,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260615",
+        "close": 28.26,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260616",
+        "close": 26.36,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260617",
+        "close": 27.14,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260618",
+        "close": 26.04,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260622",
+        "close": 27.42,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260623",
+        "close": 26.58,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260624",
+        "close": 26.65,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260625",
+        "close": 26.57,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260626",
+        "close": 26.8,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260629",
+        "close": 26.92,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260630",
+        "close": 26.81,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260701",
+        "close": 28.15,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260702",
+        "close": 27.51,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260703",
+        "close": 28.9,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260706",
+        "close": 29.34,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260707",
+        "close": 29.07,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260708",
+        "close": 28.77,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260709",
+        "close": 28.21,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260710",
+        "close": 28.4,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260713",
+        "close": 28.75,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260714",
+        "close": 28.65,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260715",
+        "close": 29.16,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260716",
+        "close": 30.08,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260717",
+        "close": 29.76,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260720",
+        "close": 32.09,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260721",
+        "close": 31.48,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260722",
+        "close": 30.98,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260723",
+        "close": 32.18,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260724",
+        "close": 31.66,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260727",
+        "close": 32.16,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260728",
+        "close": 32.85,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260729",
+        "close": 32.35,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260730",
+        "close": 33.8,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260731",
+        "close": 32.2,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260803",
+        "close": 32.29,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260804",
+        "close": 31.8,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260805",
+        "close": 32.29,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260806",
+        "close": 32.33,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260807",
+        "close": 31.9,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260810",
+        "close": 32.97,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260811",
+        "close": 30.35,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260812",
+        "close": 29.82,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260813",
+        "close": 29.21,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260814",
+        "close": 28.69,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260817",
+        "close": 28.95,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260818",
+        "close": 29.59,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260819",
+        "close": 29.83,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260820",
+        "close": 30.05,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260821",
+        "close": 29.49,
+        "pct_chg": 0.0
       }
     ],
     "realtime_price": {
@@ -282926,7 +282926,7 @@
     }
   },
   "_metadata": {
-    "generated_at": "2026-08-22 13:00:09",
+    "generated_at": "2026-08-22 16:23:40",
     "timezone": "Asia/Shanghai"
   }
 }
