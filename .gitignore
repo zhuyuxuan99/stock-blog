@@ -4,3 +4,7 @@ certs/
 stock_prices_cache.json.gz
 .codebuddy/
 .vscode/
+.codegraph/
+.arts/
+.codeartsdoer/
+.trae/
