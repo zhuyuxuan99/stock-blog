@@ -72281,7 +72281,8 @@
   "603993.SH": {
     "name": "洛阳钼业",
     "strategies": [
-      "猎狗组"
+      "猎狗组",
+      "大象组"
     ],
     "returns": {
       "2026-06-21": {
@@ -74411,6 +74412,39 @@
         "return_rate": -7.04,
         "has_realtime": true,
         "trading_days": 47
+      },
+      "2026-08-23": {
+        "recommend_price": 18.62,
+        "recommend_date": "20260821",
+        "daily_data": [
+          {
+            "date": "20260821",
+            "date_display": "2026-08-21",
+            "close": 18.62,
+            "pct_chg": 1.92,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260822",
+            "date_display": "2026-08-22",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260823",
+            "date_display": "2026-08-23",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 18.62,
+        "latest_date": "20260823",
+        "return_rate": null,
+        "has_realtime": true,
+        "trading_days": 0
       }
     },
     "price_data": [
@@ -166973,7 +167007,8 @@
   "002156.SZ": {
     "name": "通富微电",
     "strategies": [
-      "蚊子组"
+      "蚊子组",
+      "大象组"
     ],
     "returns": {
       "2026-08-06": {
@@ -167654,6 +167689,39 @@
         "return_rate": -7.82,
         "has_realtime": true,
         "trading_days": 23
+      },
+      "2026-08-23": {
+        "recommend_price": 63.88,
+        "recommend_date": "20260821",
+        "daily_data": [
+          {
+            "date": "20260821",
+            "date_display": "2026-08-21",
+            "close": 63.88,
+            "pct_chg": 1.16,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260822",
+            "date_display": "2026-08-22",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260823",
+            "date_display": "2026-08-23",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 63.88,
+        "latest_date": "20260823",
+        "return_rate": null,
+        "has_realtime": true,
+        "trading_days": 0
       }
     },
     "price_data": [
@@ -209266,8 +209334,2696 @@
       "pct_chg": -2.76
     }
   },
+  "603501.SH": {
+    "name": "豪威集团",
+    "strategies": [
+      "大象组"
+    ],
+    "returns": {
+      "2026-08-23": {
+        "recommend_price": 85.82,
+        "recommend_date": "20260821",
+        "daily_data": [
+          {
+            "date": "20260821",
+            "date_display": "2026-08-21",
+            "close": 85.82,
+            "pct_chg": -0.2,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260822",
+            "date_display": "2026-08-22",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260823",
+            "date_display": "2026-08-23",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 85.82,
+        "latest_date": "20260823",
+        "return_rate": null,
+        "has_realtime": true,
+        "trading_days": 0
+      }
+    },
+    "price_data": [
+      {
+        "date": "20260821",
+        "close": 85.82,
+        "pct_chg": -0.1977
+      },
+      {
+        "date": "20260820",
+        "close": 85.99,
+        "pct_chg": -1.0472
+      },
+      {
+        "date": "20260819",
+        "close": 86.9,
+        "pct_chg": -4.0203
+      },
+      {
+        "date": "20260818",
+        "close": 90.54,
+        "pct_chg": -1.7365
+      },
+      {
+        "date": "20260817",
+        "close": 92.14,
+        "pct_chg": 1.1638
+      },
+      {
+        "date": "20260814",
+        "close": 91.08,
+        "pct_chg": 1.1775
+      },
+      {
+        "date": "20260813",
+        "close": 90.02,
+        "pct_chg": -1.639
+      },
+      {
+        "date": "20260812",
+        "close": 91.52,
+        "pct_chg": -1.8658
+      },
+      {
+        "date": "20260811",
+        "close": 93.26,
+        "pct_chg": 4.6219
+      },
+      {
+        "date": "20260810",
+        "close": 89.14,
+        "pct_chg": -0.6907
+      },
+      {
+        "date": "20260807",
+        "close": 89.76,
+        "pct_chg": 0.1227
+      },
+      {
+        "date": "20260806",
+        "close": 89.65,
+        "pct_chg": -1.2991
+      },
+      {
+        "date": "20260805",
+        "close": 90.83,
+        "pct_chg": 3.2746
+      },
+      {
+        "date": "20260804",
+        "close": 87.95,
+        "pct_chg": -0.3061
+      },
+      {
+        "date": "20260803",
+        "close": 88.22,
+        "pct_chg": -0.5411
+      },
+      {
+        "date": "20260731",
+        "close": 88.7,
+        "pct_chg": 0.226
+      },
+      {
+        "date": "20260730",
+        "close": 88.5,
+        "pct_chg": -3.4791
+      },
+      {
+        "date": "20260729",
+        "close": 91.69,
+        "pct_chg": -0.1198
+      },
+      {
+        "date": "20260728",
+        "close": 91.8,
+        "pct_chg": -3.6827
+      },
+      {
+        "date": "20260727",
+        "close": 95.31,
+        "pct_chg": -1.6409
+      },
+      {
+        "date": "20260724",
+        "close": 96.9,
+        "pct_chg": 0.2483
+      },
+      {
+        "date": "20260723",
+        "close": 96.66,
+        "pct_chg": -5.2167
+      },
+      {
+        "date": "20260722",
+        "close": 101.98,
+        "pct_chg": -0.4296
+      },
+      {
+        "date": "20260721",
+        "close": 102.42,
+        "pct_chg": 1.2456
+      },
+      {
+        "date": "20260720",
+        "close": 101.16,
+        "pct_chg": -2.8429
+      },
+      {
+        "date": "20260717",
+        "close": 104.12,
+        "pct_chg": -5.2162
+      },
+      {
+        "date": "20260716",
+        "close": 109.85,
+        "pct_chg": -1.1429
+      },
+      {
+        "date": "20260715",
+        "close": 111.12,
+        "pct_chg": 4.6821
+      },
+      {
+        "date": "20260714",
+        "close": 106.15,
+        "pct_chg": 3.5711
+      },
+      {
+        "date": "20260713",
+        "close": 102.49,
+        "pct_chg": -0.6976
+      },
+      {
+        "date": "20260710",
+        "close": 103.21,
+        "pct_chg": -3.6681
+      },
+      {
+        "date": "20260709",
+        "close": 107.14,
+        "pct_chg": 6.1317
+      },
+      {
+        "date": "20260708",
+        "close": 100.95,
+        "pct_chg": 1.4981
+      },
+      {
+        "date": "20260707",
+        "close": 99.46,
+        "pct_chg": 2.5361
+      },
+      {
+        "date": "20260706",
+        "close": 97.0,
+        "pct_chg": -5.1808
+      },
+      {
+        "date": "20260703",
+        "close": 102.3,
+        "pct_chg": 1.0171
+      },
+      {
+        "date": "20260702",
+        "close": 101.27,
+        "pct_chg": 4.2838
+      },
+      {
+        "date": "20260701",
+        "close": 97.11,
+        "pct_chg": 2.3827
+      },
+      {
+        "date": "20260630",
+        "close": 94.85,
+        "pct_chg": 7.4179
+      },
+      {
+        "date": "20260629",
+        "close": 88.3,
+        "pct_chg": 1.822
+      },
+      {
+        "date": "20260626",
+        "close": 86.72,
+        "pct_chg": -3.333
+      },
+      {
+        "date": "20260625",
+        "close": 89.71,
+        "pct_chg": -0.6534
+      },
+      {
+        "date": "20260624",
+        "close": 90.3,
+        "pct_chg": 2.9647
+      },
+      {
+        "date": "20260623",
+        "close": 87.7,
+        "pct_chg": -3.1581
+      },
+      {
+        "date": "20260622",
+        "close": 90.56,
+        "pct_chg": 0.6558
+      },
+      {
+        "date": "20260618",
+        "close": 89.97,
+        "pct_chg": -0.1664
+      },
+      {
+        "date": "20260617",
+        "close": 90.12,
+        "pct_chg": 2.1769
+      },
+      {
+        "date": "20260616",
+        "close": 88.2,
+        "pct_chg": -0.5861
+      },
+      {
+        "date": "20260615",
+        "close": 88.72,
+        "pct_chg": 3.1508
+      },
+      {
+        "date": "20260612",
+        "close": 86.01,
+        "pct_chg": 0.9863
+      },
+      {
+        "date": "20260611",
+        "close": 85.17,
+        "pct_chg": -5.5556
+      },
+      {
+        "date": "20260610",
+        "close": 90.18,
+        "pct_chg": -3.3648
+      },
+      {
+        "date": "20260609",
+        "close": 93.32,
+        "pct_chg": 1.4127
+      },
+      {
+        "date": "20260608",
+        "close": 92.02,
+        "pct_chg": -3.5329
+      },
+      {
+        "date": "20260605",
+        "close": 95.39,
+        "pct_chg": -3.51
+      },
+      {
+        "date": "20260604",
+        "close": 98.86,
+        "pct_chg": -1.9343
+      },
+      {
+        "date": "20260603",
+        "close": 100.91,
+        "pct_chg": 8.9153
+      }
+    ],
+    "realtime_price": {
+      "price": 85.82,
+      "open": 85.44,
+      "high": 85.86,
+      "low": 8.0,
+      "prev_close": 85.99,
+      "pct_chg": -0.2
+    }
+  },
+  "601658.SH": {
+    "name": "邮储银行",
+    "strategies": [
+      "大象组"
+    ],
+    "returns": {
+      "2026-08-23": {
+        "recommend_price": 4.98,
+        "recommend_date": "20260821",
+        "daily_data": [
+          {
+            "date": "20260821",
+            "date_display": "2026-08-21",
+            "close": 4.98,
+            "pct_chg": 0.2,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260822",
+            "date_display": "2026-08-22",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260823",
+            "date_display": "2026-08-23",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 4.98,
+        "latest_date": "20260823",
+        "return_rate": null,
+        "has_realtime": true,
+        "trading_days": 0
+      }
+    },
+    "price_data": [
+      {
+        "date": "20260821",
+        "close": 4.98,
+        "pct_chg": 0.2012
+      },
+      {
+        "date": "20260820",
+        "close": 4.97,
+        "pct_chg": -0.2008
+      },
+      {
+        "date": "20260819",
+        "close": 4.98,
+        "pct_chg": 1.0142
+      },
+      {
+        "date": "20260818",
+        "close": 4.93,
+        "pct_chg": 0.4073
+      },
+      {
+        "date": "20260817",
+        "close": 4.91,
+        "pct_chg": -0.2033
+      },
+      {
+        "date": "20260814",
+        "close": 4.92,
+        "pct_chg": -0.6061
+      },
+      {
+        "date": "20260813",
+        "close": 4.95,
+        "pct_chg": 0.4057
+      },
+      {
+        "date": "20260812",
+        "close": 4.93,
+        "pct_chg": -0.6048
+      },
+      {
+        "date": "20260811",
+        "close": 4.96,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260810",
+        "close": 4.96,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260807",
+        "close": 4.96,
+        "pct_chg": -0.2012
+      },
+      {
+        "date": "20260806",
+        "close": 4.97,
+        "pct_chg": 0.2016
+      },
+      {
+        "date": "20260805",
+        "close": 4.96,
+        "pct_chg": -1.1952
+      },
+      {
+        "date": "20260804",
+        "close": 5.02,
+        "pct_chg": -2.3346
+      },
+      {
+        "date": "20260803",
+        "close": 5.14,
+        "pct_chg": -0.7722
+      },
+      {
+        "date": "20260731",
+        "close": 5.18,
+        "pct_chg": -0.7663
+      },
+      {
+        "date": "20260730",
+        "close": 5.22,
+        "pct_chg": 1.9531
+      },
+      {
+        "date": "20260729",
+        "close": 5.12,
+        "pct_chg": -1.5385
+      },
+      {
+        "date": "20260728",
+        "close": 5.2,
+        "pct_chg": 2.1611
+      },
+      {
+        "date": "20260727",
+        "close": 5.09,
+        "pct_chg": -0.5859
+      },
+      {
+        "date": "20260724",
+        "close": 5.12,
+        "pct_chg": 0.1957
+      },
+      {
+        "date": "20260723",
+        "close": 5.11,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260722",
+        "close": 5.11,
+        "pct_chg": 1.1881
+      },
+      {
+        "date": "20260721",
+        "close": 5.05,
+        "pct_chg": -2.5097
+      },
+      {
+        "date": "20260720",
+        "close": 5.18,
+        "pct_chg": 1.7682
+      },
+      {
+        "date": "20260717",
+        "close": 5.09,
+        "pct_chg": 0.7921
+      },
+      {
+        "date": "20260716",
+        "close": 5.05,
+        "pct_chg": -0.7859
+      },
+      {
+        "date": "20260715",
+        "close": 5.09,
+        "pct_chg": 0.9921
+      },
+      {
+        "date": "20260714",
+        "close": 5.04,
+        "pct_chg": -0.198
+      },
+      {
+        "date": "20260713",
+        "close": 5.05,
+        "pct_chg": 2.2267
+      },
+      {
+        "date": "20260710",
+        "close": 5.04,
+        "pct_chg": 0.8
+      },
+      {
+        "date": "20260709",
+        "close": 5.0,
+        "pct_chg": -1.1858
+      },
+      {
+        "date": "20260708",
+        "close": 5.06,
+        "pct_chg": 0.7968
+      },
+      {
+        "date": "20260707",
+        "close": 5.02,
+        "pct_chg": 0.8032
+      },
+      {
+        "date": "20260706",
+        "close": 4.98,
+        "pct_chg": 0.8097
+      },
+      {
+        "date": "20260703",
+        "close": 4.94,
+        "pct_chg": -0.4032
+      },
+      {
+        "date": "20260702",
+        "close": 4.96,
+        "pct_chg": 0.6085
+      },
+      {
+        "date": "20260701",
+        "close": 4.93,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260630",
+        "close": 4.93,
+        "pct_chg": -0.8048
+      },
+      {
+        "date": "20260629",
+        "close": 4.97,
+        "pct_chg": 1.0163
+      },
+      {
+        "date": "20260626",
+        "close": 4.92,
+        "pct_chg": 0.4082
+      },
+      {
+        "date": "20260625",
+        "close": 4.9,
+        "pct_chg": -0.4065
+      },
+      {
+        "date": "20260624",
+        "close": 4.92,
+        "pct_chg": -2.7668
+      },
+      {
+        "date": "20260623",
+        "close": 5.06,
+        "pct_chg": 2.8455
+      },
+      {
+        "date": "20260622",
+        "close": 4.92,
+        "pct_chg": 1.2346
+      },
+      {
+        "date": "20260618",
+        "close": 4.86,
+        "pct_chg": -2.4096
+      },
+      {
+        "date": "20260617",
+        "close": 4.98,
+        "pct_chg": -1.1905
+      },
+      {
+        "date": "20260616",
+        "close": 5.04,
+        "pct_chg": -1.3699
+      },
+      {
+        "date": "20260615",
+        "close": 5.11,
+        "pct_chg": -1.7308
+      },
+      {
+        "date": "20260612",
+        "close": 5.2,
+        "pct_chg": 1.9608
+      },
+      {
+        "date": "20260611",
+        "close": 5.1,
+        "pct_chg": 0.3937
+      },
+      {
+        "date": "20260610",
+        "close": 5.08,
+        "pct_chg": 1.8036
+      },
+      {
+        "date": "20260609",
+        "close": 4.99,
+        "pct_chg": 0.2008
+      },
+      {
+        "date": "20260608",
+        "close": 4.98,
+        "pct_chg": 0.4032
+      },
+      {
+        "date": "20260605",
+        "close": 4.96,
+        "pct_chg": 0.6085
+      },
+      {
+        "date": "20260604",
+        "close": 4.93,
+        "pct_chg": -1.004
+      },
+      {
+        "date": "20260603",
+        "close": 4.98,
+        "pct_chg": -0.5988
+      }
+    ],
+    "realtime_price": {
+      "price": 4.98,
+      "open": 4.96,
+      "high": 5.01,
+      "low": 25944.0,
+      "prev_close": 4.97,
+      "pct_chg": 0.2
+    }
+  },
+  "002594.SZ": {
+    "name": "比亚迪",
+    "strategies": [
+      "大象组"
+    ],
+    "returns": {
+      "2026-08-23": {
+        "recommend_price": 90.47,
+        "recommend_date": "20260821",
+        "daily_data": [
+          {
+            "date": "20260821",
+            "date_display": "2026-08-21",
+            "close": 90.47,
+            "pct_chg": -0.01,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260822",
+            "date_display": "2026-08-22",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260823",
+            "date_display": "2026-08-23",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 90.47,
+        "latest_date": "20260823",
+        "return_rate": null,
+        "has_realtime": true,
+        "trading_days": 0
+      }
+    },
+    "price_data": [
+      {
+        "date": "20260821",
+        "close": 90.47,
+        "pct_chg": -0.0111
+      },
+      {
+        "date": "20260820",
+        "close": 90.48,
+        "pct_chg": 2.0528
+      },
+      {
+        "date": "20260819",
+        "close": 88.66,
+        "pct_chg": -0.9717
+      },
+      {
+        "date": "20260818",
+        "close": 89.53,
+        "pct_chg": -0.3894
+      },
+      {
+        "date": "20260817",
+        "close": 89.88,
+        "pct_chg": 1.1024
+      },
+      {
+        "date": "20260814",
+        "close": 88.9,
+        "pct_chg": -0.9029
+      },
+      {
+        "date": "20260813",
+        "close": 89.71,
+        "pct_chg": -0.7743
+      },
+      {
+        "date": "20260812",
+        "close": 90.41,
+        "pct_chg": 0.3218
+      },
+      {
+        "date": "20260811",
+        "close": 90.12,
+        "pct_chg": -1.13
+      },
+      {
+        "date": "20260810",
+        "close": 91.15,
+        "pct_chg": 1.2328
+      },
+      {
+        "date": "20260807",
+        "close": 90.04,
+        "pct_chg": 0.6596
+      },
+      {
+        "date": "20260806",
+        "close": 89.45,
+        "pct_chg": -1.5085
+      },
+      {
+        "date": "20260805",
+        "close": 90.82,
+        "pct_chg": -0.362
+      },
+      {
+        "date": "20260804",
+        "close": 91.15,
+        "pct_chg": -3.4939
+      },
+      {
+        "date": "20260803",
+        "close": 94.45,
+        "pct_chg": -1.3783
+      },
+      {
+        "date": "20260731",
+        "close": 95.77,
+        "pct_chg": -0.073
+      },
+      {
+        "date": "20260730",
+        "close": 96.2,
+        "pct_chg": 1.4233
+      },
+      {
+        "date": "20260729",
+        "close": 94.85,
+        "pct_chg": 1.6069
+      },
+      {
+        "date": "20260728",
+        "close": 93.35,
+        "pct_chg": 1.0281
+      },
+      {
+        "date": "20260727",
+        "close": 92.4,
+        "pct_chg": 0.555
+      },
+      {
+        "date": "20260724",
+        "close": 91.89,
+        "pct_chg": -0.8203
+      },
+      {
+        "date": "20260723",
+        "close": 92.65,
+        "pct_chg": 1.1794
+      },
+      {
+        "date": "20260722",
+        "close": 91.57,
+        "pct_chg": -2.895
+      },
+      {
+        "date": "20260721",
+        "close": 94.3,
+        "pct_chg": 0.4046
+      },
+      {
+        "date": "20260720",
+        "close": 93.92,
+        "pct_chg": 0.4814
+      },
+      {
+        "date": "20260717",
+        "close": 93.47,
+        "pct_chg": -0.7117
+      },
+      {
+        "date": "20260716",
+        "close": 94.14,
+        "pct_chg": 2.5937
+      },
+      {
+        "date": "20260715",
+        "close": 91.76,
+        "pct_chg": 1.7521
+      },
+      {
+        "date": "20260714",
+        "close": 90.18,
+        "pct_chg": 3.679
+      },
+      {
+        "date": "20260713",
+        "close": 86.98,
+        "pct_chg": -3.3556
+      },
+      {
+        "date": "20260710",
+        "close": 90.0,
+        "pct_chg": 3.6031
+      },
+      {
+        "date": "20260709",
+        "close": 86.87,
+        "pct_chg": -1.0592
+      },
+      {
+        "date": "20260708",
+        "close": 87.8,
+        "pct_chg": 1.7853
+      },
+      {
+        "date": "20260707",
+        "close": 86.26,
+        "pct_chg": -1.4622
+      },
+      {
+        "date": "20260706",
+        "close": 87.54,
+        "pct_chg": -1.0512
+      },
+      {
+        "date": "20260703",
+        "close": 88.47,
+        "pct_chg": 5.8633
+      },
+      {
+        "date": "20260702",
+        "close": 83.57,
+        "pct_chg": 3.6077
+      },
+      {
+        "date": "20260701",
+        "close": 80.66,
+        "pct_chg": 1.2045
+      },
+      {
+        "date": "20260630",
+        "close": 79.7,
+        "pct_chg": 0.0753
+      },
+      {
+        "date": "20260629",
+        "close": 79.64,
+        "pct_chg": 1.8414
+      },
+      {
+        "date": "20260626",
+        "close": 78.2,
+        "pct_chg": -4.8662
+      },
+      {
+        "date": "20260625",
+        "close": 82.2,
+        "pct_chg": -1.3205
+      },
+      {
+        "date": "20260624",
+        "close": 83.3,
+        "pct_chg": -2.0
+      },
+      {
+        "date": "20260623",
+        "close": 85.0,
+        "pct_chg": -2.957
+      },
+      {
+        "date": "20260622",
+        "close": 87.59,
+        "pct_chg": -0.6127
+      },
+      {
+        "date": "20260618",
+        "close": 88.13,
+        "pct_chg": 0.7545
+      },
+      {
+        "date": "20260617",
+        "close": 87.47,
+        "pct_chg": -2.4208
+      },
+      {
+        "date": "20260616",
+        "close": 89.64,
+        "pct_chg": -1.2993
+      },
+      {
+        "date": "20260615",
+        "close": 90.82,
+        "pct_chg": -0.8515
+      },
+      {
+        "date": "20260612",
+        "close": 91.6,
+        "pct_chg": 2.0045
+      },
+      {
+        "date": "20260611",
+        "close": 89.8,
+        "pct_chg": -0.5647
+      },
+      {
+        "date": "20260610",
+        "close": 90.31,
+        "pct_chg": -1.7194
+      },
+      {
+        "date": "20260609",
+        "close": 91.89,
+        "pct_chg": 0.7676
+      },
+      {
+        "date": "20260608",
+        "close": 91.19,
+        "pct_chg": -1.9568
+      },
+      {
+        "date": "20260605",
+        "close": 93.01,
+        "pct_chg": -0.4602
+      },
+      {
+        "date": "20260604",
+        "close": 93.44,
+        "pct_chg": -1.4554
+      },
+      {
+        "date": "20260603",
+        "close": 94.82,
+        "pct_chg": -2.005
+      }
+    ],
+    "realtime_price": {
+      "price": 90.47,
+      "open": 90.35,
+      "high": 90.51,
+      "low": 240.0,
+      "prev_close": 90.48,
+      "pct_chg": -0.01
+    }
+  },
+  "688271.SH": {
+    "name": "联影医疗",
+    "strategies": [
+      "大象组"
+    ],
+    "returns": {
+      "2026-08-23": {
+        "recommend_price": 106.0,
+        "recommend_date": "20260821",
+        "daily_data": [
+          {
+            "date": "20260821",
+            "date_display": "2026-08-21",
+            "close": 106.0,
+            "pct_chg": -3.63,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260822",
+            "date_display": "2026-08-22",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260823",
+            "date_display": "2026-08-23",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 106.0,
+        "latest_date": "20260823",
+        "return_rate": null,
+        "has_realtime": true,
+        "trading_days": 0
+      }
+    },
+    "price_data": [
+      {
+        "date": "20260821",
+        "close": 106.0,
+        "pct_chg": -3.6276
+      },
+      {
+        "date": "20260820",
+        "close": 109.99,
+        "pct_chg": 1.2333
+      },
+      {
+        "date": "20260819",
+        "close": 108.65,
+        "pct_chg": -0.4763
+      },
+      {
+        "date": "20260818",
+        "close": 109.17,
+        "pct_chg": 1.2709
+      },
+      {
+        "date": "20260817",
+        "close": 107.8,
+        "pct_chg": -0.5535
+      },
+      {
+        "date": "20260814",
+        "close": 108.4,
+        "pct_chg": -0.8143
+      },
+      {
+        "date": "20260813",
+        "close": 109.29,
+        "pct_chg": -1.095
+      },
+      {
+        "date": "20260812",
+        "close": 110.5,
+        "pct_chg": -0.5311
+      },
+      {
+        "date": "20260811",
+        "close": 111.09,
+        "pct_chg": -1.4286
+      },
+      {
+        "date": "20260810",
+        "close": 112.7,
+        "pct_chg": 0.1333
+      },
+      {
+        "date": "20260807",
+        "close": 112.55,
+        "pct_chg": 1.3964
+      },
+      {
+        "date": "20260806",
+        "close": 111.0,
+        "pct_chg": -1.709
+      },
+      {
+        "date": "20260805",
+        "close": 112.93,
+        "pct_chg": -1.3022
+      },
+      {
+        "date": "20260804",
+        "close": 114.42,
+        "pct_chg": -1.7432
+      },
+      {
+        "date": "20260803",
+        "close": 116.45,
+        "pct_chg": 0.8051
+      },
+      {
+        "date": "20260731",
+        "close": 115.52,
+        "pct_chg": -0.8412
+      },
+      {
+        "date": "20260730",
+        "close": 116.5,
+        "pct_chg": 2.2109
+      },
+      {
+        "date": "20260729",
+        "close": 113.98,
+        "pct_chg": 2.7032
+      },
+      {
+        "date": "20260728",
+        "close": 110.98,
+        "pct_chg": 0.4799
+      },
+      {
+        "date": "20260727",
+        "close": 110.45,
+        "pct_chg": 0.6195
+      },
+      {
+        "date": "20260724",
+        "close": 109.77,
+        "pct_chg": -3.5837
+      },
+      {
+        "date": "20260723",
+        "close": 113.85,
+        "pct_chg": 0.0088
+      },
+      {
+        "date": "20260722",
+        "close": 113.84,
+        "pct_chg": -0.5938
+      },
+      {
+        "date": "20260721",
+        "close": 114.52,
+        "pct_chg": -2.9492
+      },
+      {
+        "date": "20260720",
+        "close": 118.0,
+        "pct_chg": 7.0878
+      },
+      {
+        "date": "20260717",
+        "close": 110.37,
+        "pct_chg": -1.2084
+      },
+      {
+        "date": "20260716",
+        "close": 111.72,
+        "pct_chg": 2.4954
+      },
+      {
+        "date": "20260715",
+        "close": 109.0,
+        "pct_chg": -1.0979
+      },
+      {
+        "date": "20260714",
+        "close": 110.21,
+        "pct_chg": 1.6791
+      },
+      {
+        "date": "20260713",
+        "close": 108.39,
+        "pct_chg": -0.5596
+      },
+      {
+        "date": "20260710",
+        "close": 109.0,
+        "pct_chg": 0.7953
+      },
+      {
+        "date": "20260709",
+        "close": 108.14,
+        "pct_chg": 3.0199
+      },
+      {
+        "date": "20260708",
+        "close": 104.97,
+        "pct_chg": 1.1272
+      },
+      {
+        "date": "20260707",
+        "close": 103.8,
+        "pct_chg": -2.7635
+      },
+      {
+        "date": "20260706",
+        "close": 106.75,
+        "pct_chg": 1.7345
+      },
+      {
+        "date": "20260703",
+        "close": 104.93,
+        "pct_chg": 1.0108
+      },
+      {
+        "date": "20260702",
+        "close": 103.88,
+        "pct_chg": 0.0
+      },
+      {
+        "date": "20260701",
+        "close": 103.88,
+        "pct_chg": 2.6178
+      },
+      {
+        "date": "20260630",
+        "close": 101.23,
+        "pct_chg": -0.7841
+      },
+      {
+        "date": "20260629",
+        "close": 102.03,
+        "pct_chg": 3.8685
+      },
+      {
+        "date": "20260626",
+        "close": 98.23,
+        "pct_chg": -3.2217
+      },
+      {
+        "date": "20260625",
+        "close": 101.5,
+        "pct_chg": -0.8111
+      },
+      {
+        "date": "20260624",
+        "close": 102.33,
+        "pct_chg": -0.1853
+      },
+      {
+        "date": "20260623",
+        "close": 102.52,
+        "pct_chg": -1.6028
+      },
+      {
+        "date": "20260622",
+        "close": 104.19,
+        "pct_chg": 0.6861
+      },
+      {
+        "date": "20260618",
+        "close": 103.48,
+        "pct_chg": -5.9871
+      },
+      {
+        "date": "20260617",
+        "close": 110.07,
+        "pct_chg": -0.8378
+      },
+      {
+        "date": "20260616",
+        "close": 111.0,
+        "pct_chg": -1.9954
+      },
+      {
+        "date": "20260615",
+        "close": 113.26,
+        "pct_chg": -0.6665
+      },
+      {
+        "date": "20260612",
+        "close": 114.02,
+        "pct_chg": 1.604
+      },
+      {
+        "date": "20260611",
+        "close": 112.22,
+        "pct_chg": 1.4647
+      },
+      {
+        "date": "20260610",
+        "close": 110.6,
+        "pct_chg": -1.8982
+      },
+      {
+        "date": "20260609",
+        "close": 112.74,
+        "pct_chg": -1.7088
+      },
+      {
+        "date": "20260608",
+        "close": 114.7,
+        "pct_chg": 1.5224
+      },
+      {
+        "date": "20260605",
+        "close": 112.98,
+        "pct_chg": 1.2547
+      },
+      {
+        "date": "20260604",
+        "close": 111.58,
+        "pct_chg": -2.3968
+      },
+      {
+        "date": "20260603",
+        "close": 114.32,
+        "pct_chg": -3.2989
+      }
+    ],
+    "realtime_price": {
+      "price": 106.0,
+      "open": 108.46,
+      "high": 106.08,
+      "low": 36.0,
+      "prev_close": 109.99,
+      "pct_chg": -3.63
+    }
+  },
+  "688266.SH": {
+    "name": "泽璟制药",
+    "strategies": [
+      "大象组"
+    ],
+    "returns": {
+      "2026-08-23": {
+        "recommend_price": 128.71,
+        "recommend_date": "20260821",
+        "daily_data": [
+          {
+            "date": "20260821",
+            "date_display": "2026-08-21",
+            "close": 128.71,
+            "pct_chg": -6.96,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260822",
+            "date_display": "2026-08-22",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260823",
+            "date_display": "2026-08-23",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 128.71,
+        "latest_date": "20260823",
+        "return_rate": null,
+        "has_realtime": true,
+        "trading_days": 0
+      }
+    },
+    "price_data": [
+      {
+        "date": "20260821",
+        "close": 128.71,
+        "pct_chg": -6.9611
+      },
+      {
+        "date": "20260820",
+        "close": 138.34,
+        "pct_chg": 12.8937
+      },
+      {
+        "date": "20260819",
+        "close": 122.54,
+        "pct_chg": 2.0997
+      },
+      {
+        "date": "20260818",
+        "close": 120.02,
+        "pct_chg": -1.7438
+      },
+      {
+        "date": "20260817",
+        "close": 122.15,
+        "pct_chg": 1.4535
+      },
+      {
+        "date": "20260814",
+        "close": 120.4,
+        "pct_chg": 0.1497
+      },
+      {
+        "date": "20260813",
+        "close": 120.22,
+        "pct_chg": 0.2669
+      },
+      {
+        "date": "20260812",
+        "close": 119.9,
+        "pct_chg": -0.4979
+      },
+      {
+        "date": "20260811",
+        "close": 120.5,
+        "pct_chg": 0.7946
+      },
+      {
+        "date": "20260810",
+        "close": 119.55,
+        "pct_chg": -1.7666
+      },
+      {
+        "date": "20260807",
+        "close": 121.7,
+        "pct_chg": 8.4477
+      },
+      {
+        "date": "20260806",
+        "close": 112.22,
+        "pct_chg": 1.6946
+      },
+      {
+        "date": "20260805",
+        "close": 110.35,
+        "pct_chg": 2.8521
+      },
+      {
+        "date": "20260804",
+        "close": 107.29,
+        "pct_chg": -0.121
+      },
+      {
+        "date": "20260803",
+        "close": 107.42,
+        "pct_chg": -12.0229
+      },
+      {
+        "date": "20260731",
+        "close": 122.1,
+        "pct_chg": 4.0034
+      },
+      {
+        "date": "20260730",
+        "close": 117.4,
+        "pct_chg": -10.566
+      },
+      {
+        "date": "20260729",
+        "close": 131.27,
+        "pct_chg": -0.2508
+      },
+      {
+        "date": "20260728",
+        "close": 131.6,
+        "pct_chg": -5.4666
+      },
+      {
+        "date": "20260727",
+        "close": 139.21,
+        "pct_chg": 2.3979
+      },
+      {
+        "date": "20260724",
+        "close": 135.95,
+        "pct_chg": -6.2543
+      },
+      {
+        "date": "20260723",
+        "close": 145.02,
+        "pct_chg": 3.5857
+      },
+      {
+        "date": "20260722",
+        "close": 140.0,
+        "pct_chg": -0.8499
+      },
+      {
+        "date": "20260721",
+        "close": 141.2,
+        "pct_chg": 1.9642
+      },
+      {
+        "date": "20260720",
+        "close": 138.48,
+        "pct_chg": 6.433
+      },
+      {
+        "date": "20260717",
+        "close": 130.11,
+        "pct_chg": -5.7242
+      },
+      {
+        "date": "20260716",
+        "close": 138.01,
+        "pct_chg": 3.978
+      },
+      {
+        "date": "20260715",
+        "close": 132.73,
+        "pct_chg": -9.9525
+      },
+      {
+        "date": "20260714",
+        "close": 147.4,
+        "pct_chg": 1.9716
+      },
+      {
+        "date": "20260713",
+        "close": 144.55,
+        "pct_chg": -0.3103
+      },
+      {
+        "date": "20260710",
+        "close": 145.0,
+        "pct_chg": 5.9477
+      },
+      {
+        "date": "20260709",
+        "close": 136.86,
+        "pct_chg": 5.285
+      },
+      {
+        "date": "20260708",
+        "close": 129.99,
+        "pct_chg": 1.018
+      },
+      {
+        "date": "20260707",
+        "close": 128.68,
+        "pct_chg": -10.0454
+      },
+      {
+        "date": "20260706",
+        "close": 143.05,
+        "pct_chg": 0.035
+      },
+      {
+        "date": "20260703",
+        "close": 143.0,
+        "pct_chg": 4.9079
+      },
+      {
+        "date": "20260702",
+        "close": 136.31,
+        "pct_chg": 4.8538
+      },
+      {
+        "date": "20260701",
+        "close": 130.0,
+        "pct_chg": 11.4349
+      },
+      {
+        "date": "20260630",
+        "close": 116.66,
+        "pct_chg": 1.9666
+      },
+      {
+        "date": "20260629",
+        "close": 114.41,
+        "pct_chg": 7.1255
+      },
+      {
+        "date": "20260626",
+        "close": 106.8,
+        "pct_chg": -0.6512
+      },
+      {
+        "date": "20260625",
+        "close": 107.5,
+        "pct_chg": 7.9534
+      },
+      {
+        "date": "20260624",
+        "close": 99.58,
+        "pct_chg": 11.0021
+      },
+      {
+        "date": "20260623",
+        "close": 89.71,
+        "pct_chg": 1.6774
+      },
+      {
+        "date": "20260622",
+        "close": 88.23,
+        "pct_chg": -1.6278
+      },
+      {
+        "date": "20260618",
+        "close": 89.69,
+        "pct_chg": 3.092
+      },
+      {
+        "date": "20260617",
+        "close": 87.0,
+        "pct_chg": -3.8249
+      },
+      {
+        "date": "20260616",
+        "close": 90.46,
+        "pct_chg": 0.2994
+      },
+      {
+        "date": "20260615",
+        "close": 90.19,
+        "pct_chg": -2.8962
+      },
+      {
+        "date": "20260612",
+        "close": 92.88,
+        "pct_chg": 1.5637
+      },
+      {
+        "date": "20260611",
+        "close": 91.45,
+        "pct_chg": -1.6561
+      },
+      {
+        "date": "20260610",
+        "close": 92.99,
+        "pct_chg": 3.4141
+      },
+      {
+        "date": "20260609",
+        "close": 89.92,
+        "pct_chg": 3.0602
+      },
+      {
+        "date": "20260608",
+        "close": 87.25,
+        "pct_chg": -3.7719
+      },
+      {
+        "date": "20260605",
+        "close": 90.67,
+        "pct_chg": 0.8117
+      },
+      {
+        "date": "20260604",
+        "close": 89.94,
+        "pct_chg": -3.8075
+      },
+      {
+        "date": "20260603",
+        "close": 93.5,
+        "pct_chg": -2.8672
+      }
+    ],
+    "realtime_price": {
+      "price": 128.71,
+      "open": 134.0,
+      "high": 128.99,
+      "low": 36.0,
+      "prev_close": 138.34,
+      "pct_chg": -6.96
+    }
+  },
+  "300972.SZ": {
+    "name": "万辰集团",
+    "strategies": [
+      "大象组"
+    ],
+    "returns": {
+      "2026-08-23": {
+        "recommend_price": 201.06,
+        "recommend_date": "20260821",
+        "daily_data": [
+          {
+            "date": "20260821",
+            "date_display": "2026-08-21",
+            "close": 201.06,
+            "pct_chg": -0.31,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260822",
+            "date_display": "2026-08-22",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260823",
+            "date_display": "2026-08-23",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 201.06,
+        "latest_date": "20260823",
+        "return_rate": null,
+        "has_realtime": true,
+        "trading_days": 0
+      }
+    },
+    "price_data": [
+      {
+        "date": "20260821",
+        "close": 201.06,
+        "pct_chg": -0.3074
+      },
+      {
+        "date": "20260820",
+        "close": 201.68,
+        "pct_chg": 1.0016
+      },
+      {
+        "date": "20260819",
+        "close": 199.68,
+        "pct_chg": -0.5132
+      },
+      {
+        "date": "20260818",
+        "close": 200.71,
+        "pct_chg": -0.7369
+      },
+      {
+        "date": "20260817",
+        "close": 202.2,
+        "pct_chg": 2.6969
+      },
+      {
+        "date": "20260814",
+        "close": 196.89,
+        "pct_chg": -0.9209
+      },
+      {
+        "date": "20260813",
+        "close": 198.72,
+        "pct_chg": -1.7211
+      },
+      {
+        "date": "20260812",
+        "close": 202.2,
+        "pct_chg": -0.0247
+      },
+      {
+        "date": "20260811",
+        "close": 202.25,
+        "pct_chg": -2.0107
+      },
+      {
+        "date": "20260810",
+        "close": 206.4,
+        "pct_chg": 2.0116
+      },
+      {
+        "date": "20260807",
+        "close": 202.33,
+        "pct_chg": -0.1628
+      },
+      {
+        "date": "20260806",
+        "close": 202.66,
+        "pct_chg": -1.1463
+      },
+      {
+        "date": "20260805",
+        "close": 205.01,
+        "pct_chg": -0.1413
+      },
+      {
+        "date": "20260804",
+        "close": 205.3,
+        "pct_chg": -0.2478
+      },
+      {
+        "date": "20260803",
+        "close": 205.81,
+        "pct_chg": -5.8078
+      },
+      {
+        "date": "20260731",
+        "close": 218.5,
+        "pct_chg": -0.2283
+      },
+      {
+        "date": "20260730",
+        "close": 219.0,
+        "pct_chg": 3.6441
+      },
+      {
+        "date": "20260729",
+        "close": 211.3,
+        "pct_chg": 2.9627
+      },
+      {
+        "date": "20260728",
+        "close": 205.22,
+        "pct_chg": 6.5746
+      },
+      {
+        "date": "20260727",
+        "close": 192.56,
+        "pct_chg": 2.8632
+      },
+      {
+        "date": "20260724",
+        "close": 187.2,
+        "pct_chg": -0.0107
+      },
+      {
+        "date": "20260723",
+        "close": 187.22,
+        "pct_chg": -3.5644
+      },
+      {
+        "date": "20260722",
+        "close": 194.14,
+        "pct_chg": 0.5282
+      },
+      {
+        "date": "20260721",
+        "close": 193.12,
+        "pct_chg": -0.7554
+      },
+      {
+        "date": "20260720",
+        "close": 194.59,
+        "pct_chg": 2.686
+      },
+      {
+        "date": "20260717",
+        "close": 189.5,
+        "pct_chg": -8.4497
+      },
+      {
+        "date": "20260716",
+        "close": 206.99,
+        "pct_chg": 0.466
+      },
+      {
+        "date": "20260715",
+        "close": 206.03,
+        "pct_chg": 5.3108
+      },
+      {
+        "date": "20260714",
+        "close": 195.64,
+        "pct_chg": 1.7475
+      },
+      {
+        "date": "20260713",
+        "close": 192.28,
+        "pct_chg": -0.9836
+      },
+      {
+        "date": "20260710",
+        "close": 194.19,
+        "pct_chg": -0.8223
+      },
+      {
+        "date": "20260709",
+        "close": 195.8,
+        "pct_chg": -2.8529
+      },
+      {
+        "date": "20260708",
+        "close": 201.55,
+        "pct_chg": 2.7216
+      },
+      {
+        "date": "20260707",
+        "close": 196.21,
+        "pct_chg": -1.6146
+      },
+      {
+        "date": "20260706",
+        "close": 199.43,
+        "pct_chg": 6.1475
+      },
+      {
+        "date": "20260703",
+        "close": 187.88,
+        "pct_chg": 2.8916
+      },
+      {
+        "date": "20260702",
+        "close": 182.6,
+        "pct_chg": 1.4557
+      },
+      {
+        "date": "20260701",
+        "close": 179.98,
+        "pct_chg": 3.7887
+      },
+      {
+        "date": "20260630",
+        "close": 173.41,
+        "pct_chg": -2.1112
+      },
+      {
+        "date": "20260629",
+        "close": 177.15,
+        "pct_chg": 6.6526
+      },
+      {
+        "date": "20260626",
+        "close": 166.1,
+        "pct_chg": -2.8655
+      },
+      {
+        "date": "20260625",
+        "close": 171.0,
+        "pct_chg": -1.7298
+      },
+      {
+        "date": "20260624",
+        "close": 174.01,
+        "pct_chg": -0.5202
+      },
+      {
+        "date": "20260623",
+        "close": 174.92,
+        "pct_chg": -1.1751
+      },
+      {
+        "date": "20260622",
+        "close": 177.0,
+        "pct_chg": 1.114
+      },
+      {
+        "date": "20260618",
+        "close": 175.05,
+        "pct_chg": -1.8503
+      },
+      {
+        "date": "20260617",
+        "close": 178.35,
+        "pct_chg": -0.5853
+      },
+      {
+        "date": "20260616",
+        "close": 179.4,
+        "pct_chg": -1.434
+      },
+      {
+        "date": "20260615",
+        "close": 182.01,
+        "pct_chg": -5.0052
+      },
+      {
+        "date": "20260612",
+        "close": 191.6,
+        "pct_chg": 4.6995
+      },
+      {
+        "date": "20260611",
+        "close": 183.0,
+        "pct_chg": 0.7709
+      },
+      {
+        "date": "20260610",
+        "close": 181.6,
+        "pct_chg": 0.6317
+      },
+      {
+        "date": "20260609",
+        "close": 180.46,
+        "pct_chg": -0.1881
+      },
+      {
+        "date": "20260608",
+        "close": 180.8,
+        "pct_chg": -2.2703
+      },
+      {
+        "date": "20260605",
+        "close": 185.0,
+        "pct_chg": -2.6316
+      },
+      {
+        "date": "20260604",
+        "close": 190.0,
+        "pct_chg": -1.5136
+      },
+      {
+        "date": "20260603",
+        "close": 192.92,
+        "pct_chg": 0.6522
+      }
+    ],
+    "realtime_price": {
+      "price": 201.06,
+      "open": 200.98,
+      "high": 201.2,
+      "low": 1.0,
+      "prev_close": 201.68,
+      "pct_chg": -0.31
+    }
+  },
+  "002938.SZ": {
+    "name": "鹏鼎控股",
+    "strategies": [
+      "大象组"
+    ],
+    "returns": {
+      "2026-08-23": {
+        "recommend_price": 89.2,
+        "recommend_date": "20260821",
+        "daily_data": [
+          {
+            "date": "20260821",
+            "date_display": "2026-08-21",
+            "close": 89.2,
+            "pct_chg": 1.86,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260822",
+            "date_display": "2026-08-22",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260823",
+            "date_display": "2026-08-23",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 89.2,
+        "latest_date": "20260823",
+        "return_rate": null,
+        "has_realtime": true,
+        "trading_days": 0
+      }
+    },
+    "price_data": [
+      {
+        "date": "20260821",
+        "close": 89.2,
+        "pct_chg": 1.8614
+      },
+      {
+        "date": "20260820",
+        "close": 87.57,
+        "pct_chg": 0.2404
+      },
+      {
+        "date": "20260819",
+        "close": 87.36,
+        "pct_chg": -7.8189
+      },
+      {
+        "date": "20260818",
+        "close": 94.77,
+        "pct_chg": -3.7868
+      },
+      {
+        "date": "20260817",
+        "close": 98.5,
+        "pct_chg": 3.2928
+      },
+      {
+        "date": "20260814",
+        "close": 95.36,
+        "pct_chg": -0.3761
+      },
+      {
+        "date": "20260813",
+        "close": 95.72,
+        "pct_chg": -5.2277
+      },
+      {
+        "date": "20260812",
+        "close": 101.0,
+        "pct_chg": 4.4792
+      },
+      {
+        "date": "20260811",
+        "close": 96.67,
+        "pct_chg": -1.8778
+      },
+      {
+        "date": "20260810",
+        "close": 98.52,
+        "pct_chg": -2.8498
+      },
+      {
+        "date": "20260807",
+        "close": 101.41,
+        "pct_chg": 8.0554
+      },
+      {
+        "date": "20260806",
+        "close": 93.85,
+        "pct_chg": 2.9847
+      },
+      {
+        "date": "20260805",
+        "close": 91.13,
+        "pct_chg": 2.3933
+      },
+      {
+        "date": "20260804",
+        "close": 89.0,
+        "pct_chg": 9.9988
+      },
+      {
+        "date": "20260803",
+        "close": 80.91,
+        "pct_chg": -0.7239
+      },
+      {
+        "date": "20260731",
+        "close": 81.5,
+        "pct_chg": 7.1663
+      },
+      {
+        "date": "20260730",
+        "close": 76.05,
+        "pct_chg": -10.0
+      },
+      {
+        "date": "20260729",
+        "close": 84.5,
+        "pct_chg": 0.6432
+      },
+      {
+        "date": "20260728",
+        "close": 83.96,
+        "pct_chg": -10.0011
+      },
+      {
+        "date": "20260727",
+        "close": 93.29,
+        "pct_chg": 5.5436
+      },
+      {
+        "date": "20260724",
+        "close": 88.39,
+        "pct_chg": 0.8903
+      },
+      {
+        "date": "20260723",
+        "close": 87.61,
+        "pct_chg": -4.1571
+      },
+      {
+        "date": "20260722",
+        "close": 91.41,
+        "pct_chg": -4.3828
+      },
+      {
+        "date": "20260721",
+        "close": 95.6,
+        "pct_chg": 5.1821
+      },
+      {
+        "date": "20260720",
+        "close": 90.89,
+        "pct_chg": -3.1952
+      },
+      {
+        "date": "20260717",
+        "close": 93.89,
+        "pct_chg": -8.9242
+      },
+      {
+        "date": "20260716",
+        "close": 103.09,
+        "pct_chg": 0.0582
+      },
+      {
+        "date": "20260715",
+        "close": 103.03,
+        "pct_chg": -2.1
+      },
+      {
+        "date": "20260714",
+        "close": 105.24,
+        "pct_chg": 9.2835
+      },
+      {
+        "date": "20260713",
+        "close": 96.3,
+        "pct_chg": -2.2037
+      },
+      {
+        "date": "20260710",
+        "close": 98.47,
+        "pct_chg": 3.2397
+      },
+      {
+        "date": "20260709",
+        "close": 95.38,
+        "pct_chg": 4.4802
+      },
+      {
+        "date": "20260708",
+        "close": 91.29,
+        "pct_chg": -1.2334
+      },
+      {
+        "date": "20260707",
+        "close": 92.43,
+        "pct_chg": -3.0014
+      },
+      {
+        "date": "20260706",
+        "close": 95.29,
+        "pct_chg": -1.5294
+      },
+      {
+        "date": "20260703",
+        "close": 96.77,
+        "pct_chg": 4.5936
+      },
+      {
+        "date": "20260702",
+        "close": 92.52,
+        "pct_chg": -9.6484
+      },
+      {
+        "date": "20260701",
+        "close": 102.4,
+        "pct_chg": -2.8279
+      },
+      {
+        "date": "20260630",
+        "close": 105.38,
+        "pct_chg": 4.3366
+      },
+      {
+        "date": "20260629",
+        "close": 101.0,
+        "pct_chg": -8.9926
+      },
+      {
+        "date": "20260626",
+        "close": 110.98,
+        "pct_chg": -2.7685
+      },
+      {
+        "date": "20260625",
+        "close": 114.14,
+        "pct_chg": 7.2744
+      },
+      {
+        "date": "20260624",
+        "close": 106.4,
+        "pct_chg": -0.477
+      },
+      {
+        "date": "20260623",
+        "close": 106.91,
+        "pct_chg": -5.381
+      },
+      {
+        "date": "20260622",
+        "close": 112.99,
+        "pct_chg": -5.771
+      },
+      {
+        "date": "20260618",
+        "close": 119.91,
+        "pct_chg": 0.7562
+      },
+      {
+        "date": "20260617",
+        "close": 119.01,
+        "pct_chg": 10.0009
+      },
+      {
+        "date": "20260616",
+        "close": 108.19,
+        "pct_chg": 3.3926
+      },
+      {
+        "date": "20260615",
+        "close": 104.64,
+        "pct_chg": 3.0733
+      },
+      {
+        "date": "20260612",
+        "close": 101.52,
+        "pct_chg": -3.7725
+      },
+      {
+        "date": "20260611",
+        "close": 106.5,
+        "pct_chg": -4.1059
+      },
+      {
+        "date": "20260610",
+        "close": 111.06,
+        "pct_chg": -3.9273
+      },
+      {
+        "date": "20260609",
+        "close": 115.6,
+        "pct_chg": 3.2143
+      },
+      {
+        "date": "20260608",
+        "close": 112.0,
+        "pct_chg": 5.5111
+      },
+      {
+        "date": "20260605",
+        "close": 106.15,
+        "pct_chg": -4.3694
+      },
+      {
+        "date": "20260604",
+        "close": 111.0,
+        "pct_chg": 2.4931
+      },
+      {
+        "date": "20260603",
+        "close": 108.3,
+        "pct_chg": -3.2085
+      }
+    ],
+    "realtime_price": {
+      "price": 89.2,
+      "open": 87.57,
+      "high": 89.24,
+      "low": 8.0,
+      "prev_close": 87.57,
+      "pct_chg": 1.86
+    }
+  },
+  "688036.SH": {
+    "name": "传音控股",
+    "strategies": [
+      "大象组"
+    ],
+    "returns": {
+      "2026-08-23": {
+        "recommend_price": 57.81,
+        "recommend_date": "20260821",
+        "daily_data": [
+          {
+            "date": "20260821",
+            "date_display": "2026-08-21",
+            "close": 57.81,
+            "pct_chg": -1.83,
+            "return_rate": 0.0,
+            "is_weekend": false
+          },
+          {
+            "date": "20260822",
+            "date_display": "2026-08-22",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          },
+          {
+            "date": "20260823",
+            "date_display": "2026-08-23",
+            "close": null,
+            "return_rate": null,
+            "is_weekend": true
+          }
+        ],
+        "latest_price": 57.81,
+        "latest_date": "20260823",
+        "return_rate": null,
+        "has_realtime": true,
+        "trading_days": 0
+      }
+    },
+    "price_data": [
+      {
+        "date": "20260821",
+        "close": 57.81,
+        "pct_chg": -1.8339
+      },
+      {
+        "date": "20260820",
+        "close": 58.89,
+        "pct_chg": 2.8646
+      },
+      {
+        "date": "20260819",
+        "close": 57.25,
+        "pct_chg": 1.7416
+      },
+      {
+        "date": "20260818",
+        "close": 56.27,
+        "pct_chg": 1.5704
+      },
+      {
+        "date": "20260817",
+        "close": 55.4,
+        "pct_chg": 0.6907
+      },
+      {
+        "date": "20260814",
+        "close": 55.02,
+        "pct_chg": 0.8246
+      },
+      {
+        "date": "20260813",
+        "close": 54.57,
+        "pct_chg": -3.0556
+      },
+      {
+        "date": "20260812",
+        "close": 56.29,
+        "pct_chg": -1.7112
+      },
+      {
+        "date": "20260811",
+        "close": 57.27,
+        "pct_chg": -1.4455
+      },
+      {
+        "date": "20260810",
+        "close": 58.11,
+        "pct_chg": 1.8937
+      },
+      {
+        "date": "20260807",
+        "close": 57.03,
+        "pct_chg": -0.6446
+      },
+      {
+        "date": "20260806",
+        "close": 57.4,
+        "pct_chg": 0.8787
+      },
+      {
+        "date": "20260805",
+        "close": 56.9,
+        "pct_chg": -1.6082
+      },
+      {
+        "date": "20260804",
+        "close": 57.83,
+        "pct_chg": -8.2063
+      },
+      {
+        "date": "20260803",
+        "close": 63.0,
+        "pct_chg": -2.2801
+      },
+      {
+        "date": "20260731",
+        "close": 64.47,
+        "pct_chg": -1.9468
+      },
+      {
+        "date": "20260730",
+        "close": 65.75,
+        "pct_chg": 0.0913
+      },
+      {
+        "date": "20260729",
+        "close": 65.69,
+        "pct_chg": 0.1372
+      },
+      {
+        "date": "20260728",
+        "close": 65.6,
+        "pct_chg": 3.6662
+      },
+      {
+        "date": "20260727",
+        "close": 63.28,
+        "pct_chg": 5.537
+      },
+      {
+        "date": "20260724",
+        "close": 59.96,
+        "pct_chg": -2.9459
+      },
+      {
+        "date": "20260723",
+        "close": 61.78,
+        "pct_chg": 2.8809
+      },
+      {
+        "date": "20260722",
+        "close": 60.05,
+        "pct_chg": 0.1501
+      },
+      {
+        "date": "20260721",
+        "close": 59.96,
+        "pct_chg": -1.7854
+      },
+      {
+        "date": "20260720",
+        "close": 61.05,
+        "pct_chg": -1.975
+      },
+      {
+        "date": "20260717",
+        "close": 62.28,
+        "pct_chg": -4.8143
+      },
+      {
+        "date": "20260716",
+        "close": 65.43,
+        "pct_chg": 6.5635
+      },
+      {
+        "date": "20260715",
+        "close": 61.4,
+        "pct_chg": -1.6026
+      },
+      {
+        "date": "20260714",
+        "close": 62.4,
+        "pct_chg": -3.1507
+      },
+      {
+        "date": "20260713",
+        "close": 64.43,
+        "pct_chg": -5.9416
+      },
+      {
+        "date": "20260710",
+        "close": 68.5,
+        "pct_chg": 3.2093
+      },
+      {
+        "date": "20260709",
+        "close": 66.37,
+        "pct_chg": 6.6185
+      },
+      {
+        "date": "20260708",
+        "close": 62.25,
+        "pct_chg": -2.3989
+      },
+      {
+        "date": "20260707",
+        "close": 63.78,
+        "pct_chg": 5.2475
+      },
+      {
+        "date": "20260706",
+        "close": 60.6,
+        "pct_chg": 0.5642
+      },
+      {
+        "date": "20260703",
+        "close": 60.26,
+        "pct_chg": 6.3725
+      },
+      {
+        "date": "20260702",
+        "close": 56.65,
+        "pct_chg": 3.0375
+      },
+      {
+        "date": "20260701",
+        "close": 54.98,
+        "pct_chg": -6.7345
+      },
+      {
+        "date": "20260630",
+        "close": 58.95,
+        "pct_chg": 3.4211
+      },
+      {
+        "date": "20260629",
+        "close": 57.0,
+        "pct_chg": 0.3344
+      },
+      {
+        "date": "20260626",
+        "close": 56.81,
+        "pct_chg": 2.2682
+      },
+      {
+        "date": "20260625",
+        "close": 55.55,
+        "pct_chg": 3.2528
+      },
+      {
+        "date": "20260624",
+        "close": 53.8,
+        "pct_chg": -3.7739
+      },
+      {
+        "date": "20260623",
+        "close": 55.91,
+        "pct_chg": 0.1612
+      },
+      {
+        "date": "20260622",
+        "close": 55.82,
+        "pct_chg": 4.317
+      },
+      {
+        "date": "20260618",
+        "close": 53.51,
+        "pct_chg": -4.3097
+      },
+      {
+        "date": "20260617",
+        "close": 55.92,
+        "pct_chg": 2.4739
+      },
+      {
+        "date": "20260616",
+        "close": 54.57,
+        "pct_chg": 1.5823
+      },
+      {
+        "date": "20260615",
+        "close": 53.72,
+        "pct_chg": 0.0932
+      },
+      {
+        "date": "20260612",
+        "close": 53.67,
+        "pct_chg": 0.9404
+      },
+      {
+        "date": "20260611",
+        "close": 53.17,
+        "pct_chg": -0.4307
+      },
+      {
+        "date": "20260610",
+        "close": 53.4,
+        "pct_chg": -5.2351
+      },
+      {
+        "date": "20260609",
+        "close": 56.35,
+        "pct_chg": -0.7398
+      },
+      {
+        "date": "20260608",
+        "close": 56.77,
+        "pct_chg": -6.3201
+      },
+      {
+        "date": "20260605",
+        "close": 60.6,
+        "pct_chg": 1.4735
+      },
+      {
+        "date": "20260604",
+        "close": 59.72,
+        "pct_chg": -5.0254
+      },
+      {
+        "date": "20260603",
+        "close": 62.88,
+        "pct_chg": 0.9958
+      }
+    ],
+    "realtime_price": {
+      "price": 57.81,
+      "open": 58.2,
+      "high": 57.89,
+      "low": 31.0,
+      "prev_close": 58.89,
+      "pct_chg": -1.83
+    }
+  },
   "_metadata": {
-    "generated_at": "2026-08-23 17:34:31",
+    "generated_at": "2026-08-23 17:45:01",
     "timezone": "Asia/Shanghai"
   }
 }
