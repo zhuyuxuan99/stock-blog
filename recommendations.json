@@ -1370,83 +1370,83 @@
     "2026-08-23": [
       {
         "rank": 1,
-        "code": "603156.SH",
-        "name": "养元饮品",
-        "score": 89.51,
-        "industry": "软饮料",
-        "_original_date": "2026-08-23 13:50:15"
+        "code": "688017.SH",
+        "name": "绿的谐波",
+        "score": 91.44,
+        "industry": "机械基件",
+        "_original_date": "2026-08-23 14:44:14"
       },
       {
         "rank": 2,
-        "code": "688017.SH",
-        "name": "绿的谐波",
-        "score": 89.11,
-        "industry": "机械基件",
-        "_original_date": "2026-08-23 13:50:15"
+        "code": "600884.SH",
+        "name": "杉杉股份",
+        "score": 89.89,
+        "industry": "电气设备",
+        "_original_date": "2026-08-23 14:44:14"
       },
       {
         "rank": 3,
-        "code": "600884.SH",
-        "name": "杉杉股份",
-        "score": 87.45,
-        "industry": "电气设备",
-        "_original_date": "2026-08-23 13:50:15"
+        "code": "300142.SZ",
+        "name": "沃森生物",
+        "score": 89.55,
+        "industry": "生物制药",
+        "_original_date": "2026-08-23 14:44:14"
       },
       {
         "rank": 4,
-        "code": "002080.SZ",
-        "name": "中材科技",
-        "score": 86.56,
-        "industry": "玻璃",
-        "_original_date": "2026-08-23 13:50:15"
+        "code": "688525.SH",
+        "name": "佰维存储",
+        "score": 89.47,
+        "industry": "半导体",
+        "_original_date": "2026-08-23 14:44:14"
       },
       {
         "rank": 5,
-        "code": "300308.SZ",
-        "name": "中际旭创",
-        "score": 86.33,
-        "industry": "通信设备",
-        "_original_date": "2026-08-23 13:50:15"
+        "code": "601212.SH",
+        "name": "白银有色",
+        "score": 88.51,
+        "industry": "铜",
+        "_original_date": "2026-08-23 14:44:14"
       },
       {
         "rank": 6,
-        "code": "003021.SZ",
-        "name": "兆威机电",
-        "score": 86.05,
-        "industry": "元器件",
-        "_original_date": "2026-08-23 13:50:15"
+        "code": "603156.SH",
+        "name": "养元饮品",
+        "score": 88.46,
+        "industry": "软饮料",
+        "_original_date": "2026-08-23 14:44:14"
       },
       {
         "rank": 7,
-        "code": "300458.SZ",
-        "name": "全志科技",
-        "score": 85.98,
-        "industry": "半导体",
-        "_original_date": "2026-08-23 13:50:15"
+        "code": "300073.SZ",
+        "name": "当升科技",
+        "score": 87.91,
+        "industry": "电气设备",
+        "_original_date": "2026-08-23 14:44:14"
       },
       {
         "rank": 8,
-        "code": "600170.SH",
-        "name": "上海建工",
-        "score": 85.68,
-        "industry": "建筑工程",
-        "_original_date": "2026-08-23 13:50:15"
+        "code": "300339.SZ",
+        "name": "润和软件",
+        "score": 87.87,
+        "industry": "软件服务",
+        "_original_date": "2026-08-23 14:44:14"
       },
       {
         "rank": 9,
-        "code": "600663.SH",
-        "name": "陆家嘴",
-        "score": 85.5,
-        "industry": "园区开发",
-        "_original_date": "2026-08-23 13:50:15"
+        "code": "600170.SH",
+        "name": "上海建工",
+        "score": 87.83,
+        "industry": "建筑工程",
+        "_original_date": "2026-08-23 14:44:14"
       },
       {
         "rank": 10,
-        "code": "000088.SZ",
-        "name": "盐田港",
-        "score": 84.76,
-        "industry": "港口",
-        "_original_date": "2026-08-23 13:50:15"
+        "code": "600801.SH",
+        "name": "华新建材",
+        "score": 87.67,
+        "industry": "水泥",
+        "_original_date": "2026-08-23 14:44:14"
       }
     ],
     "2026-08-21": [
@@ -3851,7 +3851,7 @@
     "2026-08-19": "2026-08-19 22:33:33",
     "2026-08-20": "2026-08-20 23:11:27",
     "2026-08-21": "2026-08-21 16:28:06",
-    "2026-08-23": "2026-08-23 13:50:15"
+    "2026-08-23": "2026-08-23 14:44:14"
   },
   "elephant_timestamps": {},
   "all_dates": [
