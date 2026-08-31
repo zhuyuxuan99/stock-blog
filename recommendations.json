@@ -1367,6 +1367,252 @@
     "2026-06-02": []
   },
   "mosquito": {
+    "2026-08-31": [
+      {
+        "rank": 1,
+        "code": "600820.SH",
+        "name": "隧道股份",
+        "score": 95.36,
+        "industry": "建筑工程",
+        "_original_date": "2026-08-31 10:14:11"
+      },
+      {
+        "rank": 2,
+        "code": "603179.SH",
+        "name": "新泉股份",
+        "score": 92.24,
+        "industry": "汽车配件",
+        "_original_date": "2026-08-31 10:14:11"
+      },
+      {
+        "rank": 3,
+        "code": "600329.SH",
+        "name": "达仁堂",
+        "score": 91.73,
+        "industry": "中成药",
+        "_original_date": "2026-08-31 10:14:11"
+      },
+      {
+        "rank": 4,
+        "code": "300003.SZ",
+        "name": "乐普医疗",
+        "score": 91.06,
+        "industry": "医疗保健",
+        "_original_date": "2026-08-31 10:14:11"
+      },
+      {
+        "rank": 5,
+        "code": "600062.SH",
+        "name": "华润双鹤",
+        "score": 89.13,
+        "industry": "化学制药",
+        "_original_date": "2026-08-31 10:14:11"
+      },
+      {
+        "rank": 6,
+        "code": "603225.SH",
+        "name": "新凤鸣",
+        "score": 89.05,
+        "industry": "化纤",
+        "_original_date": "2026-08-31 10:14:11"
+      },
+      {
+        "rank": 7,
+        "code": "002268.SZ",
+        "name": "电科网安",
+        "score": 88.82,
+        "industry": "IT设备",
+        "_original_date": "2026-08-31 10:14:11"
+      },
+      {
+        "rank": 8,
+        "code": "600098.SH",
+        "name": "广州发展",
+        "score": 88.65,
+        "industry": "火力发电",
+        "_original_date": "2026-08-31 10:14:11"
+      },
+      {
+        "rank": 9,
+        "code": "600739.SH",
+        "name": "辽宁成大",
+        "score": 88.22,
+        "industry": "生物制药",
+        "_original_date": "2026-08-31 10:14:11"
+      },
+      {
+        "rank": 10,
+        "code": "600153.SH",
+        "name": "建发股份",
+        "score": 87.28,
+        "industry": "仓储物流",
+        "_original_date": "2026-08-31 10:14:11"
+      }
+    ],
+    "2026-08-30": [
+      {
+        "rank": 1,
+        "code": "600820.SH",
+        "name": "隧道股份",
+        "score": 95.38,
+        "industry": "建筑工程",
+        "_original_date": "2026-08-30 18:51:41"
+      },
+      {
+        "rank": 2,
+        "code": "601928.SH",
+        "name": "凤凰传媒",
+        "score": 94.4,
+        "industry": "出版业",
+        "_original_date": "2026-08-30 18:51:41"
+      },
+      {
+        "rank": 3,
+        "code": "603833.SH",
+        "name": "欧派家居",
+        "score": 89.49,
+        "industry": "家居用品",
+        "_original_date": "2026-08-30 18:51:41"
+      },
+      {
+        "rank": 4,
+        "code": "300529.SZ",
+        "name": "健帆生物",
+        "score": 88.13,
+        "industry": "医疗保健",
+        "_original_date": "2026-08-30 18:51:41"
+      },
+      {
+        "rank": 5,
+        "code": "600655.SH",
+        "name": "豫园股份",
+        "score": 86.29,
+        "industry": "百货",
+        "_original_date": "2026-08-30 18:51:41"
+      },
+      {
+        "rank": 6,
+        "code": "002152.SZ",
+        "name": "广电运通",
+        "score": 85.88,
+        "industry": "IT设备",
+        "_original_date": "2026-08-30 18:51:41"
+      },
+      {
+        "rank": 7,
+        "code": "300601.SZ",
+        "name": "康泰生物",
+        "score": 85.84,
+        "industry": "生物制药",
+        "_original_date": "2026-08-30 18:51:41"
+      },
+      {
+        "rank": 8,
+        "code": "603225.SH",
+        "name": "新凤鸣",
+        "score": 85.74,
+        "industry": "化纤",
+        "_original_date": "2026-08-30 18:51:41"
+      },
+      {
+        "rank": 9,
+        "code": "002065.SZ",
+        "name": "东华软件",
+        "score": 85.51,
+        "industry": "软件服务",
+        "_original_date": "2026-08-30 18:51:41"
+      },
+      {
+        "rank": 10,
+        "code": "688220.SH",
+        "name": "翱捷科技",
+        "score": 84.93,
+        "industry": "半导体",
+        "_original_date": "2026-08-30 18:51:41"
+      }
+    ],
+    "2026-08-29": [
+      {
+        "rank": 1,
+        "code": "300529.SZ",
+        "name": "健帆生物",
+        "score": 90.82,
+        "industry": "医疗保健",
+        "_original_date": "2026-08-29 23:58:02"
+      },
+      {
+        "rank": 2,
+        "code": "300677.SZ",
+        "name": "英科医疗",
+        "score": 87.99,
+        "industry": "医疗保健",
+        "_original_date": "2026-08-29 23:58:02"
+      },
+      {
+        "rank": 3,
+        "code": "300601.SZ",
+        "name": "康泰生物",
+        "score": 87.3,
+        "industry": "生物制药",
+        "_original_date": "2026-08-29 23:58:02"
+      },
+      {
+        "rank": 4,
+        "code": "688425.SH",
+        "name": "铁建重工",
+        "score": 87.02,
+        "industry": "工程机械",
+        "_original_date": "2026-08-29 23:58:02"
+      },
+      {
+        "rank": 5,
+        "code": "600801.SH",
+        "name": "华新建材",
+        "score": 86.67,
+        "industry": "水泥",
+        "_original_date": "2026-08-29 23:58:02"
+      },
+      {
+        "rank": 6,
+        "code": "688220.SH",
+        "name": "翱捷科技",
+        "score": 85.69,
+        "industry": "半导体",
+        "_original_date": "2026-08-29 23:58:02"
+      },
+      {
+        "rank": 7,
+        "code": "600655.SH",
+        "name": "豫园股份",
+        "score": 85.68,
+        "industry": "百货",
+        "_original_date": "2026-08-29 23:58:02"
+      },
+      {
+        "rank": 8,
+        "code": "000997.SZ",
+        "name": "新大陆",
+        "score": 85.22,
+        "industry": "IT设备",
+        "_original_date": "2026-08-29 23:58:02"
+      },
+      {
+        "rank": 9,
+        "code": "002439.SZ",
+        "name": "启明星辰",
+        "score": 84.99,
+        "industry": "软件服务",
+        "_original_date": "2026-08-29 23:58:02"
+      },
+      {
+        "rank": 10,
+        "code": "600688.SH",
+        "name": "上海石化",
+        "score": 84.98,
+        "industry": "石油加工",
+        "_original_date": "2026-08-29 23:58:02"
+      }
+    ],
     "2026-08-28": [
       {
         "rank": 1,
@@ -1374,7 +1620,7 @@
         "name": "华润双鹤",
         "score": 96.81,
         "industry": "化学制药",
-        "_original_date": "2026-08-28 10:45:42"
+        "_original_date": "2026-08-28 19:00:43"
       },
       {
         "rank": 2,
@@ -1382,7 +1628,7 @@
         "name": "海信视像",
         "score": 90.5,
         "industry": "家用电器",
-        "_original_date": "2026-08-28 10:45:42"
+        "_original_date": "2026-08-28 19:00:43"
       },
       {
         "rank": 3,
@@ -1390,7 +1636,7 @@
         "name": "新凤鸣",
         "score": 90.48,
         "industry": "化纤",
-        "_original_date": "2026-08-28 10:45:42"
+        "_original_date": "2026-08-28 19:00:43"
       },
       {
         "rank": 4,
@@ -1398,7 +1644,7 @@
         "name": "华新建材",
         "score": 89.52,
         "industry": "水泥",
-        "_original_date": "2026-08-28 10:45:42"
+        "_original_date": "2026-08-28 19:00:43"
       },
       {
         "rank": 5,
@@ -1406,7 +1652,7 @@
         "name": "中谷物流",
         "score": 88.91,
         "industry": "水运",
-        "_original_date": "2026-08-28 10:45:42"
+        "_original_date": "2026-08-28 19:00:43"
       },
       {
         "rank": 6,
@@ -1414,7 +1660,7 @@
         "name": "健帆生物",
         "score": 88.86,
         "industry": "医疗保健",
-        "_original_date": "2026-08-28 10:45:42"
+        "_original_date": "2026-08-28 19:00:43"
       },
       {
         "rank": 7,
@@ -1422,7 +1668,7 @@
         "name": "贝泰妮",
         "score": 87.65,
         "industry": "日用化工",
-        "_original_date": "2026-08-28 10:45:42"
+        "_original_date": "2026-08-28 19:00:43"
       },
       {
         "rank": 8,
@@ -1430,7 +1676,7 @@
         "name": "桐昆股份",
         "score": 86.65,
         "industry": "化纤",
-        "_original_date": "2026-08-28 10:45:42"
+        "_original_date": "2026-08-28 19:00:43"
       },
       {
         "rank": 9,
@@ -1438,7 +1684,7 @@
         "name": "鱼跃医疗",
         "score": 86.53,
         "industry": "医疗保健",
-        "_original_date": "2026-08-28 10:45:42"
+        "_original_date": "2026-08-28 19:00:43"
       },
       {
         "rank": 10,
@@ -1446,7 +1692,7 @@
         "name": "中南传媒",
         "score": 86.36,
         "industry": "出版业",
-        "_original_date": "2026-08-28 10:45:42"
+        "_original_date": "2026-08-28 19:00:43"
       }
     ],
     "2026-08-27": [
@@ -3498,311 +3744,147 @@
         "industry": "通信设备",
         "_original_date": "2026-07-28 09:57:42"
       }
-    ],
-    "2026-07-26": [
-      {
-        "rank": 1,
-        "code": "300759.SZ",
-        "name": "康龙化成",
-        "score": 98.91,
-        "industry": "化学制药",
-        "_original_date": "2026-07-26 18:26:18"
-      },
-      {
-        "rank": 2,
-        "code": "600363.SH",
-        "name": "联创光电",
-        "score": 96.01,
-        "industry": "元器件",
-        "_original_date": "2026-07-26 18:26:18"
-      },
-      {
-        "rank": 3,
-        "code": "000967.SZ",
-        "name": "盈峰环境",
-        "score": 95.55,
-        "industry": "环境保护",
-        "_original_date": "2026-07-26 18:26:18"
-      },
-      {
-        "rank": 4,
-        "code": "601577.SH",
-        "name": "长沙银行",
-        "score": 93.79,
-        "industry": "银行",
-        "_original_date": "2026-07-26 18:26:18"
-      },
-      {
-        "rank": 5,
-        "code": "000937.SZ",
-        "name": "冀中能源",
-        "score": 93.13,
-        "industry": "煤炭开采",
-        "_original_date": "2026-07-26 18:26:18"
-      },
-      {
-        "rank": 6,
-        "code": "601598.SH",
-        "name": "中国外运",
-        "score": 92.96,
-        "industry": "仓储物流",
-        "_original_date": "2026-07-26 18:26:18"
-      },
-      {
-        "rank": 7,
-        "code": "603228.SH",
-        "name": "景旺电子",
-        "score": 92.01,
-        "industry": "元器件",
-        "_original_date": "2026-07-26 18:26:18"
-      },
-      {
-        "rank": 8,
-        "code": "003031.SZ",
-        "name": "中瓷电子",
-        "score": 89.43,
-        "industry": "元器件",
-        "_original_date": "2026-07-26 18:26:18"
-      },
-      {
-        "rank": 9,
-        "code": "300395.SZ",
-        "name": "菲利华",
-        "score": 89.3,
-        "industry": "玻璃",
-        "_original_date": "2026-07-26 18:26:18"
-      },
-      {
-        "rank": 10,
-        "code": "601139.SH",
-        "name": "深圳燃气",
-        "score": 86.88,
-        "industry": "供气供热",
-        "_original_date": "2026-07-26 18:26:18"
-      }
-    ],
-    "2026-07-25": [
-      {
-        "rank": 1,
-        "code": "300058.SZ",
-        "name": "蓝色光标",
-        "score": 87.32,
-        "industry": "广告包装",
-        "_original_date": "2026-07-25 16:45:23"
-      },
-      {
-        "rank": 2,
-        "code": "601318.SH",
-        "name": "中国平安",
-        "score": 85.56,
-        "industry": "保险",
-        "_original_date": "2026-07-25 16:45:23"
-      },
-      {
-        "rank": 3,
-        "code": "301536.SZ",
-        "name": "星宸科技",
-        "score": 85.29,
-        "industry": "半导体",
-        "_original_date": "2026-07-25 16:45:23"
-      },
-      {
-        "rank": 4,
-        "code": "600988.SH",
-        "name": "赤峰黄金",
-        "score": 84.51,
-        "industry": "黄金",
-        "_original_date": "2026-07-25 16:45:23"
-      },
-      {
-        "rank": 5,
-        "code": "688525.SH",
-        "name": "佰维存储",
-        "score": 84.5,
-        "industry": "半导体",
-        "_original_date": "2026-07-25 16:45:23"
-      },
-      {
-        "rank": 6,
-        "code": "300502.SZ",
-        "name": "新易盛",
-        "score": 83.46,
-        "industry": "通信设备",
-        "_original_date": "2026-07-25 16:45:23"
-      },
-      {
-        "rank": 7,
-        "code": "002156.SZ",
-        "name": "通富微电",
-        "score": 83.31,
-        "industry": "半导体",
-        "_original_date": "2026-07-25 16:45:23"
-      },
-      {
-        "rank": 8,
-        "code": "600655.SH",
-        "name": "豫园股份",
-        "score": 82.9,
-        "industry": "百货",
-        "_original_date": "2026-07-25 16:45:23"
-      },
-      {
-        "rank": 9,
-        "code": "300394.SZ",
-        "name": "天孚通信",
-        "score": 82.55,
-        "industry": "通信设备",
-        "_original_date": "2026-07-25 16:45:23"
-      },
-      {
-        "rank": 10,
-        "code": "001389.SZ",
-        "name": "广合科技",
-        "score": 82.45,
-        "industry": "元器件",
-        "_original_date": "2026-07-25 16:45:23"
-      }
-    ],
-    "2026-07-23": [
-      {
-        "rank": 1,
-        "code": "603529.SH",
-        "name": "爱玛科技",
-        "score": 1835.55,
-        "industry": "摩托车",
-        "_original_date": "2026-07-23 00:07:24"
-      },
-      {
-        "rank": 2,
-        "code": "600970.SH",
-        "name": "中材国际",
-        "score": 1147.52,
-        "industry": "建筑工程",
-        "_original_date": "2026-07-23 00:07:24"
-      },
-      {
-        "rank": 3,
-        "code": "002244.SZ",
-        "name": "滨江集团",
-        "score": 282.68,
-        "industry": "区域地产",
-        "_original_date": "2026-07-23 00:07:24"
-      },
-      {
-        "rank": 4,
-        "code": "300433.SZ",
-        "name": "蓝思科技",
-        "score": 174.39,
-        "industry": "元器件",
-        "_original_date": "2026-07-23 00:07:24"
-      },
-      {
-        "rank": 5,
-        "code": "600528.SH",
-        "name": "中铁工业",
-        "score": 158.51,
-        "industry": "运输设备",
-        "_original_date": "2026-07-23 00:07:24"
-      },
-      {
-        "rank": 6,
-        "code": "688777.SH",
-        "name": "中控技术",
-        "score": 144.6,
-        "industry": "专用机械",
-        "_original_date": "2026-07-23 00:07:24"
-      },
-      {
-        "rank": 7,
-        "code": "300017.SZ",
-        "name": "网宿科技",
-        "score": 143.48,
-        "industry": "软件服务",
-        "_original_date": "2026-07-23 00:07:24"
-      },
-      {
-        "rank": 8,
-        "code": "002837.SZ",
-        "name": "英维克",
-        "score": 137.56,
-        "industry": "专用机械",
-        "_original_date": "2026-07-23 00:07:24"
-      },
-      {
-        "rank": 9,
-        "code": "603156.SH",
-        "name": "养元饮品",
-        "score": 134.05,
-        "industry": "软饮料",
-        "_original_date": "2026-07-23 00:07:24"
-      },
-      {
-        "rank": 10,
-        "code": "000426.SZ",
-        "name": "兴业银锡",
-        "score": 121.57,
-        "industry": "铅锌",
-        "_original_date": "2026-07-23 00:07:24"
-      }
     ]
   },
   "elephant": {
-    "2026-08-28": [
+    "2026-08-31": [
       {
         "rank": 1,
-        "code": "002738.SZ",
-        "name": "中矿资源",
+        "code": "300433.SZ",
+        "name": "蓝思科技",
         "score": 100.0,
-        "industry": "小金属",
-        "_original_date": "2026-08-28 10:42:55"
+        "industry": "元器件",
+        "_original_date": "2026-08-31 10:06:45"
       },
       {
         "rank": 2,
-        "code": "600655.SH",
-        "name": "豫园股份",
-        "score": 99.8,
-        "industry": "百货",
-        "_original_date": "2026-08-28 10:42:55"
+        "code": "688498.SH",
+        "name": "源杰科技",
+        "score": 99.81,
+        "industry": "半导体",
+        "_original_date": "2026-08-31 10:06:45"
       },
       {
         "rank": 3,
-        "code": "300394.SZ",
-        "name": "天孚通信",
-        "score": 99.6,
-        "industry": "通信设备",
-        "_original_date": "2026-08-28 10:42:55"
+        "code": "301550.SZ",
+        "name": "斯菱智驱",
+        "score": 99.63,
+        "industry": "汽车配件",
+        "_original_date": "2026-08-31 10:06:45"
       },
       {
         "rank": 4,
-        "code": "600177.SH",
-        "name": "雅戈尔",
-        "score": 99.4,
-        "industry": "服饰",
-        "_original_date": "2026-08-28 10:42:55"
+        "code": "300628.SZ",
+        "name": "亿联网络",
+        "score": 99.44,
+        "industry": "通信设备",
+        "_original_date": "2026-08-31 10:06:45"
       },
       {
         "rank": 5,
-        "code": "600038.SH",
-        "name": "中直股份",
-        "score": 99.2,
-        "industry": "航空",
-        "_original_date": "2026-08-28 10:42:55"
+        "code": "002405.SZ",
+        "name": "四维图新",
+        "score": 99.25,
+        "industry": "软件服务",
+        "_original_date": "2026-08-31 10:06:45"
       },
       {
         "rank": 6,
-        "code": "603650.SH",
-        "name": "彤程新材",
-        "score": 99.0,
-        "industry": "化工原料",
-        "_original_date": "2026-08-28 10:42:55"
+        "code": "300661.SZ",
+        "name": "圣邦股份",
+        "score": 99.07,
+        "industry": "半导体",
+        "_original_date": "2026-08-31 10:06:45"
       },
       {
         "rank": 7,
-        "code": "002648.SZ",
-        "name": "卫星化学",
-        "score": 98.8,
+        "code": "300012.SZ",
+        "name": "华测检测",
+        "score": 98.88,
+        "industry": "电器仪表",
+        "_original_date": "2026-08-31 10:06:45"
+      },
+      {
+        "rank": 8,
+        "code": "600711.SH",
+        "name": "盛屯矿业",
+        "score": 98.69,
+        "industry": "小金属",
+        "_original_date": "2026-08-31 10:06:45"
+      },
+      {
+        "rank": 9,
+        "code": "002244.SZ",
+        "name": "滨江集团",
+        "score": 98.51,
+        "industry": "区域地产",
+        "_original_date": "2026-08-31 10:06:45"
+      },
+      {
+        "rank": 10,
+        "code": "603650.SH",
+        "name": "彤程新材",
+        "score": 98.32,
         "industry": "化工原料",
-        "_original_date": "2026-08-28 10:42:55"
+        "_original_date": "2026-08-31 10:06:45"
+      }
+    ],
+    "2026-08-28": [
+      {
+        "rank": 1,
+        "code": "300433.SZ",
+        "name": "蓝思科技",
+        "score": 100.0,
+        "industry": "元器件",
+        "_original_date": "2026-08-28 23:25:32"
+      },
+      {
+        "rank": 2,
+        "code": "603650.SH",
+        "name": "彤程新材",
+        "score": 99.8,
+        "industry": "化工原料",
+        "_original_date": "2026-08-28 23:25:32"
+      },
+      {
+        "rank": 3,
+        "code": "301550.SZ",
+        "name": "斯菱智驱",
+        "score": 99.6,
+        "industry": "汽车配件",
+        "_original_date": "2026-08-28 23:25:32"
+      },
+      {
+        "rank": 4,
+        "code": "600221.SH",
+        "name": "海航控股",
+        "score": 99.4,
+        "industry": "空运",
+        "_original_date": "2026-08-28 23:25:32"
+      },
+      {
+        "rank": 5,
+        "code": "002244.SZ",
+        "name": "滨江集团",
+        "score": 99.2,
+        "industry": "区域地产",
+        "_original_date": "2026-08-28 23:25:32"
+      },
+      {
+        "rank": 6,
+        "code": "002405.SZ",
+        "name": "四维图新",
+        "score": 99.0,
+        "industry": "软件服务",
+        "_original_date": "2026-08-28 23:25:32"
+      },
+      {
+        "rank": 7,
+        "code": "600177.SH",
+        "name": "雅戈尔",
+        "score": 98.8,
+        "industry": "服饰",
+        "_original_date": "2026-08-28 23:25:32"
       },
       {
         "rank": 8,
@@ -3810,23 +3892,23 @@
         "name": "华测检测",
         "score": 98.6,
         "industry": "电器仪表",
-        "_original_date": "2026-08-28 10:42:55"
+        "_original_date": "2026-08-28 23:25:32"
       },
       {
         "rank": 9,
-        "code": "002405.SZ",
-        "name": "四维图新",
+        "code": "000887.SZ",
+        "name": "中鼎股份",
         "score": 98.4,
-        "industry": "软件服务",
-        "_original_date": "2026-08-28 10:42:55"
+        "industry": "汽车配件",
+        "_original_date": "2026-08-28 23:25:32"
       },
       {
         "rank": 10,
-        "code": "688469.SH",
-        "name": "芯联集成",
+        "code": "300142.SZ",
+        "name": "沃森生物",
         "score": 98.2,
-        "industry": "半导体",
-        "_original_date": "2026-08-28 10:42:55"
+        "industry": "生物制药",
+        "_original_date": "2026-08-28 23:25:32"
       }
     ],
     "2026-08-27": [
@@ -6042,88 +6124,6 @@
         "industry": "基础化工",
         "_original_date": "2026-07-24 15:30:00"
       }
-    ],
-    "2026-07-23": [
-      {
-        "rank": 1,
-        "code": "300759.SZ",
-        "name": "康龙化成",
-        "score": 100.0,
-        "industry": "医药生物",
-        "_original_date": "2026-07-23 15:30:00"
-      },
-      {
-        "rank": 2,
-        "code": "000661.SZ",
-        "name": "长春高新",
-        "score": 99.8,
-        "industry": "医药生物",
-        "_original_date": "2026-07-23 15:30:00"
-      },
-      {
-        "rank": 3,
-        "code": "300454.SZ",
-        "name": "深信服",
-        "score": 99.6,
-        "industry": "计算机",
-        "_original_date": "2026-07-23 15:30:00"
-      },
-      {
-        "rank": 4,
-        "code": "603501.SH",
-        "name": "豪威集团",
-        "score": 99.4,
-        "industry": "电子",
-        "_original_date": "2026-07-23 15:30:00"
-      },
-      {
-        "rank": 5,
-        "code": "600221.SH",
-        "name": "海航控股",
-        "score": 99.2,
-        "industry": "交通运输",
-        "_original_date": "2026-07-23 15:30:00"
-      },
-      {
-        "rank": 6,
-        "code": "600436.SH",
-        "name": "片仔癀",
-        "score": 99.0,
-        "industry": "医药生物",
-        "_original_date": "2026-07-23 15:30:00"
-      },
-      {
-        "rank": 7,
-        "code": "002714.SZ",
-        "name": "牧原股份",
-        "score": 98.8,
-        "industry": "农林牧渔",
-        "_original_date": "2026-07-23 15:30:00"
-      },
-      {
-        "rank": 8,
-        "code": "002938.SZ",
-        "name": "鹏鼎控股",
-        "score": 98.59,
-        "industry": "电子",
-        "_original_date": "2026-07-23 15:30:00"
-      },
-      {
-        "rank": 9,
-        "code": "601168.SH",
-        "name": "西部矿业",
-        "score": 98.39,
-        "industry": "有色金属",
-        "_original_date": "2026-07-23 15:30:00"
-      },
-      {
-        "rank": 10,
-        "code": "300502.SZ",
-        "name": "新易盛",
-        "score": 98.19,
-        "industry": "通信",
-        "_original_date": "2026-07-23 15:30:00"
-      }
     ]
   },
   "hunter_timestamps": {
@@ -6235,7 +6235,10 @@
     "2026-08-25": "2026-08-25 18:18:12",
     "2026-08-26": "2026-08-26 21:49:36",
     "2026-08-27": "2026-08-27 21:36:53",
-    "2026-08-28": "2026-08-28 10:45:42"
+    "2026-08-28": "2026-08-28 19:00:43",
+    "2026-08-29": "2026-08-29 23:58:02",
+    "2026-08-30": "2026-08-30 18:51:41",
+    "2026-08-31": "2026-08-31 10:14:11"
   },
   "elephant_timestamps": {
     "2026-08-21": "2026-08-21 15:30:00",
@@ -6269,7 +6272,8 @@
     "2026-08-25": "2026-08-25 21:44:04",
     "2026-08-26": "2026-08-26 13:30:59",
     "2026-08-27": "2026-08-27 10:49:47",
-    "2026-08-28": "2026-08-28 10:42:55"
+    "2026-08-28": "2026-08-28 23:25:32",
+    "2026-08-31": "2026-08-31 10:06:45"
   },
   "all_dates": [
     "2026-06-03",
@@ -6358,6 +6362,9 @@
     "2026-08-25",
     "2026-08-26",
     "2026-08-27",
-    "2026-08-28"
+    "2026-08-28",
+    "2026-08-29",
+    "2026-08-30",
+    "2026-08-31"
   ]
 }
